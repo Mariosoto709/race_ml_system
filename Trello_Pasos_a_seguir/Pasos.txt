@@ -1,0 +1,64 @@
+import pandas as pd
+
+# Lista de tareas por fase
+tasks = [
+    # Fase 1 – Junio
+    ("Fase 1 – Junio", "Elegir stack principal (Python, Node, etc.)"), (POR CONFIRMAR)
+    ("Fase 1 – Junio", "Configurar entorno de desarrollo local y/o en la nube"), (INCOMPLETO)
+    ("Fase 1 – Junio", "Crear repositorio Git y definir estructura base"),
+    ("Fase 1 – Junio", "Configurar entorno virtual o Docker"), (POR CONFIRMAR) 
+    ("Fase 1 – Junio", "Organizar carpetas para módulos: llm/, retrieval/, interface/"), (POR CONFIRMAR)
+    ("Fase 1 – Junio", "Comparar y elegir LLM (OpenAI, DeepSeek, etc.)"),
+    ("Fase 1 – Junio", "Realizar pruebas de inferencia básica con el LLM elegido"),
+    ("Fase 1 – Junio", "Crear función wrapper de inferencia (generate_response)"),
+    ("Fase 1 – Junio", "Evaluar FAISS, Weaviate, Elasticsearch"),
+    ("Fase 1 – Junio", "Indexar reglamentos o documentos de prueba"),
+    ("Fase 1 – Junio", "Probar consultas de ejemplo"),
+    ("Fase 1 – Junio", "Definir formato estándar de documentos"),
+    ("Fase 1 – Junio", "Crear servidor WebSocket de prueba"),
+    ("Fase 1 – Junio", "Generar mensajes simulando eventos de carrera"),
+    ("Fase 1 – Junio", "Diseñar formato JSON estándar para eventos"),
+    ("Fase 1 – Junio", "Crear cliente receptor para los eventos"),
+    ("Fase 1 – Junio", "Función básica de respuesta a eventos"),
+    ("Fase 1 – Junio", "Integrar LLM con flujo de eventos simulado"),
+    ("Fase 1 – Junio", "Agregar logging para outputs y errores"),
+    ("Fase 1 – Junio", "Diseñar estructura del 'estado' del agente"),
+    ("Fase 1 – Junio", "Definir estructura de JSON por tipo de interfaz"),
+    ("Fase 1 – Junio", "Crear ejemplos de prompts para interfaces"),
+    ("Fase 1 – Junio", "Implementar validación de JSONs generados"),
+    ("Fase 1 – Junio", "Simular visualización de JSONs generados"),
+    ("Fase 1 – Junio", "Definir tipos de outputs sujetos a feedback humano"),
+    ("Fase 1 – Junio", "Crear base de datos o tabla para registrar feedback"),
+    ("Fase 1 – Junio", "Establecer método para capturar feedback (thumbs up/down + comentario)"),
+    ("Fase 1 – Junio", "Documentar cómo se utilizará el feedback en siguientes fases"),
+
+    # Fase 2 – Julio
+    ("Fase 2 – Julio", "Diseñar arquitectura de RAG final para producción"),
+    ("Fase 2 – Julio", "Entrenar o ajustar embeddings con datos reales de Copernico"),
+    ("Fase 2 – Julio", "Validar integración entre RAG y WebSocket con eventos reales"),
+    ("Fase 2 – Julio", "Añadir loggers, métricas y dashboards de evaluación"),
+    ("Fase 2 – Julio", "Definir formato para retroalimentación humana estructurada"),
+
+    # Fase 3 – Agosto
+    ("Fase 3 – Agosto", "Probar con datos reales de Copernico (WebSocket + reglamentos)"),
+    ("Fase 3 – Agosto", "Validar sistema en entorno de test con usuarios simulados"),
+    ("Fase 3 – Agosto", "Afinar prompts para generación de interfaces"),
+    ("Fase 3 – Agosto", "Recoger feedback de usuarios y analizar resultados"),
+
+    # Fase 4 – Septiembre
+    ("Fase 4 – Septiembre", "Integración con hardware y cronometraje real (si se permite)"),
+    ("Fase 4 – Septiembre", "Afinar sistema con aprendizaje por refuerzo con feedback humano"),
+    ("Fase 4 – Septiembre", "Documentar resultados de pruebas y generar datos comparativos"),
+
+    # Fase 5 – Oct-Dic
+    ("Fase 5 – Oct-Dic", "Preparar versión estable del software"),
+    ("Fase 5 – Oct-Dic", "Documentar arquitectura final y decisiones técnicas"),
+    ("Fase 5 – Oct-Dic", "Test de rendimiento y estabilidad"),
+    ("Fase 5 – Oct-Dic", "Revisión de retroalimentación y mejoras finales"),
+    ("Fase 5 – Oct-Dic", "Preparar demos o presentaciones del sistema"),
+]
+
+# Crear DataFrame y guardar CSV
+df = pd.DataFrame(tasks, columns=["List", "Task"])
+df.to_csv("TFM_Copernico_Trello.csv", index=False)
+print("Archivo CSV guardado como 'TFM_Copernico_Trello.csv'")

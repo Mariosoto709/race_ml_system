@@ -1,0 +1,11 @@
+| Componente            | Herramienta                         |
+| --------------------- | ----------------------------------- |
+| Lenguaje principal    | Python 3.10+                        |
+| Framework web/API     | FastAPI                             |
+| LLM                   | OpenAI API o DeepSeek-LLM (vía API) |
+| RAG                   | LangChain + FAISS / Weaviate        |
+| WebSockets            | FastAPI WebSocket / websockets lib  |
+| Feedback storage      | PostgreSQL / SQLite (sqlmodel)      |
+| Frontend opcional     | Streamlit o JSON + Swagger UI       |
+| Contenedores          | Docker                              |
+| DevOps (si necesario) | GitHub Actions, Vercel o AWS Lambda |

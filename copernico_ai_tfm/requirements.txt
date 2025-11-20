@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+openai
+langchain
+faiss-cpu
+weaviate-client
+pydantic
+sqlmodel
+websockets
+python-dotenv

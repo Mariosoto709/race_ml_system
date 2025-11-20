@@ -1,0 +1,43 @@
+¿Qué tecnologías o arquitecturas utilizan en la empresa que podrían tener sinergia con la orquestación o el procesamiento de datos en tiempo real? ¿Como son los flujos de datos?
+
+¿Qué fuentes de datos concretas estarán disponibles para el desarrollo del sistema (reales, simuladas, API de Copérnico, bases históricas…)?
+
+¿Está disponible la documentación técnica detallada del sistema Copérnico? ¿Cómo se accede a ella (repositorio, manuales, contacto técnico…)?
+
+¿Ven potencial en adaptar un sistema como el descrito para otros contextos que manejen flujos de eventos (por ejemplo, un dashboards mostrando datos curiosos)?
+
+¿Se tendrá en cuenta nlp para las normas o se hara de forma automática finalmente?
+
+¿Qué tipos específicos de reglas deportivas se deben interpretar (por ejemplo, control de tiempos, validación de pasos por puntos, penalizaciones…)?
+
+¿Con qué frecuencia se harán las reuniones de seguimiento del proyecto: semanal, quincenal o mensual?
+
+	¿Con qué frecuencia espera la dirección recibir actualizaciones del estado del desarrollo?
+
+¿Qué perfil de usuario final se visualiza como principal consumidor del sistema o sus interfaces?
+
+Tema sueldo
+
+
+
+
+microservicios
+si trabajo en local
+
+incidencia: histórico acciones del cronometrador
+
+problemas:
+
+-trampas 
+
+datos del corredor
+
+inventario
+
+-sexo/dorsal
+-ritmos extraños
+ funcionan atomicos
+
+DETECTOR DE INCIDENCIAS
+
+preguntar al tutor sobre el reconocimiento del sexo
