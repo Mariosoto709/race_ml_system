@@ -1,0 +1,1693 @@
+[
+    {
+        "id": 31,
+        "name": "Abdezaliz",
+        "surname": "Merzougui",
+        "nationality": "es",
+        "gender": "male",
+        "birthdate": "1991-08-30",
+        "TIEMPO ESTIMADO": null,
+        "events": [
+            {
+                "event": "Mitja",
+                "dorsal": 31,
+                "chip": [
+                    31,
+                    40031
+                ],
+                "team": "",
+                "team_type": [],
+                "category": "Senior M",
+                "attributes": {},
+                "gunTime": "2025-02-16T07:31:06.000Z",
+                "gunTimeMode": "wave",
+                "gunTimeModeConfig": {
+                    "wave": "8:30"
+                },
+                "auto_category": true,
+                "auto_chip": true,
+                "status": "retired",
+                "realStatus": "running",
+                "startTime": 2560,
+                "startRawTime": 1739691068560,
+                "startNetTime": 2560,
+                "distance": 5000,
+                "leader_weight": 0,
+                "maxConsecutiveSplitsMissing": 0,
+                "splitsMissing": 0,
+                "issuesCount": {
+                    "data": 6,
+                    "times": 0
+                },
+                "splitsSeen": 2,
+                "last_split_seen": "5K",
+                "times": {
+                    "Salida": {
+                        "time": 2560,
+                        "split": "Salida",
+                        "order": 1,
+                        "raw": {
+                            "created": 1739691074435,
+                            "chip": "31",
+                            "location": "Salida",
+                            "device": "TS2P4 191",
+                            "time": "2025-02-16T07:31:08.560Z",
+                            "rewind": false,
+                            "rewindId": null,
+                            "import": false,
+                            "importId": null,
+                            "valid": true,
+                            "offset": 0,
+                            "type": 2,
+                            "originalTime": 1739691068560,
+                            "rawTime": 1739691068560,
+                            "id": 31,
+                            "times": {
+                                "official": 2560,
+                                "real": 2560,
+                                "rawTime": 1739691068560
+                            }
+                        },
+                        "distance": 0,
+                        "average": 0,
+                        "rawTime": 1739691068560,
+                        "netTime": 0,
+                        "weight": 1.9999999997439
+                    },
+                    "5K": {
+                        "time": 893790,
+                        "split": "5K",
+                        "order": 2,
+                        "raw": {
+                            "created": 1739691962714,
+                            "chip": "31",
+                            "location": "5K",
+                            "device": "TS2P8 4",
+                            "time": "2025-02-16T07:45:59.790Z",
+                            "rewind": false,
+                            "rewindId": null,
+                            "import": false,
+                            "importId": null,
+                            "valid": true,
+                            "offset": 0,
+                            "type": 2,
+                            "originalTime": 1739691959790,
+                            "rawTime": 1739691959790,
+                            "id": 31,
+                            "times": {
+                                "official": 893790,
+                                "real": 893790,
+                                "rawTime": 1739691959790
+                            }
+                        },
+                        "distance": 5000,
+                        "average": 0.17876,
+                        "rawTime": 1739691959790,
+                        "netTime": 891230,
+                        "weight": 2.9999999106209
+                    }
+                },
+                "rankings": {
+                    "5K": {
+                        "time": 893790,
+                        "net": 891230,
+                        "average": 0.17876,
+                        "averageNet": 0.17825,
+                        "location": "5K",
+                        "rawTime": 1739691959790
+                    }
+                },
+                "leader": {
+                    "time": 893790,
+                    "split": "5K",
+                    "weight": 2.9999999106209,
+                    "average": 0.17876,
+                    "rawTime": 1739691959790,
+                    "location": "5K"
+                },
+                "calculatedTimes": {},
+                "commentatorTimes": {},
+                "predictive": {},
+                "backups": {
+                    "Salida": {
+                        "time": 0,
+                        "physicalLocation": "Backup Salida",
+                        "offset": -2000
+                    }
+                },
+                "mst": [],
+                "custom-rankings": [],
+                "commentator": {
+                    "5K_name": "5K",
+                    "5K_time": 893790,
+                    "5K_pos": "@(rankings.[5K].pos)",
+                    "5K_posGen": "@(rankings.[5K].posGen)",
+                    "5K_posCat": "@(rankings.[5K].posCat)",
+                    "10K_name": null,
+                    "10K_time": null,
+                    "10K_pos": null,
+                    "10K_posGen": null,
+                    "10K_posCat": null,
+                    "15K_name": null,
+                    "15K_time": null,
+                    "15K_pos": null,
+                    "15K_posGen": null,
+                    "15K_posCat": null,
+                    "20K_name": null,
+                    "20K_time": null,
+                    "20K_pos": null,
+                    "20K_posGen": null,
+                    "20K_posCat": null,
+                    "Meta_name": null,
+                    "Meta_time": null,
+                    "Meta_pos": null,
+                    "Meta_posGen": null,
+                    "Meta_posCat": null
+                },
+                "penalties": []
+            }
+        ],
+        "importId": "aae3f350-e853-11ef-8d89-09ba8cee1a95",
+        "featured": false,
+        "user_id": 0,
+        "locations": [
+            "Backup Salida",
+            "Salida",
+            "5K"
+        ],
+        "color": "03a678",
+        "fullName": "Abdezaliz Merzougui"
+    },
+    {
+        "id": 159,
+        "name": "Floriane",
+        "surname": "Hot",
+        "nationality": "FR",
+        "gender": "female",
+        "birthdate": "1991-04-27",
+        "TIEMPO ESTIMADO": null,
+        "events": [
+            {
+                "event": "Mitja",
+                "dorsal": 159,
+                "chip": [
+                    159,
+                    40159
+                ],
+                "team": "",
+                "team_type": [],
+                "category": "Senior F",
+                "attributes": {},
+                "gunTime": "2025-02-16T07:31:06.000Z",
+                "gunTimeMode": "wave",
+                "gunTimeModeConfig": {
+                    "wave": "8:30"
+                },
+                "auto_category": true,
+                "auto_chip": true,
+                "status": "finished",
+                "realStatus": "finished",
+                "startTime": 6990,
+                "startRawTime": 1739691072990,
+                "startNetTime": 6990,
+                "distance": 21097,
+                "leader_weight": 6.999999544912,
+                "maxConsecutiveSplitsMissing": 0,
+                "splitsMissing": 0,
+                "issuesCount": {
+                    "data": 6,
+                    "times": 0
+                },
+                "splitsSeen": 6,
+                "last_split_seen": "Meta",
+                "times": {
+                    "Salida": {
+                        "time": 6990,
+                        "split": "Salida",
+                        "order": 1,
+                        "raw": {
+                            "created": 1739691076828,
+                            "chip": "159",
+                            "location": "Salida",
+                            "device": "TS2P4 191",
+                            "time": "2025-02-16T07:31:12.990Z",
+                            "rewind": false,
+                            "rewindId": null,
+                            "import": false,
+                            "importId": null,
+                            "valid": true,
+                            "offset": 0,
+                            "type": 2,
+                            "originalTime": 1739691072990,
+                            "rawTime": 1739691072990,
+                            "id": 159,
+                            "times": {
+                                "official": 6990,
+                                "real": 6990,
+                                "rawTime": 1739691072990
+                            }
+                        },
+                        "distance": 0,
+                        "average": 0,
+                        "rawTime": 1739691072990,
+                        "netTime": 0,
+                        "weight": 1.9999999993009
+                    },
+                    "5K": {
+                        "time": 1088155,
+                        "split": "5K",
+                        "order": 2,
+                        "raw": {
+                            "created": 1739692157831,
+                            "chip": "159",
+                            "location": "5K",
+                            "device": "TS2P8 4",
+                            "time": "2025-02-16T07:49:14.155Z",
+                            "rewind": false,
+                            "rewindId": null,
+                            "import": false,
+                            "importId": null,
+                            "valid": true,
+                            "offset": 0,
+                            "type": 2,
+                            "originalTime": 1739692154155,
+                            "rawTime": 1739692154155,
+                            "id": 159,
+                            "times": {
+                                "official": 1088155,
+                                "real": 1088155,
+                                "rawTime": 1739692154155
+                            }
+                        },
+                        "distance": 5000,
+                        "average": 0.21763,
+                        "rawTime": 1739692154155,
+                        "netTime": 1081165,
+                        "weight": 2.9999998911844
+                    },
+                    "10K": {
+                        "time": 2163339,
+                        "split": "10K",
+                        "order": 3,
+                        "raw": {
+                            "created": 1739693234106,
+                            "chip": "40159",
+                            "location": "10K",
+                            "device": "TS2P8 5",
+                            "time": "2025-02-16T08:07:09.339Z",
+                            "rewind": false,
+                            "rewindId": null,
+                            "import": false,
+                            "importId": null,
+                            "valid": true,
+                            "offset": 0,
+                            "type": 2,
+                            "originalTime": 1739693229339,
+                            "rawTime": 1739693229339,
+                            "id": 159,
+                            "times": {
+                                "official": 2163339,
+                                "real": 2163339,
+                                "rawTime": 1739693229339
+                            }
+                        },
+                        "distance": 10000,
+                        "average": 0.21633,
+                        "rawTime": 1739693229339,
+                        "netTime": 2156349,
+                        "weight": 3.999999783666
+                    },
+                    "15K": {
+                        "time": 3238795,
+                        "split": "15K",
+                        "order": 4,
+                        "raw": {
+                            "created": 1739694308197,
+                            "chip": "40159",
+                            "location": "15K",
+                            "device": "TS2P8 87",
+                            "time": "2025-02-16T08:25:04.795Z",
+                            "rewind": false,
+                            "rewindId": null,
+                            "import": false,
+                            "importId": null,
+                            "valid": true,
+                            "offset": 0,
+                            "type": 2,
+                            "originalTime": 1739694304795,
+                            "rawTime": 1739694304795,
+                            "id": 159,
+                            "times": {
+                                "official": 3238795,
+                                "real": 3238795,
+                                "rawTime": 1739694304795
+                            }
+                        },
+                        "distance": 15000,
+                        "average": 0.21592,
+                        "rawTime": 1739694304795,
+                        "netTime": 3231805,
+                        "weight": 4.9999996761204
+                    },
+                    "20K": {
+                        "time": 4326779,
+                        "split": "20K",
+                        "order": 5,
+                        "raw": {
+                            "created": 1739695396110,
+                            "chip": "40159",
+                            "location": "20K",
+                            "device": "TS2P8 28",
+                            "time": "2025-02-16T08:43:12.779Z",
+                            "rewind": false,
+                            "rewindId": null,
+                            "import": false,
+                            "importId": null,
+                            "valid": true,
+                            "offset": 0,
+                            "type": 2,
+                            "originalTime": 1739695392779,
+                            "rawTime": 1739695392779,
+                            "id": 159,
+                            "times": {
+                                "official": 4326779,
+                                "real": 4326779,
+                                "rawTime": 1739695392779
+                            }
+                        },
+                        "distance": 20000,
+                        "average": 0.21634,
+                        "rawTime": 1739695392779,
+                        "netTime": 4319789,
+                        "weight": 5.999999567322
+                    },
+                    "Meta": {
+                        "time": 4550879,
+                        "split": "Meta",
+                        "order": 6,
+                        "raw": {
+                            "created": 1739695620179,
+                            "chip": "40159",
+                            "location": "Meta",
+                            "device": "TS2P8 3",
+                            "time": "2025-02-16T08:46:56.879Z",
+                            "rewind": false,
+                            "rewindId": null,
+                            "import": false,
+                            "importId": null,
+                            "valid": true,
+                            "offset": 0,
+                            "type": 2,
+                            "originalTime": 1739695616879,
+                            "rawTime": 1739695616879,
+                            "id": 159,
+                            "times": {
+                                "official": 4550879,
+                                "real": 4550879,
+                                "rawTime": 1739695616879
+                            }
+                        },
+                        "distance": 21097,
+                        "originalTime": 4550879,
+                        "average": 0.21571,
+                        "rawTime": 1739695616879,
+                        "netTime": 4543889,
+                        "weight": 6.999999544912
+                    }
+                },
+                "rankings": {
+                    "5K": {
+                        "time": 1088155,
+                        "net": 1081165,
+                        "average": 0.21763,
+                        "averageNet": 0.21623,
+                        "location": "5K",
+                        "rawTime": 1739692154155
+                    },
+                    "10K": {
+                        "time": 2163339,
+                        "net": 2156349,
+                        "average": 0.21633,
+                        "averageNet": 0.21563,
+                        "location": "10K",
+                        "rawTime": 1739693229339
+                    },
+                    "15K": {
+                        "time": 3238795,
+                        "net": 3231805,
+                        "average": 0.21592,
+                        "averageNet": 0.21545,
+                        "location": "15K",
+                        "rawTime": 1739694304795
+                    },
+                    "20K": {
+                        "time": 4326779,
+                        "net": 4319789,
+                        "average": 0.21634,
+                        "averageNet": 0.21599,
+                        "location": "20K",
+                        "rawTime": 1739695392779
+                    },
+                    "Meta": {
+                        "time": 4550879,
+                        "net": 4543889,
+                        "average": 0.21571,
+                        "averageNet": 0.21538,
+                        "location": "Meta",
+                        "rawTime": 1739695616879
+                    }
+                },
+                "leader": {
+                    "time": 4550879,
+                    "split": "Meta",
+                    "weight": 6.999999544912,
+                    "average": 0.21571,
+                    "rawTime": 1739695616879,
+                    "location": "Meta"
+                },
+                "calculatedTimes": {
+                    "5K": {
+                        "official": 1088155,
+                        "net": 1081165
+                    },
+                    "10K": {
+                        "official": 2163339,
+                        "net": 2156349
+                    },
+                    "15K": {
+                        "official": 3238795,
+                        "net": 3231805
+                    },
+                    "20K": {
+                        "official": 4326779,
+                        "net": 4319789
+                    },
+                    "Meta": {
+                        "official": 4550879,
+                        "net": 4543889
+                    }
+                },
+                "commentatorTimes": {
+                    "Salida": 1739691072990,
+                    "5K": 1739692154155,
+                    "10K": 1739693229339,
+                    "15K": 1739694304795,
+                    "20K": 1739695392779,
+                    "Meta": 1739695616879
+                },
+                "predictive": {},
+                "backups": {
+                    "Salida": {
+                        "time": 0,
+                        "physicalLocation": "Backup Salida",
+                        "offset": -2000
+                    },
+                    "Meta": {
+                        "time": 4550879,
+                        "physicalLocation": "Backup Meta",
+                        "offset": 12000
+                    }
+                },
+                "mst": [],
+                "custom-rankings": [],
+                "commentator": {
+                    "5K_name": "5K",
+                    "5K_time": 1088155,
+                    "5K_pos": "@(rankings.[5K].pos)",
+                    "5K_posGen": "@(rankings.[5K].posGen)",
+                    "5K_posCat": "@(rankings.[5K].posCat)",
+                    "10K_name": "10K",
+                    "10K_time": 2163339,
+                    "10K_pos": "@(rankings.[10K].pos)",
+                    "10K_posGen": "@(rankings.[10K].posGen)",
+                    "10K_posCat": "@(rankings.[10K].posCat)",
+                    "15K_name": "15K",
+                    "15K_time": 3238795,
+                    "15K_pos": "@(rankings.[15K].pos)",
+                    "15K_posGen": "@(rankings.[15K].posGen)",
+                    "15K_posCat": "@(rankings.[15K].posCat)",
+                    "20K_name": "20K",
+                    "20K_time": 4326779,
+                    "20K_pos": "@(rankings.[20K].pos)",
+                    "20K_posGen": "@(rankings.[20K].posGen)",
+                    "20K_posCat": "@(rankings.[20K].posCat)",
+                    "Meta_name": "Meta",
+                    "Meta_time": 4550879,
+                    "Meta_pos": "@(rankings.[Meta].pos)",
+                    "Meta_posGen": "@(rankings.[Meta].posGen)",
+                    "Meta_posCat": "@(rankings.[Meta].posCat)"
+                },
+                "penalties": []
+            }
+        ],
+        "importId": "aae3f350-e853-11ef-8d89-09ba8cee1a95",
+        "featured": false,
+        "user_id": 0,
+        "locations": [
+            "Backup Salida",
+            "Salida",
+            "5K",
+            "10K",
+            "15K",
+            "20K",
+            "Backup Meta",
+            "Meta"
+        ],
+        "color": "a0d565",
+        "fullName": "Floriane Hot"
+    },
+    {
+        "id": 160,
+        "name": "Laura",
+        "surname": "Santos",
+        "nationality": "ES",
+        "gender": "female",
+        "birthdate": "1998-04-08",
+        "TIEMPO ESTIMADO": null,
+        "events": [
+            {
+                "event": "Mitja",
+                "dorsal": 160,
+                "chip": [
+                    160,
+                    40160
+                ],
+                "team": "",
+                "team_type": [],
+                "category": "Senior F",
+                "attributes": {},
+                "gunTime": "2025-02-16T07:31:06.000Z",
+                "gunTimeMode": "wave",
+                "gunTimeModeConfig": {
+                    "wave": "8:30"
+                },
+                "auto_category": true,
+                "auto_chip": true,
+                "status": "finished",
+                "realStatus": "finished",
+                "startTime": 4770,
+                "startRawTime": 1739691070770,
+                "startNetTime": 4770,
+                "distance": 21097,
+                "leader_weight": 6.9999995630429,
+                "maxConsecutiveSplitsMissing": 0,
+                "splitsMissing": 0,
+                "issuesCount": {
+                    "data": 6,
+                    "times": 0
+                },
+                "splitsSeen": 6,
+                "last_split_seen": "Meta",
+                "times": {
+                    "Salida": {
+                        "time": 4770,
+                        "split": "Salida",
+                        "order": 1,
+                        "raw": {
+                            "created": 1739691076193,
+                            "chip": "40160",
+                            "location": "Salida",
+                            "device": "TS2P4 191",
+                            "time": "2025-02-16T07:31:10.770Z",
+                            "rewind": false,
+                            "rewindId": null,
+                            "import": false,
+                            "importId": null,
+                            "valid": true,
+                            "offset": 0,
+                            "type": 2,
+                            "originalTime": 1739691070770,
+                            "rawTime": 1739691070770,
+                            "id": 160,
+                            "times": {
+                                "official": 4770,
+                                "real": 4770,
+                                "rawTime": 1739691070770
+                            }
+                        },
+                        "distance": 0,
+                        "average": 0,
+                        "rawTime": 1739691070770,
+                        "netTime": 0,
+                        "weight": 1.9999999995229
+                    },
+                    "5K": {
+                        "time": 1028604,
+                        "split": "5K",
+                        "order": 2,
+                        "raw": {
+                            "created": 1739692097832,
+                            "chip": "40160",
+                            "location": "5K",
+                            "device": "TS2P8 4",
+                            "time": "2025-02-16T07:48:14.604Z",
+                            "rewind": false,
+                            "rewindId": null,
+                            "import": false,
+                            "importId": null,
+                            "valid": true,
+                            "offset": 0,
+                            "type": 2,
+                            "originalTime": 1739692094604,
+                            "rawTime": 1739692094604,
+                            "id": 160,
+                            "times": {
+                                "official": 1028604,
+                                "real": 1028604,
+                                "rawTime": 1739692094604
+                            }
+                        },
+                        "distance": 5000,
+                        "average": 0.20572,
+                        "rawTime": 1739692094604,
+                        "netTime": 1023834,
+                        "weight": 2.9999998971395
+                    },
+                    "10K": {
+                        "time": 2047640,
+                        "split": "10K",
+                        "order": 3,
+                        "raw": {
+                            "created": 1739693117686,
+                            "chip": "40160",
+                            "location": "10K",
+                            "device": "TS2P8 5",
+                            "time": "2025-02-16T08:05:13.640Z",
+                            "rewind": false,
+                            "rewindId": null,
+                            "import": false,
+                            "importId": null,
+                            "valid": true,
+                            "offset": 0,
+                            "type": 2,
+                            "originalTime": 1739693113640,
+                            "rawTime": 1739693113640,
+                            "id": 160,
+                            "times": {
+                                "official": 2047640,
+                                "real": 2047640,
+                                "rawTime": 1739693113640
+                            }
+                        },
+                        "distance": 10000,
+                        "average": 0.20476,
+                        "rawTime": 1739693113640,
+                        "netTime": 2042870,
+                        "weight": 3.9999997952359
+                    },
+                    "15K": {
+                        "time": 3081166,
+                        "split": "15K",
+                        "order": 4,
+                        "raw": {
+                            "created": 1739694150898,
+                            "chip": "40160",
+                            "location": "15K",
+                            "device": "TS2P8 87",
+                            "time": "2025-02-16T08:22:27.166Z",
+                            "rewind": false,
+                            "rewindId": null,
+                            "import": false,
+                            "importId": null,
+                            "valid": true,
+                            "offset": 0,
+                            "type": 2,
+                            "originalTime": 1739694147166,
+                            "rawTime": 1739694147166,
+                            "id": 160,
+                            "times": {
+                                "official": 3081166,
+                                "real": 3081166,
+                                "rawTime": 1739694147166
+                            }
+                        },
+                        "distance": 15000,
+                        "average": 0.20541,
+                        "rawTime": 1739694147166,
+                        "netTime": 3076396,
+                        "weight": 4.9999996918833
+                    },
+                    "20K": {
+                        "time": 4146534,
+                        "split": "20K",
+                        "order": 5,
+                        "raw": {
+                            "created": 1739695216815,
+                            "chip": "40160",
+                            "location": "20K",
+                            "device": "TS2P8 28",
+                            "time": "2025-02-16T08:40:12.534Z",
+                            "rewind": false,
+                            "rewindId": null,
+                            "import": false,
+                            "importId": null,
+                            "valid": true,
+                            "offset": 0,
+                            "type": 2,
+                            "originalTime": 1739695212534,
+                            "rawTime": 1739695212534,
+                            "id": 160,
+                            "times": {
+                                "official": 4146534,
+                                "real": 4146534,
+                                "rawTime": 1739695212534
+                            }
+                        },
+                        "distance": 20000,
+                        "average": 0.20733,
+                        "rawTime": 1739695212534,
+                        "netTime": 4141764,
+                        "weight": 5.9999995853465
+                    },
+                    "Meta": {
+                        "time": 4369570,
+                        "split": "Meta",
+                        "order": 6,
+                        "raw": {
+                            "created": 1739695438737,
+                            "chip": "160",
+                            "location": "Meta",
+                            "device": "TS2P8 3",
+                            "time": "2025-02-16T08:43:55.570Z",
+                            "rewind": false,
+                            "rewindId": null,
+                            "import": false,
+                            "importId": null,
+                            "valid": true,
+                            "offset": 0,
+                            "type": 2,
+                            "originalTime": 1739695435570,
+                            "rawTime": 1739695435570,
+                            "id": 160,
+                            "times": {
+                                "official": 4369570,
+                                "real": 4369570,
+                                "rawTime": 1739695435570
+                            }
+                        },
+                        "distance": 21097,
+                        "originalTime": 4369570,
+                        "average": 0.20712,
+                        "rawTime": 1739695435570,
+                        "netTime": 4364800,
+                        "weight": 6.9999995630429
+                    }
+                },
+                "rankings": {
+                    "5K": {
+                        "time": 1028604,
+                        "net": 1023834,
+                        "average": 0.20572,
+                        "averageNet": 0.20477,
+                        "location": "5K",
+                        "rawTime": 1739692094604
+                    },
+                    "10K": {
+                        "time": 2047640,
+                        "net": 2042870,
+                        "average": 0.20476,
+                        "averageNet": 0.20429,
+                        "location": "10K",
+                        "rawTime": 1739693113640
+                    },
+                    "15K": {
+                        "time": 3081166,
+                        "net": 3076396,
+                        "average": 0.20541,
+                        "averageNet": 0.20509,
+                        "location": "15K",
+                        "rawTime": 1739694147166
+                    },
+                    "20K": {
+                        "time": 4146534,
+                        "net": 4141764,
+                        "average": 0.20733,
+                        "averageNet": 0.20709,
+                        "location": "20K",
+                        "rawTime": 1739695212534
+                    },
+                    "Meta": {
+                        "time": 4369570,
+                        "net": 4364800,
+                        "average": 0.20712,
+                        "averageNet": 0.20689,
+                        "location": "Meta",
+                        "rawTime": 1739695435570
+                    }
+                },
+                "leader": {
+                    "time": 4369570,
+                    "split": "Meta",
+                    "weight": 6.9999995630429,
+                    "average": 0.20712,
+                    "rawTime": 1739695435570,
+                    "location": "Meta"
+                },
+                "calculatedTimes": {
+                    "5K": {
+                        "official": 1028604,
+                        "net": 1023834
+                    },
+                    "10K": {
+                        "official": 2047640,
+                        "net": 2042870
+                    },
+                    "15K": {
+                        "official": 3081166,
+                        "net": 3076396
+                    },
+                    "20K": {
+                        "official": 4146534,
+                        "net": 4141764
+                    },
+                    "Meta": {
+                        "official": 4369570,
+                        "net": 4364800
+                    }
+                },
+                "commentatorTimes": {
+                    "Salida": 1739691070770,
+                    "5K": 1739692094604,
+                    "10K": 1739693113640,
+                    "15K": 1739694147166,
+                    "20K": 1739695212534,
+                    "Meta": 1739695435570
+                },
+                "predictive": {},
+                "backups": {
+                    "Salida": {
+                        "time": 0,
+                        "physicalLocation": "Backup Salida",
+                        "offset": -2000
+                    },
+                    "Meta": {
+                        "time": 4369570,
+                        "physicalLocation": "Backup Meta",
+                        "offset": 12000
+                    }
+                },
+                "mst": [],
+                "custom-rankings": [],
+                "commentator": {
+                    "5K_name": "5K",
+                    "5K_time": 1028604,
+                    "5K_pos": "@(rankings.[5K].pos)",
+                    "5K_posGen": "@(rankings.[5K].posGen)",
+                    "5K_posCat": "@(rankings.[5K].posCat)",
+                    "10K_name": "10K",
+                    "10K_time": 2047640,
+                    "10K_pos": "@(rankings.[10K].pos)",
+                    "10K_posGen": "@(rankings.[10K].posGen)",
+                    "10K_posCat": "@(rankings.[10K].posCat)",
+                    "15K_name": "15K",
+                    "15K_time": 3081166,
+                    "15K_pos": "@(rankings.[15K].pos)",
+                    "15K_posGen": "@(rankings.[15K].posGen)",
+                    "15K_posCat": "@(rankings.[15K].posCat)",
+                    "20K_name": "20K",
+                    "20K_time": 4146534,
+                    "20K_pos": "@(rankings.[20K].pos)",
+                    "20K_posGen": "@(rankings.[20K].posGen)",
+                    "20K_posCat": "@(rankings.[20K].posCat)",
+                    "Meta_name": "Meta",
+                    "Meta_time": 4369570,
+                    "Meta_pos": "@(rankings.[Meta].pos)",
+                    "Meta_posGen": "@(rankings.[Meta].posGen)",
+                    "Meta_posCat": "@(rankings.[Meta].posCat)"
+                },
+                "penalties": []
+            }
+        ],
+        "importId": "aae3f350-e853-11ef-8d89-09ba8cee1a95",
+        "featured": false,
+        "user_id": 0,
+        "locations": [
+            "Backup Salida",
+            "Salida",
+            "5K",
+            "10K",
+            "15K",
+            "20K",
+            "Backup Meta",
+            "Meta"
+        ],
+        "color": "ec5a75",
+        "fullName": "Laura Santos"
+    },
+    {
+        "id": 191,
+        "name": "Nicolas",
+        "surname": "Navarro",
+        "nationality": "FR",
+        "gender": "male",
+        "birthdate": "1991-03-12",
+        "TIEMPO ESTIMADO": null,
+        "events": [
+            {
+                "event": "Mitja",
+                "dorsal": 191,
+                "chip": [
+                    191,
+                    40191
+                ],
+                "team": "",
+                "team_type": [],
+                "category": "Senior M",
+                "attributes": {},
+                "gunTime": "2025-02-16T07:31:06.000Z",
+                "gunTimeMode": "wave",
+                "gunTimeModeConfig": {
+                    "wave": "8:30"
+                },
+                "auto_category": true,
+                "auto_chip": true,
+                "status": "finished",
+                "realStatus": "finished",
+                "startTime": 4644,
+                "startRawTime": 1739691070644,
+                "startNetTime": 4644,
+                "distance": 21097,
+                "leader_weight": 6.9999996146517,
+                "maxConsecutiveSplitsMissing": 0,
+                "splitsMissing": 0,
+                "issuesCount": {
+                    "data": 6,
+                    "times": 0
+                },
+                "splitsSeen": 6,
+                "last_split_seen": "Meta",
+                "times": {
+                    "Salida": {
+                        "time": 4644,
+                        "split": "Salida",
+                        "order": 1,
+                        "raw": {
+                            "created": 1739691074228,
+                            "chip": "191",
+                            "location": "Salida",
+                            "device": "TS2P4 190",
+                            "time": "2025-02-16T07:31:10.644Z",
+                            "rewind": false,
+                            "rewindId": null,
+                            "import": false,
+                            "importId": null,
+                            "valid": true,
+                            "offset": 0,
+                            "type": 2,
+                            "originalTime": 1739691070644,
+                            "rawTime": 1739691070644,
+                            "id": 191,
+                            "times": {
+                                "official": 4644,
+                                "real": 4644,
+                                "rawTime": 1739691070644
+                            }
+                        },
+                        "distance": 0,
+                        "average": 0,
+                        "rawTime": 1739691070644,
+                        "netTime": 0,
+                        "weight": 1.9999999995355
+                    },
+                    "5K": {
+                        "time": 889869,
+                        "split": "5K",
+                        "order": 2,
+                        "raw": {
+                            "created": 1739691958745,
+                            "chip": "191",
+                            "location": "5K",
+                            "device": "TS2P8 4",
+                            "time": "2025-02-16T07:45:55.869Z",
+                            "rewind": false,
+                            "rewindId": null,
+                            "import": false,
+                            "importId": null,
+                            "valid": true,
+                            "offset": 0,
+                            "type": 2,
+                            "originalTime": 1739691955869,
+                            "rawTime": 1739691955869,
+                            "id": 191,
+                            "times": {
+                                "official": 889869,
+                                "real": 889869,
+                                "rawTime": 1739691955869
+                            }
+                        },
+                        "distance": 5000,
+                        "average": 0.17797,
+                        "rawTime": 1739691955869,
+                        "netTime": 885225,
+                        "weight": 2.999999911013
+                    },
+                    "10K": {
+                        "time": 1774843,
+                        "split": "10K",
+                        "order": 3,
+                        "raw": {
+                            "created": 1739692993319,
+                            "chip": "40191",
+                            "location": "10K",
+                            "device": "TS2P8 5",
+                            "time": "2025-02-16T08:00:40.843Z",
+                            "rewind": true,
+                            "rewindId": "590f03ea-e8ba-4f6f-891e-2a2313e56936",
+                            "import": false,
+                            "importId": null,
+                            "valid": true,
+                            "offset": 0,
+                            "type": "2",
+                            "originalTime": 1739692840843,
+                            "rawTime": 1739692840843,
+                            "id": 191,
+                            "times": {
+                                "official": 1774843,
+                                "real": 1774843,
+                                "rawTime": 1739692840843
+                            }
+                        },
+                        "distance": 10000,
+                        "average": 0.17748,
+                        "rawTime": 1739692840843,
+                        "netTime": 1770199,
+                        "weight": 3.9999998225156
+                    },
+                    "15K": {
+                        "time": 2711091,
+                        "split": "15K",
+                        "order": 4,
+                        "raw": {
+                            "created": 1739693781588,
+                            "chip": "191",
+                            "location": "15K",
+                            "device": "TS2P8 87",
+                            "time": "2025-02-16T08:16:17.091Z",
+                            "rewind": false,
+                            "rewindId": null,
+                            "import": false,
+                            "importId": null,
+                            "valid": true,
+                            "offset": 0,
+                            "type": 2,
+                            "originalTime": 1739693777091,
+                            "rawTime": 1739693777091,
+                            "id": 191,
+                            "times": {
+                                "official": 2711091,
+                                "real": 2711091,
+                                "rawTime": 1739693777091
+                            }
+                        },
+                        "distance": 15000,
+                        "average": 0.18074,
+                        "rawTime": 1739693777091,
+                        "netTime": 2706447,
+                        "weight": 4.9999997288908
+                    },
+                    "20K": {
+                        "time": 3660506,
+                        "split": "20K",
+                        "order": 5,
+                        "raw": {
+                            "created": 1739694729975,
+                            "chip": "191",
+                            "location": "20K",
+                            "device": "TS2P8 28",
+                            "time": "2025-02-16T08:32:06.506Z",
+                            "rewind": false,
+                            "rewindId": null,
+                            "import": false,
+                            "importId": null,
+                            "valid": true,
+                            "offset": 0,
+                            "type": 2,
+                            "originalTime": 1739694726506,
+                            "rawTime": 1739694726506,
+                            "id": 191,
+                            "times": {
+                                "official": 3660506,
+                                "real": 3660506,
+                                "rawTime": 1739694726506
+                            }
+                        },
+                        "distance": 20000,
+                        "average": 0.18303,
+                        "rawTime": 1739694726506,
+                        "netTime": 3655862,
+                        "weight": 5.9999996339493
+                    },
+                    "Meta": {
+                        "time": 3853482,
+                        "split": "Meta",
+                        "order": 6,
+                        "raw": {
+                            "created": 1739694922974,
+                            "chip": "191",
+                            "location": "Meta",
+                            "device": "TS2P8 3",
+                            "time": "2025-02-16T08:35:19.482Z",
+                            "rewind": false,
+                            "rewindId": null,
+                            "import": false,
+                            "importId": null,
+                            "valid": true,
+                            "offset": 0,
+                            "type": 2,
+                            "originalTime": 1739694919482,
+                            "rawTime": 1739694919482,
+                            "id": 191,
+                            "times": {
+                                "official": 3853482,
+                                "real": 3853482,
+                                "rawTime": 1739694919482
+                            }
+                        },
+                        "distance": 21097,
+                        "originalTime": 3853482,
+                        "average": 0.18266,
+                        "rawTime": 1739694919482,
+                        "netTime": 3848838,
+                        "weight": 6.9999996146517
+                    }
+                },
+                "rankings": {
+                    "5K": {
+                        "time": 889869,
+                        "net": 885225,
+                        "average": 0.17797,
+                        "averageNet": 0.17705,
+                        "location": "5K",
+                        "rawTime": 1739691955869
+                    },
+                    "10K": {
+                        "time": 1774843,
+                        "net": 1770199,
+                        "average": 0.17748,
+                        "averageNet": 0.17702,
+                        "location": "10K",
+                        "rawTime": 1739692840843
+                    },
+                    "15K": {
+                        "time": 2711091,
+                        "net": 2706447,
+                        "average": 0.18074,
+                        "averageNet": 0.18043,
+                        "location": "15K",
+                        "rawTime": 1739693777091
+                    },
+                    "20K": {
+                        "time": 3660506,
+                        "net": 3655862,
+                        "average": 0.18303,
+                        "averageNet": 0.18279,
+                        "location": "20K",
+                        "rawTime": 1739694726506
+                    },
+                    "Meta": {
+                        "time": 3853482,
+                        "net": 3848838,
+                        "average": 0.18266,
+                        "averageNet": 0.18244,
+                        "location": "Meta",
+                        "rawTime": 1739694919482
+                    }
+                },
+                "leader": {
+                    "time": 3853482,
+                    "split": "Meta",
+                    "weight": 6.9999996146517,
+                    "average": 0.18266,
+                    "rawTime": 1739694919482,
+                    "location": "Meta"
+                },
+                "calculatedTimes": {
+                    "5K": {
+                        "official": 889869,
+                        "net": 885225
+                    },
+                    "10K": {
+                        "official": 1774843,
+                        "net": 1770199
+                    },
+                    "15K": {
+                        "official": 2711091,
+                        "net": 2706447
+                    },
+                    "20K": {
+                        "official": 3660506,
+                        "net": 3655862
+                    },
+                    "Meta": {
+                        "official": 3853482,
+                        "net": 3848838
+                    }
+                },
+                "commentatorTimes": {
+                    "Salida": 1739691070644,
+                    "5K": 1739691955869,
+                    "10K": 1739692840843,
+                    "15K": 1739693777091,
+                    "20K": 1739694726506,
+                    "Meta": 1739694919482
+                },
+                "predictive": {},
+                "backups": {
+                    "Salida": {
+                        "time": 0,
+                        "physicalLocation": "Backup Salida",
+                        "offset": -2000
+                    },
+                    "Meta": {
+                        "time": 3853482,
+                        "physicalLocation": "Backup Meta",
+                        "offset": 12000
+                    }
+                },
+                "mst": [],
+                "custom-rankings": [],
+                "commentator": {
+                    "5K_name": "5K",
+                    "5K_time": 889869,
+                    "5K_pos": "@(rankings.[5K].pos)",
+                    "5K_posGen": "@(rankings.[5K].posGen)",
+                    "5K_posCat": "@(rankings.[5K].posCat)",
+                    "10K_name": "10K",
+                    "10K_time": 1774843,
+                    "10K_pos": "@(rankings.[10K].pos)",
+                    "10K_posGen": "@(rankings.[10K].posGen)",
+                    "10K_posCat": "@(rankings.[10K].posCat)",
+                    "15K_name": "15K",
+                    "15K_time": 2711091,
+                    "15K_pos": "@(rankings.[15K].pos)",
+                    "15K_posGen": "@(rankings.[15K].posGen)",
+                    "15K_posCat": "@(rankings.[15K].posCat)",
+                    "20K_name": "20K",
+                    "20K_time": 3660506,
+                    "20K_pos": "@(rankings.[20K].pos)",
+                    "20K_posGen": "@(rankings.[20K].posGen)",
+                    "20K_posCat": "@(rankings.[20K].posCat)",
+                    "Meta_name": "Meta",
+                    "Meta_time": 3853482,
+                    "Meta_pos": "@(rankings.[Meta].pos)",
+                    "Meta_posGen": "@(rankings.[Meta].posGen)",
+                    "Meta_posCat": "@(rankings.[Meta].posCat)"
+                },
+                "penalties": []
+            }
+        ],
+        "importId": "aae3f350-e853-11ef-8d89-09ba8cee1a95",
+        "featured": false,
+        "user_id": 0,
+        "locations": [
+            "5K",
+            "Backup Salida",
+            "Salida",
+            "10K",
+            "15K",
+            "20K",
+            "Backup Meta",
+            "Meta"
+        ],
+        "color": "03a678",
+        "fullName": "Nicolas Navarro"
+    },
+    {
+        "id": 192,
+        "name": "Dmitrijs",
+        "surname": "Serjogins",
+        "nationality": "LE",
+        "gender": "male",
+        "birthdate": "1993-02-23",
+        "TIEMPO ESTIMADO": null,
+        "events": [
+            {
+                "event": "Mitja",
+                "dorsal": 192,
+                "chip": [
+                    192,
+                    40192
+                ],
+                "team": "",
+                "team_type": [],
+                "category": "Senior M",
+                "attributes": {},
+                "gunTime": "2025-02-16T07:31:06.000Z",
+                "gunTimeMode": "wave",
+                "gunTimeModeConfig": {
+                    "wave": "8:30"
+                },
+                "auto_category": true,
+                "auto_chip": true,
+                "status": "finished",
+                "realStatus": "finished",
+                "startTime": 5231,
+                "startRawTime": 1739691071231,
+                "startNetTime": 5231,
+                "distance": 21097,
+                "leader_weight": 6.9999996063601,
+                "maxConsecutiveSplitsMissing": 0,
+                "splitsMissing": 0,
+                "issuesCount": {
+                    "data": 6,
+                    "times": 0
+                },
+                "splitsSeen": 6,
+                "last_split_seen": "Meta",
+                "times": {
+                    "Salida": {
+                        "time": 5231,
+                        "split": "Salida",
+                        "order": 1,
+                        "raw": {
+                            "created": 1739691074963,
+                            "chip": "192",
+                            "location": "Salida",
+                            "device": "TS2P4 190",
+                            "time": "2025-02-16T07:31:11.231Z",
+                            "rewind": false,
+                            "rewindId": null,
+                            "import": false,
+                            "importId": null,
+                            "valid": true,
+                            "offset": 0,
+                            "type": 2,
+                            "originalTime": 1739691071231,
+                            "rawTime": 1739691071231,
+                            "id": 192,
+                            "times": {
+                                "official": 5231,
+                                "real": 5231,
+                                "rawTime": 1739691071231
+                            }
+                        },
+                        "distance": 0,
+                        "average": 0,
+                        "rawTime": 1739691071231,
+                        "netTime": 0,
+                        "weight": 1.9999999994768
+                    },
+                    "5K": {
+                        "time": 912990,
+                        "split": "5K",
+                        "order": 2,
+                        "raw": {
+                            "created": 1739691982403,
+                            "chip": "40192",
+                            "location": "5K",
+                            "device": "TS2P8 4",
+                            "time": "2025-02-16T07:46:18.990Z",
+                            "rewind": false,
+                            "rewindId": null,
+                            "import": false,
+                            "importId": null,
+                            "valid": true,
+                            "offset": 0,
+                            "type": 2,
+                            "originalTime": 1739691978990,
+                            "rawTime": 1739691978990,
+                            "id": 192,
+                            "times": {
+                                "official": 912990,
+                                "real": 912990,
+                                "rawTime": 1739691978990
+                            }
+                        },
+                        "distance": 5000,
+                        "average": 0.1826,
+                        "rawTime": 1739691978990,
+                        "netTime": 907759,
+                        "weight": 2.9999999087009
+                    },
+                    "10K": {
+                        "time": 1836828,
+                        "split": "10K",
+                        "order": 3,
+                        "raw": {
+                            "created": 1739692993319,
+                            "chip": "192",
+                            "location": "10K",
+                            "device": "TS2P8 5",
+                            "time": "2025-02-16T08:01:42.828Z",
+                            "rewind": true,
+                            "rewindId": "590f03ea-e8ba-4f6f-891e-2a2313e56936",
+                            "import": false,
+                            "importId": null,
+                            "valid": true,
+                            "offset": 0,
+                            "type": "2",
+                            "originalTime": 1739692902828,
+                            "rawTime": 1739692902828,
+                            "id": 192,
+                            "times": {
+                                "official": 1836828,
+                                "real": 1836828,
+                                "rawTime": 1739692902828
+                            }
+                        },
+                        "distance": 10000,
+                        "average": 0.18368,
+                        "rawTime": 1739692902828,
+                        "netTime": 1831597,
+                        "weight": 3.9999998163171
+                    },
+                    "15K": {
+                        "time": 2783040,
+                        "split": "15K",
+                        "order": 4,
+                        "raw": {
+                            "created": 1739693853992,
+                            "chip": "192",
+                            "location": "15K",
+                            "device": "TS2P8 87",
+                            "time": "2025-02-16T08:17:29.040Z",
+                            "rewind": false,
+                            "rewindId": null,
+                            "import": false,
+                            "importId": null,
+                            "valid": true,
+                            "offset": 0,
+                            "type": 2,
+                            "originalTime": 1739693849040,
+                            "rawTime": 1739693849040,
+                            "id": 192,
+                            "times": {
+                                "official": 2783040,
+                                "real": 2783040,
+                                "rawTime": 1739693849040
+                            }
+                        },
+                        "distance": 15000,
+                        "average": 0.18554,
+                        "rawTime": 1739693849040,
+                        "netTime": 2777809,
+                        "weight": 4.9999997216959
+                    },
+                    "20K": {
+                        "time": 3741872,
+                        "split": "20K",
+                        "order": 5,
+                        "raw": {
+                            "created": 1739694811395,
+                            "chip": "192",
+                            "location": "20K",
+                            "device": "TS2P8 28",
+                            "time": "2025-02-16T08:33:27.872Z",
+                            "rewind": false,
+                            "rewindId": null,
+                            "import": false,
+                            "importId": null,
+                            "valid": true,
+                            "offset": 0,
+                            "type": 2,
+                            "originalTime": 1739694807872,
+                            "rawTime": 1739694807872,
+                            "id": 192,
+                            "times": {
+                                "official": 3741872,
+                                "real": 3741872,
+                                "rawTime": 1739694807872
+                            }
+                        },
+                        "distance": 20000,
+                        "average": 0.18709,
+                        "rawTime": 1739694807872,
+                        "netTime": 3736641,
+                        "weight": 5.9999996258127
+                    },
+                    "Meta": {
+                        "time": 3936398,
+                        "split": "Meta",
+                        "order": 6,
+                        "raw": {
+                            "created": 1739695005876,
+                            "chip": "40192",
+                            "location": "Meta",
+                            "device": "TS2P8 3",
+                            "time": "2025-02-16T08:36:42.398Z",
+                            "rewind": false,
+                            "rewindId": null,
+                            "import": false,
+                            "importId": null,
+                            "valid": true,
+                            "offset": 0,
+                            "type": 2,
+                            "originalTime": 1739695002398,
+                            "rawTime": 1739695002398,
+                            "id": 192,
+                            "times": {
+                                "official": 3936398,
+                                "real": 3936398,
+                                "rawTime": 1739695002398
+                            }
+                        },
+                        "distance": 21097,
+                        "originalTime": 3936398,
+                        "average": 0.18659,
+                        "rawTime": 1739695002398,
+                        "netTime": 3931167,
+                        "weight": 6.9999996063601
+                    }
+                },
+                "rankings": {
+                    "5K": {
+                        "time": 912990,
+                        "net": 907759,
+                        "average": 0.1826,
+                        "averageNet": 0.18155,
+                        "location": "5K",
+                        "rawTime": 1739691978990
+                    },
+                    "10K": {
+                        "time": 1836828,
+                        "net": 1831597,
+                        "average": 0.18368,
+                        "averageNet": 0.18316,
+                        "location": "10K",
+                        "rawTime": 1739692902828
+                    },
+                    "15K": {
+                        "time": 2783040,
+                        "net": 2777809,
+                        "average": 0.18554,
+                        "averageNet": 0.18519,
+                        "location": "15K",
+                        "rawTime": 1739693849040
+                    },
+                    "20K": {
+                        "time": 3741872,
+                        "net": 3736641,
+                        "average": 0.18709,
+                        "averageNet": 0.18683,
+                        "location": "20K",
+                        "rawTime": 1739694807872
+                    },
+                    "Meta": {
+                        "time": 3936398,
+                        "net": 3931167,
+                        "average": 0.18659,
+                        "averageNet": 0.18634,
+                        "location": "Meta",
+                        "rawTime": 1739695002398
+                    }
+                },
+                "leader": {
+                    "time": 3936398,
+                    "split": "Meta",
+                    "weight": 6.9999996063601,
+                    "average": 0.18659,
+                    "rawTime": 1739695002398,
+                    "location": "Meta"
+                },
+                "calculatedTimes": {
+                    "5K": {
+                        "official": 912990,
+                        "net": 907759
+                    },
+                    "10K": {
+                        "official": 1836828,
+                        "net": 1831597
+                    },
+                    "15K": {
+                        "official": 2783040,
+                        "net": 2777809
+                    },
+                    "20K": {
+                        "official": 3741872,
+                        "net": 3736641
+                    },
+                    "Meta": {
+                        "official": 3936398,
+                        "net": 3931167
+                    }
+                },
+                "commentatorTimes": {
+                    "Salida": 1739691071231,
+                    "5K": 1739691978990,
+                    "10K": 1739692902828,
+                    "15K": 1739693849040,
+                    "20K": 1739694807872,
+                    "Meta": 1739695002398
+                },
+                "predictive": {},
+                "backups": {
+                    "Salida": {
+                        "time": 0,
+                        "physicalLocation": "Backup Salida",
+                        "offset": -2000
+                    },
+                    "Meta": {
+                        "time": 3936398,
+                        "physicalLocation": "Backup Meta",
+                        "offset": 12000
+                    }
+                },
+                "mst": [],
+                "custom-rankings": [],
+                "commentator": {
+                    "5K_name": "5K",
+                    "5K_time": 912990,
+                    "5K_pos": "@(rankings.[5K].pos)",
+                    "5K_posGen": "@(rankings.[5K].posGen)",
+                    "5K_posCat": "@(rankings.[5K].posCat)",
+                    "10K_name": "10K",
+                    "10K_time": 1836828,
+                    "10K_pos": "@(rankings.[10K].pos)",
+                    "10K_posGen": "@(rankings.[10K].posGen)",
+                    "10K_posCat": "@(rankings.[10K].posCat)",
+                    "15K_name": "15K",
+                    "15K_time": 2783040,
+                    "15K_pos": "@(rankings.[15K].pos)",
+                    "15K_posGen": "@(rankings.[15K].posGen)",
+                    "15K_posCat": "@(rankings.[15K].posCat)",
+                    "20K_name": "20K",
+                    "20K_time": 3741872,
+                    "20K_pos": "@(rankings.[20K].pos)",
+                    "20K_posGen": "@(rankings.[20K].posGen)",
+                    "20K_posCat": "@(rankings.[20K].posCat)",
+                    "Meta_name": "Meta",
+                    "Meta_time": 3936398,
+                    "Meta_pos": "@(rankings.[Meta].pos)",
+                    "Meta_posGen": "@(rankings.[Meta].posGen)",
+                    "Meta_posCat": "@(rankings.[Meta].posCat)"
+                },
+                "penalties": []
+            }
+        ],
+        "importId": "aae3f350-e853-11ef-8d89-09ba8cee1a95",
+        "featured": false,
+        "user_id": 0,
+        "locations": [
+            "Backup Salida",
+            "Salida",
+            "5K",
+            "10K",
+            "15K",
+            "20K",
+            "Backup Meta",
+            "Meta"
+        ],
+        "color": "6dd0ed",
+        "fullName": "Dmitrijs Serjogins"
+    }
+]
