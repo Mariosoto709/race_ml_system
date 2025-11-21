@@ -1,0 +1,342 @@
+{
+    "[]": {
+        "id": "*",
+        "type": [
+            "athleteTime",
+            "athleteSwap",
+            "changeRanking",
+            "changeStatus"
+        ],
+        "time": "*",
+        "athlete_id": [
+            "72324aec-a9d2-5c78-8f4e-abbfbdc45532",
+            "eec489f3-7754-5def-a90f-548a1badc060",
+            "45c1985c-9a4f-5dda-8a23-1f5251ffb18b",
+            "c690c665-7cf0-5934-86a1-c9703823df0b",
+            "496b08ff-62c0-5a60-849f-1a99bcfe0f9e",
+            "9b66c570-6615-5073-a4e0-761b000ecd15",
+            "1f99fe22-a93d-5198-9eb5-df83def8cefa",
+            "b51f15ba-4d25-5834-a3db-312006338847",
+            "de3710b9-8769-5cb9-b876-f6246ab48daf",
+            "d747d402-4d6f-5d59-864f-460dd76ddb28",
+            "72f3102e-e7fa-5fe6-a7ed-7bdb1c767fa2",
+            "fb67c899-4c1b-531c-b62d-8cfd18911233",
+            "0ef12dba-e013-58ab-b4ab-65a1a1a21889",
+            "15dde7fc-54de-5aa0-8a4e-464aea30342d",
+            "7909e3a5-af1e-5635-9138-2fb473120fd4",
+            "ca6a55fd-85ec-5ffd-ad6c-35253d539e84",
+            "2f96ded9-1db9-55dd-ad34-45039f6302d0",
+            "4d325944-3693-5adf-a199-43b47210f9db",
+            "9ef98b72-d122-533c-968e-394d879f3c3c",
+            "520f145f-193b-5a26-ae47-bc76d2922d86",
+            "fcd94791-504e-54e1-a735-3551abd88a4f",
+            "*",
+            "c6cfe573-25b3-5bad-887b-aa44a68b2954",
+            "341b2256-a21f-5aa5-84f0-bd5ebb7ce25d",
+            "42a0b663-f989-5fc1-8df9-f334bd3aec1d",
+            "8ad7c467-22a3-50ea-9cec-58d8895bf3de",
+            "4a6f6746-7921-5797-8d4f-6efe5fcfa4a9",
+            "42d75e05-09b0-5d12-8d8b-810ffbec93f5",
+            "f5a2a768-7849-5d3d-b582-2a21d56fa36e",
+            "d0ba969a-3070-553f-984f-e2ae61c3d4cc",
+            "f0bd29fb-b976-5958-8140-4bfce480739e",
+            "0fd24c82-284f-5ceb-984d-2b67e105686d",
+            "bafc8978-920c-5657-8419-9b9619ae6ed2",
+            "b09f286b-d893-5548-8bdc-64ba245e9604",
+            "35b3cb57-c982-559f-9b1b-4411975ea175",
+            "b5793b4a-1d90-5878-a6fd-fb87a01b443f",
+            "21ff2d4d-a5c6-552c-ae14-08a17f94db60",
+            "bb5bb51d-c2d4-5e39-aaf5-59ab46ade998"
+        ],
+        "data": {
+            "events": {
+                "[]": {
+                    "team": [
+                        "",
+                        "PALO BIKE ENTREMONT",
+                        "FLYZ MONTENEVADO",
+                        "TRACCIÓN 4X4 GO",
+                        "CAR´S TEAM",
+                        "JISCAT-NOVELEC",
+                        "XISA-MOBILTEC",
+                        "TEAM OOP! XANTEN",
+                        "TEAM KOSNER-SALTOKI HOME 7",
+                        "KH7 13",
+                        "ŠKODA RACC HOLABICI 2",
+                        "EQUIPE NATIONALE DU MAROC",
+                        "WAS25-TDM",
+                        "MOOVE FOUNDATION",
+                        "ŠKODA RACC HOLABICI 3",
+                        "AURAL CENTROS AUDITIVOS",
+                        "ACTITU OR DIE",
+                        "ŠKODA CYCLING TEAM",
+                        "CMIB",
+                        "ŠKODA WE LOVE CYCLING",
+                        "DUO MIXTO KH7 1",
+                        "*",
+                        "RAMON VILELLA",
+                        "YOU SPIRIT",
+                        "TEAM KOSNER-SALTOKI HOME 3",
+                        "TEAM KOSNER-SALTOKI HOME 5",
+                        "KH7 5",
+                        "KH7 1",
+                        "MAMBA ACADEMY",
+                        "KH7 2",
+                        "PUJOL BIKEFIT",
+                        "Team Kosner-Saltoki Home",
+                        "TITAN DEJA HUELLA",
+                        "EDIBIKES / FLECA VELLA"
+                    ],
+                    "gunTime": [
+                        "2025-05-04T07:02:44.386Z",
+                        "2025-05-06T07:02:39.702Z",
+                        "2025-05-05T07:03:18.000Z",
+                        "2025-05-01T07:01:05.071Z",
+                        "2025-05-02T11:20:00.000Z",
+                        "2025-05-02T10:42:00.000Z",
+                        "2025-05-06T07:13:05.000Z",
+                        "2025-05-02T10:42:05.000Z",
+                        "2025-05-03T07:03:10.178Z"
+                    ],
+                    "gunTimeModeConfig": {
+                        "wave": [
+                            "Salida 2 E2"
+                        ]
+                    },
+                    "team_type": {
+                        "[]": [
+                            "DUO MASCULINO / MALE DUO",
+                            "DUO FEMENINO / FEMALE DUO",
+                            "*|dict_or_list",
+                            "DUO MIXTO / MIXED DUO"
+                        ]
+                    },
+                    "category": [
+                        "DUO MASCULINO",
+                        "MASTER 50",
+                        "FEMALE DUO",
+                        "MASTER 40",
+                        "FEMINA ELITE",
+                        "DUO MIXTO / MIXED DUO",
+                        "MALE DUO",
+                        "SUB25",
+                        "ELITE",
+                        "MASTER 60",
+                        "MIXED DUO",
+                        "FEMINA MASTER",
+                        "DUO MASCULINO / MALE DUO",
+                        "DUO FEMENINO / FEMALE DUO"
+                    ],
+                    "chip": {
+                        "[]": [
+                            131,
+                            "35082",
+                            "35085",
+                            137,
+                            9,
+                            "35079",
+                            "299",
+                            462,
+                            82,
+                            "35090",
+                            "35092",
+                            "35081",
+                            "182",
+                            "35078",
+                            "35084",
+                            "35080",
+                            "35083",
+                            "113",
+                            "35091",
+                            "327",
+                            63
+                        ]
+                    },
+                    "status": [
+                        "retired"
+                    ],
+                    "auto_chip": [
+                        false
+                    ],
+                    "attributes": {
+                        "ADVENTURE": [
+                            "ADVENTURE"
+                        ]
+                    },
+                    "times": {
+                        "Meta": {
+                            "time": [
+                                232450,
+                                15819011,
+                                12530189,
+                                12530190,
+                                14105999,
+                                14070800,
+                                22130461,
+                                22600098,
+                                13649701,
+                                23298598,
+                                11962157,
+                                15819062,
+                                15819063,
+                                15819064,
+                                15819065,
+                                15819066,
+                                14069563,
+                                15803066,
+                                11963195,
+                                14069564,
+                                14069565,
+                                14718400,
+                                13074111,
+                                13074112,
+                                13074113,
+                                13074115,
+                                12321477,
+                                12321478,
+                                12321479,
+                                13074120,
+                                7941447,
+                                13074116,
+                                13074121,
+                                13965000,
+                                11962192,
+                                11962193,
+                                11962194,
+                                11962195,
+                                7863919,
+                                15846901,
+                                11370493,
+                                11370494,
+                                11692671
+                            ]
+                        },
+                        "Salida": {
+                            "time": [
+                                6000
+                            ]
+                        },
+                        "CP4": {
+                            "time": [
+                                11064004
+                            ]
+                        },
+                        "EH2": {
+                            "time": [
+                                6621000
+                            ]
+                        },
+                        "CP3": {
+                            "time": [
+                                14798050,
+                                14968010,
+                                14852350
+                            ]
+                        }
+                    }
+                }
+            },
+            "birthdate": [
+                "1999-10-26",
+                "2002-08-12",
+                "*",
+                "1973-06-14",
+                "1979-03-24",
+                "1979-05-17",
+                "1969-09-06",
+                "1977-09-07"
+            ],
+            "club": [
+                "",
+                "DUO MIXTO KH7 1",
+                "*",
+                "PALO BIKE ENTREMONT",
+                "CAR´S TEAM",
+                "JISCAT-NOVELEC",
+                "XISA-MOBILTEC",
+                "TEAM KOSNER-SALTOKI HOME 7",
+                "RAMON VILELLA",
+                "YOU SPIRIT",
+                "ŠKODA RACC HOLABICI 2",
+                "TEAM KOSNER-SALTOKI HOME 3",
+                "CMIB",
+                "KH7 13",
+                "TEAM KOSNER-SALTOKI HOME 5",
+                "KH7 5",
+                "KH7 1",
+                "MAMBA ACADEMY",
+                "EQUIPE NATIONALE DU MAROC",
+                "KH7 2",
+                "WAS25-TDM",
+                "ŠKODA RACC HOLABICI 3",
+                "MOOVE FOUNDATION",
+                "AURAL CENTROS AUDITIVOS",
+                "ACTITU OR DIE",
+                "PUJOL BIKEFIT",
+                "ŠKODA CYCLING TEAM",
+                "ŠKODA WE LOVE CYCLING",
+                "TITAN DEJA HUELLA",
+                "Team Kosner-Saltoki Home",
+                "EDIBIKES / FLECA VELLA"
+            ],
+            "nationality": [
+                "ITA",
+                "CZE",
+                "BEL",
+                "AND",
+                "COL",
+                "CHI",
+                "USA",
+                "DEN",
+                "CRC",
+                "ARG",
+                "PER",
+                "SWE",
+                "ROU",
+                "NED",
+                "RUS",
+                "GBR",
+                "HUN",
+                "SUI",
+                "MAR",
+                "POR",
+                "GER",
+                "ESP",
+                "POL",
+                "FRA"
+            ],
+            "gender": [
+                "female",
+                "male",
+                "mixed"
+            ],
+            "name": [
+                "FRANCISCO VAQUERO - ",
+                "TUNGUI",
+                "MOHAMMED",
+                "MISHA"
+            ],
+            "surname": [
+                "AIT ELATTAR",
+                "OSCAR PERALES"
+            ]
+        },
+        "collection": [
+            "times",
+            "athlete"
+        ],
+        "event": [
+            "Stage 3",
+            "Stage 2",
+            "General Ranking",
+            "Stage 1",
+            "*|dict_or_list",
+            "Stage 6",
+            "Stage 4",
+            "Stage 5"
+        ],
+        "priority": [
+            1
+        ]
+    }
+}
