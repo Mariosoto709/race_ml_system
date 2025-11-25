@@ -1,0 +1,13 @@
+DF,Columna,Tipo_antes,Tipo_despues
+athletes_df,birthdate,object,datetime64[ns]
+athletes_events_df,gunTime,object,"datetime64[ns, UTC]"
+athletes_events_df,startRawTime,float64,datetime64[ns]
+athletes_events_df,startNetTime_td,N/A,timedelta64[ns]
+athletes_events_df,startTime_td,N/A,timedelta64[ns]
+athletes_time_df,rawTime,int64,datetime64[ns]
+athletes_time_df,netTime_td,N/A,timedelta64[ns]
+athletes_time_df,time_td,N/A,timedelta64[ns]
+issues_df,time,int64,datetime64[ns]
+issues_data_df,data_birthdate,object,datetime64[ns]
+issues_events_df,data_events_gunTime,object,"datetime64[ns, UTC]"
+issues_times_df,time_td,N/A,timedelta64[ns]

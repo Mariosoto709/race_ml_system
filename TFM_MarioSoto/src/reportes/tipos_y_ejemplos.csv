@@ -1,0 +1,117 @@
+DF,Columna,Tipo,Ejemplo
+athletes_df,athlete_id,object,31
+athletes_df,birthdate,datetime64[ns],1991-08-30 00:00:00
+athletes_df,club,object,ASOCIACION ATLETICA TORRIJOS
+athletes_df,gender,object,male
+athletes_df,name,object,Abdezaliz
+athletes_df,nationality,object,es
+athletes_df,race_id,object,b228b93e-2a15-4123-baf9-ca0915165c6a
+athletes_df,surname,object,Merzougui
+athletes_events_df,athlete_id,object,31
+athletes_events_df,auto_category,bool,True
+athletes_events_df,auto_chip,bool,True
+athletes_events_df,category,object,Senior M
+athletes_events_df,distance,int64,5000
+athletes_events_df,dorsal,object,31
+athletes_events_df,event_id,object,Mitja
+athletes_events_df,gunTime,"datetime64[ns, UTC]",2025-02-16 07:31:06+00:00
+athletes_events_df,gunTimeMode,object,wave
+athletes_events_df,gunTimeModeConfig_wave,object,8:30
+athletes_events_df,last_split_seen,object,5K
+athletes_events_df,race_id,object,b228b93e-2a15-4123-baf9-ca0915165c6a
+athletes_events_df,realStatus,object,running
+athletes_events_df,splitsMissing,int64,0
+athletes_events_df,splitsSeen,int64,2
+athletes_events_df,startNetTime,float64,2560.0
+athletes_events_df,startRawTime,datetime64[ns],2025-02-16 07:31:08.560000
+athletes_events_df,startTime,float64,2560.0
+athletes_events_df,status,object,retired
+athletes_events_df,team,object,
+athletes_events_df,event_std,object,media
+athletes_events_df,startNetTime_td,timedelta64[ns],0 days 00:00:02.560000
+athletes_events_df,startTime_td,timedelta64[ns],0 days 00:00:02.560000
+athletes_time_df,athlete_id,object,31
+athletes_time_df,average,float64,0.0
+athletes_time_df,distance,int64,0
+athletes_time_df,event_id,object,Mitja
+athletes_time_df,incidence,object,True
+athletes_time_df,isBackup,object,True
+athletes_time_df,netTime,float64,0.0
+athletes_time_df,offset,float64,-2000.0
+athletes_time_df,order,int64,1
+athletes_time_df,race_id,object,b228b93e-2a15-4123-baf9-ca0915165c6a
+athletes_time_df,rawTime,datetime64[ns],2025-02-16 07:31:08.560000
+athletes_time_df,split,object,Salida
+athletes_time_df,time,int64,2560
+athletes_time_df,event_std,object,media
+athletes_time_df,netTime_td,timedelta64[ns],0 days 00:00:00
+athletes_time_df,time_td,timedelta64[ns],0 days 00:00:02.560000
+issues_df,athlete_id,object,L6554352
+issues_df,event_id,object,independiente
+issues_df,issue_id,object,af4215f0-e856-11ef-aee0-f3683f511a40
+issues_df,race_id,object,b228b93e-2a15-4123-baf9-ca0915165c6a
+issues_df,time,datetime64[ns],2025-02-11 09:00:47.695000
+issues_df,type,object,changeRanking
+issues_df,event_std,object,independiente
+issues_data_df,athlete_id,object,L6554352
+issues_data_df,data_Dorsal entregado,object,Sí
+issues_data_df,data_LICENCIA,object,TO617
+issues_data_df,data_Licencia,object,
+issues_data_df,data_MEDALLA,object,si
+issues_data_df,data_TALLA,object,L- Hombre
+issues_data_df,data_TIEMPO ESTIMADO,object,Entre 1h45 y 1h50
+issues_data_df,data_Teléfono emergencia,object,671687217
+issues_data_df,data_birthdate,datetime64[ns],1996-11-10 00:00:00
+issues_data_df,data_club,object,Independiente
+issues_data_df,data_document,object,03888423C
+issues_data_df,data_e-mail,object,GUILLERMOARRANZ@HOTMAIL.COM
+issues_data_df,data_gender,object,male
+issues_data_df,data_name,object,ALBERT
+issues_data_df,data_nationality,object,España
+issues_data_df,data_pais,object,Suiza
+issues_data_df,data_phone,object,645081156
+issues_data_df,data_statusNote,object,RT 55.10
+issues_data_df,data_surname,object,BARBERA BARTRA
+issues_data_df,event_id,object,independiente
+issues_data_df,issue_id,object,af4215f0-e856-11ef-aee0-f3683f511a40
+issues_data_df,race_id,object,b228b93e-2a15-4123-baf9-ca0915165c6a
+issues_data_df,event_std,object,independiente
+issues_events_df,athlete_id,object,L6554352
+issues_events_df,data_events_attributes_ADVENTURE,object,
+issues_events_df,data_events_attributes_D. Fisico/Intelectual,object,
+issues_events_df,data_events_attributes_Discapacitado intelectual,object,
+issues_events_df,data_events_attributes_Discapacitado visual,object,
+issues_events_df,data_events_attributes_Españoles,object,
+issues_events_df,data_events_attributes_Fed. AD Maratón,object,
+issues_events_df,data_events_attributes_Sillas,object,
+issues_events_df,data_events_auto_category,object,
+issues_events_df,data_events_auto_chip,object,
+issues_events_df,data_events_category,object,
+issues_events_df,data_events_dorsal,object,
+issues_events_df,data_events_gunTime,"datetime64[ns, UTC]",2025-02-16 07:40:00+00:00
+issues_events_df,data_events_gunTimeMode,object,
+issues_events_df,data_events_gunTimeModeConfig_wave,object,8:40
+issues_events_df,data_events_status,object,
+issues_events_df,data_events_team,object,TEAM BIKE AND BICI LLEIDA
+issues_events_df,data_events_times_10K_time,object,
+issues_events_df,data_events_times_15K_time,object,
+issues_events_df,data_events_times_19K_time,object,
+issues_events_df,data_events_times_20K_time,object,
+issues_events_df,data_events_times_5K_time,object,
+issues_events_df,data_events_times_CP3_time,object,
+issues_events_df,data_events_times_CP4_time,object,
+issues_events_df,data_events_times_EH2_time,object,
+issues_events_df,data_events_times_Meta_time,object,
+issues_events_df,data_events_times_Salida_time,object,
+issues_events_df,event_id,object,independiente
+issues_events_df,issue_id,object,af4215f0-e856-11ef-aee0-f3683f511a40
+issues_events_df,race_id,object,b228b93e-2a15-4123-baf9-ca0915165c6a
+issues_events_df,event_std,object,independiente
+issues_times_df,athlete_id,object,FB39347C
+issues_times_df,event_id,object,Mitja
+issues_times_df,issue_id,object,255c8590-ec3f-11ef-a9ce-21a37501454e
+issues_times_df,race_id,object,b228b93e-2a15-4123-baf9-ca0915165c6a
+issues_times_df,split,object,15K
+issues_times_df,time,int64,2387000
+issues_times_df,event_std,object,media
+issues_times_df,time_td,timedelta64[ns],0 days 00:39:47

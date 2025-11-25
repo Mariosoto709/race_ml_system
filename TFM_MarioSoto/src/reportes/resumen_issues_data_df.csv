@@ -1,23 +1,23 @@
 campo,tipo,ejemplo,cardinalidad,% missing,carreras,num_carreras
-athlete_id,str,L6554352,59432,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
-data_Dorsal entregado,str,Sí,3,94.06965185348042,['01675eec-4b8b-4b92-80b7-5e22a1878f38'],1
-data_LICENCIA,str,TO617,4,99.99924834777445,['01675eec-4b8b-4b92-80b7-5e22a1878f38'],1
-data_Licencia,str,,1243,88.18740944939594,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",2
-data_MEDALLA,str,si,1,99.99981208694362,['01675eec-4b8b-4b92-80b7-5e22a1878f38'],1
-data_TALLA,str,L- Hombre,15,99.99511426053394,['01675eec-4b8b-4b92-80b7-5e22a1878f38'],1
-data_TIEMPO ESTIMADO,str,Entre 1h45 y 1h50,12,99.79742972521474,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",2
-data_Teléfono emergencia,str,671687217,50,99.98910104272954,['01675eec-4b8b-4b92-80b7-5e22a1878f38'],1
-data_birthdate,Timestamp,1996-11-10 00:00:00,681,99.79555059465086,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
-data_club,str,Independiente,43,99.94325025697111,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
-data_document,str,03888423C,31500,88.125773966901,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",3
-data_e-mail,str,GUILLERMOARRANZ@HOTMAIL.COM,190,99.96410860623007,['01675eec-4b8b-4b92-80b7-5e22a1878f38'],1
-data_gender,str,male,3,99.93366669109537,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
-data_name,str,ALBERT,344,99.89251373174659,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
-data_nationality,str,España,302,72.40853801763,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
-data_pais,str,Suiza,10,99.99774504332336,['01675eec-4b8b-4b92-80b7-5e22a1878f38'],1
-data_phone,str,645081156,238,99.9549008664671,['01675eec-4b8b-4b92-80b7-5e22a1878f38'],1
-data_statusNote,str,RT 55.10,5,99.85211242462337,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",3
-data_surname,str,BARBERA BARTRA,442,99.89270164480298,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
-event_id,str,independiente,9,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
-issue_id,str,af4215f0-e856-11ef-aee0-f3683f511a40,35595,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
+athlete_id,str,L6554352,59513,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
+data_Dorsal entregado,str,Sí,3,94.13368775210513,['01675eec-4b8b-4b92-80b7-5e22a1878f38'],1
+data_LICENCIA,str,TO617,4,99.99925646411509,['01675eec-4b8b-4b92-80b7-5e22a1878f38'],1
+data_Licencia,str,,1243,88.31496180084392,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",2
+data_MEDALLA,str,si,1,99.99981411602877,['01675eec-4b8b-4b92-80b7-5e22a1878f38'],1
+data_TALLA,str,L- Hombre,15,99.99516701674814,['01675eec-4b8b-4b92-80b7-5e22a1878f38'],1
+data_TIEMPO ESTIMADO,str,Entre 1h45 y 1h50,12,99.79961707901927,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",2
+data_Teléfono emergencia,str,671687217,50,99.98921872966893,['01675eec-4b8b-4b92-80b7-5e22a1878f38'],1
+data_birthdate,str,1996-11-10,1109,99.71169396062977,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
+data_club,str,Independiente,227,99.85909994981132,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
+data_document,str,03888423C,31500,88.25399185828205,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",3
+data_e-mail,str,GUILLERMOARRANZ@HOTMAIL.COM,190,99.964496161496,['01675eec-4b8b-4b92-80b7-5e22a1878f38'],1
+data_gender,str,male,3,99.93438295815751,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
+data_name,str,ALBERT,344,99.8936743684592,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
+data_nationality,str,España,302,72.70647062103835,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
+data_pais,str,Suiza,10,99.99776939234529,['01675eec-4b8b-4b92-80b7-5e22a1878f38'],1
+data_phone,str,645081156,238,99.95538784690596,['01675eec-4b8b-4b92-80b7-5e22a1878f38'],1
+data_statusNote,str,RT 55.10,5,99.8537093146458,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",3
+data_surname,str,BARBERA BARTRA,442,99.89386025243043,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
+event_id,str,independiente,11,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
+issue_id,str,af4215f0-e856-11ef-aee0-f3683f511a40,35599,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
 race_id,str,b228b93e-2a15-4123-baf9-ca0915165c6a,4,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas

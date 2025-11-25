@@ -1,0 +1,392 @@
+DF,Race,Event,Columna,Tipo,Missing
+athletes_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,team,Outlier,0.7650587758411025
+athletes_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Marato,team,Outlier,0.0
+athletes_events_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,team,Outlier,0.0
+athletes_time_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,incidence,Vacio,1.0
+athletes_time_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,isBackup,Vacio,1.0
+athletes_time_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,isBackup,Outlier,0.9944826107395282
+athletes_time_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Marato,isBackup,Outlier,0.9970587150927243
+athletes_time_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,offset,Vacio,1.0
+athletes_time_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,offset,Outlier,0.9944826107395282
+athletes_time_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Marato,offset,Outlier,0.9970587150927243
+issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_Dorsal entregado,Vacio,1.0
+issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_Dorsal entregado,Vacio,1.0
+issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,independiente,data_Dorsal entregado,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_Dorsal entregado,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_Dorsal entregado,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_Dorsal entregado,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_Dorsal entregado,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_Dorsal entregado,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_Dorsal entregado,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_Dorsal entregado,Vacio,1.0
+issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_Dorsal entregado,Vacio,1.0
+issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,independiente,data_Dorsal entregado,Vacio,1.0
+issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_Dorsal entregado,Outlier,0.7103536257422653
+issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_LICENCIA,Vacio,1.0
+issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_LICENCIA,Vacio,1.0
+issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,independiente,data_LICENCIA,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_LICENCIA,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_LICENCIA,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_LICENCIA,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_LICENCIA,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_LICENCIA,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_LICENCIA,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_LICENCIA,Vacio,1.0
+issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_LICENCIA,Vacio,1.0
+issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,independiente,data_LICENCIA,Vacio,1.0
+issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_LICENCIA,Outlier,0.9999632882696844
+issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_Licencia,Vacio,1.0
+issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_Licencia,Vacio,1.0
+issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_Licencia,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_Licencia,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_Licencia,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_Licencia,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_Licencia,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_Licencia,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_Licencia,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_Licencia,Vacio,1.0
+issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_Licencia,Vacio,1.0
+issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,independiente,data_Licencia,Outlier,0.7402997653435568
+issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,independiente,data_Licencia,Outlier,0.7402997653435568
+issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_MEDALLA,Vacio,1.0
+issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_MEDALLA,Vacio,1.0
+issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,independiente,data_MEDALLA,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_MEDALLA,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_MEDALLA,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_MEDALLA,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_MEDALLA,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_MEDALLA,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_MEDALLA,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_MEDALLA,Vacio,1.0
+issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_MEDALLA,Vacio,1.0
+issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,independiente,data_MEDALLA,Vacio,1.0
+issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_MEDALLA,Outlier,0.9999908220674211
+issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_TALLA,Vacio,1.0
+issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_TALLA,Vacio,1.0
+issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,independiente,data_TALLA,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_TALLA,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_TALLA,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_TALLA,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_TALLA,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_TALLA,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_TALLA,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_TALLA,Vacio,1.0
+issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_TALLA,Vacio,1.0
+issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,independiente,data_TALLA,Vacio,1.0
+issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_TALLA,Outlier,0.9997613737529484
+issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_TIEMPO ESTIMADO,Vacio,1.0
+issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_TIEMPO ESTIMADO,Vacio,1.0
+issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_TIEMPO ESTIMADO,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_TIEMPO ESTIMADO,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_TIEMPO ESTIMADO,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_TIEMPO ESTIMADO,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_TIEMPO ESTIMADO,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_TIEMPO ESTIMADO,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_TIEMPO ESTIMADO,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_TIEMPO ESTIMADO,Vacio,1.0
+issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_TIEMPO ESTIMADO,Vacio,1.0
+issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,independiente,data_TIEMPO ESTIMADO,Outlier,0.9955464851108834
+issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,independiente,data_TIEMPO ESTIMADO,Outlier,0.9955464851108834
+issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_Teléfono emergencia,Vacio,1.0
+issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_Teléfono emergencia,Vacio,1.0
+issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,independiente,data_Teléfono emergencia,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_Teléfono emergencia,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_Teléfono emergencia,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_Teléfono emergencia,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_Teléfono emergencia,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_Teléfono emergencia,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_Teléfono emergencia,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_Teléfono emergencia,Vacio,1.0
+issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_Teléfono emergencia,Vacio,1.0
+issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,independiente,data_Teléfono emergencia,Vacio,1.0
+issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_Teléfono emergencia,Outlier,0.9994676799104234
+issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_birthdate,Vacio,1.0
+issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_birthdate,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_birthdate,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_birthdate,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_birthdate,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_birthdate,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_birthdate,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_birthdate,Vacio,1.0
+issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_birthdate,Vacio,1.0
+issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_club,Vacio,1.0
+issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_club,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_club,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_club,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_club,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_club,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_club,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_club,Vacio,1.0
+issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_club,Vacio,1.0
+issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_club,Outlier,0.9980542782932716
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_club,Outlier,0.9800747198007472
+issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_document,Vacio,1.0
+issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_document,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_document,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_document,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_document,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_document,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_document,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_document,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_document,Vacio,1.0
+issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_document,Vacio,1.0
+issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_document,Outlier,0.9970447057095918
+issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,independiente,data_document,Outlier,0.7402749776911128
+issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,independiente,data_document,Outlier,0.7402749776911128
+issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_e-mail,Vacio,1.0
+issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_e-mail,Vacio,1.0
+issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,independiente,data_e-mail,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_e-mail,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_e-mail,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_e-mail,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_e-mail,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_e-mail,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_e-mail,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_e-mail,Vacio,1.0
+issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_e-mail,Vacio,1.0
+issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,independiente,data_e-mail,Vacio,1.0
+issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_e-mail,Outlier,0.9982470148774287
+issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_gender,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_gender,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_gender,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_gender,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_gender,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_gender,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_gender,Vacio,1.0
+issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_gender,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_gender,Outlier,0.8866749688667497
+issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_name,Vacio,1.0
+issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_name,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_name,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_name,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_name,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_name,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_name,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_name,Vacio,1.0
+issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_name,Vacio,1.0
+issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_name,Outlier,0.9970263498444341
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_name,Outlier,0.9950186799501868
+issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_nationality,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_nationality,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_nationality,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_nationality,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_nationality,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_nationality,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_nationality,Vacio,1.0
+issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_nationality,Vacio,1.0
+issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_pais,Vacio,1.0
+issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_pais,Vacio,1.0
+issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,independiente,data_pais,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_pais,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_pais,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_pais,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_pais,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_pais,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_pais,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_pais,Vacio,1.0
+issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_pais,Vacio,1.0
+issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,independiente,data_pais,Vacio,1.0
+issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_pais,Outlier,0.9998898648090531
+issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_phone,Vacio,1.0
+issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_phone,Vacio,1.0
+issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,independiente,data_phone,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_phone,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_phone,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_phone,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_phone,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_phone,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_phone,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_phone,Vacio,1.0
+issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_phone,Vacio,1.0
+issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,independiente,data_phone,Vacio,1.0
+issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_phone,Outlier,0.9977972961810623
+issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_statusNote,Vacio,1.0
+issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_statusNote,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_statusNote,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_statusNote,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_statusNote,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_statusNote,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_statusNote,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_statusNote,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_statusNote,Vacio,1.0
+issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_statusNote,Vacio,1.0
+issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_statusNote,Outlier,0.9984305735290069
+issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,independiente,data_statusNote,Outlier,0.9974551343490763
+issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,independiente,data_statusNote,Outlier,0.9974551343490763
+issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_surname,Vacio,1.0
+issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_surname,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_surname,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_surname,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_surname,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_surname,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_surname,Vacio,1.0
+issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_surname,Vacio,1.0
+issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_surname,Vacio,1.0
+issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_surname,Outlier,0.9969988160466973
+issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_events_attributes_ADVENTURE,Vacio,1.0
+issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_events_attributes_ADVENTURE,Vacio,1.0
+issues_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_events_attributes_ADVENTURE,Vacio,1.0
+issues_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,independiente,data_events_attributes_ADVENTURE,Vacio,1.0
+issues_events_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_events_attributes_ADVENTURE,Vacio,1.0
+issues_events_df,b228b93e-2a15-4123-baf9-ca0915165c6a,independiente,data_events_attributes_ADVENTURE,Vacio,1.0
+issues_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_events_attributes_D. Fisico/Intelectual,Vacio,1.0
+issues_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,independiente,data_events_attributes_D. Fisico/Intelectual,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_events_attributes_D. Fisico/Intelectual,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_events_attributes_D. Fisico/Intelectual,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_events_attributes_D. Fisico/Intelectual,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_events_attributes_D. Fisico/Intelectual,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_events_attributes_D. Fisico/Intelectual,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_events_attributes_D. Fisico/Intelectual,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_events_attributes_D. Fisico/Intelectual,Vacio,1.0
+issues_events_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_events_attributes_D. Fisico/Intelectual,Vacio,1.0
+issues_events_df,b228b93e-2a15-4123-baf9-ca0915165c6a,independiente,data_events_attributes_D. Fisico/Intelectual,Vacio,1.0
+issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_events_attributes_D. Fisico/Intelectual,Outlier,0.0
+issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_events_attributes_D. Fisico/Intelectual,Outlier,0.0
+issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_events_attributes_Discapacitado intelectual,Vacio,1.0
+issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_events_attributes_Discapacitado intelectual,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_events_attributes_Discapacitado intelectual,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_events_attributes_Discapacitado intelectual,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_events_attributes_Discapacitado intelectual,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_events_attributes_Discapacitado intelectual,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_events_attributes_Discapacitado intelectual,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_events_attributes_Discapacitado intelectual,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_events_attributes_Discapacitado intelectual,Vacio,1.0
+issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_events_attributes_Discapacitado visual,Vacio,1.0
+issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_events_attributes_Discapacitado visual,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_events_attributes_Discapacitado visual,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_events_attributes_Discapacitado visual,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_events_attributes_Discapacitado visual,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_events_attributes_Discapacitado visual,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_events_attributes_Discapacitado visual,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_events_attributes_Discapacitado visual,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_events_attributes_Discapacitado visual,Vacio,1.0
+issues_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_events_attributes_Españoles,Vacio,1.0
+issues_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,independiente,data_events_attributes_Españoles,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_events_attributes_Españoles,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_events_attributes_Españoles,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_events_attributes_Españoles,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_events_attributes_Españoles,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_events_attributes_Españoles,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_events_attributes_Españoles,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_events_attributes_Españoles,Vacio,1.0
+issues_events_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_events_attributes_Españoles,Vacio,1.0
+issues_events_df,b228b93e-2a15-4123-baf9-ca0915165c6a,independiente,data_events_attributes_Españoles,Vacio,1.0
+issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_events_attributes_Españoles,Outlier,0.0
+issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_events_attributes_Españoles,Outlier,0.0
+issues_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_events_attributes_Fed. AD Maratón,Vacio,1.0
+issues_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,independiente,data_events_attributes_Fed. AD Maratón,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_events_attributes_Fed. AD Maratón,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_events_attributes_Fed. AD Maratón,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_events_attributes_Fed. AD Maratón,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_events_attributes_Fed. AD Maratón,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_events_attributes_Fed. AD Maratón,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_events_attributes_Fed. AD Maratón,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_events_attributes_Fed. AD Maratón,Vacio,1.0
+issues_events_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_events_attributes_Fed. AD Maratón,Vacio,1.0
+issues_events_df,b228b93e-2a15-4123-baf9-ca0915165c6a,independiente,data_events_attributes_Fed. AD Maratón,Vacio,1.0
+issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_events_attributes_Fed. AD Maratón,Outlier,0.0
+issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_events_attributes_Fed. AD Maratón,Outlier,0.0
+issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_events_attributes_Sillas,Vacio,1.0
+issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_events_attributes_Sillas,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_events_attributes_Sillas,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_events_attributes_Sillas,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_events_attributes_Sillas,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_events_attributes_Sillas,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_events_attributes_Sillas,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_events_attributes_Sillas,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_events_attributes_Sillas,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_events_auto_category,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_events_auto_category,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_events_auto_category,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_events_auto_category,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_events_auto_category,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_events_auto_category,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_events_auto_category,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_events_dorsal,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_events_dorsal,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_events_dorsal,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_events_dorsal,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_events_dorsal,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_events_dorsal,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_events_dorsal,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_events_gunTime,Vacio,1.0
+issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_events_gunTime,Outlier,0.40581701294829753
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_events_gunTime,Outlier,1.0
+issues_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_events_gunTimeMode,Vacio,1.0
+issues_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,independiente,data_events_gunTimeMode,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_events_gunTimeMode,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_events_gunTimeMode,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_events_gunTimeMode,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_events_gunTimeMode,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_events_gunTimeMode,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_events_gunTimeMode,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_events_gunTimeMode,Vacio,1.0
+issues_events_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_events_gunTimeMode,Vacio,1.0
+issues_events_df,b228b93e-2a15-4123-baf9-ca0915165c6a,independiente,data_events_gunTimeMode,Vacio,1.0
+issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_events_gunTimeMode,Outlier,0.0
+issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_events_gunTimeMode,Outlier,0.0
+issues_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_events_team,Vacio,1.0
+issues_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,independiente,data_events_team,Vacio,1.0
+issues_events_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_events_team,Vacio,1.0
+issues_events_df,b228b93e-2a15-4123-baf9-ca0915165c6a,independiente,data_events_team,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_events_times_10K_time,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_events_times_10K_time,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_events_times_10K_time,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_events_times_10K_time,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_events_times_10K_time,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_events_times_10K_time,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_events_times_10K_time,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_events_times_15K_time,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_events_times_15K_time,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_events_times_15K_time,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_events_times_15K_time,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_events_times_15K_time,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_events_times_15K_time,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_events_times_15K_time,Vacio,1.0
+issues_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_events_times_19K_time,Vacio,1.0
+issues_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,independiente,data_events_times_19K_time,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_events_times_19K_time,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_events_times_19K_time,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_events_times_19K_time,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_events_times_19K_time,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_events_times_19K_time,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_events_times_19K_time,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_events_times_19K_time,Vacio,1.0
+issues_events_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_events_times_19K_time,Vacio,1.0
+issues_events_df,b228b93e-2a15-4123-baf9-ca0915165c6a,independiente,data_events_times_19K_time,Vacio,1.0
+issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_events_times_19K_time,Outlier,0.0
+issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_events_times_19K_time,Outlier,0.0
+issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_events_times_20K_time,Vacio,1.0
+issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_events_times_20K_time,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_events_times_20K_time,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_events_times_20K_time,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_events_times_20K_time,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_events_times_20K_time,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_events_times_20K_time,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_events_times_20K_time,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_events_times_20K_time,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_events_times_5K_time,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_events_times_5K_time,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_events_times_5K_time,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_events_times_5K_time,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_events_times_5K_time,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_events_times_5K_time,Vacio,1.0
+issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_events_times_5K_time,Vacio,1.0
+issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_events_times_CP3_time,Vacio,1.0
+issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_events_times_CP3_time,Vacio,1.0
+issues_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_events_times_CP3_time,Vacio,1.0
+issues_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,independiente,data_events_times_CP3_time,Vacio,1.0
+issues_events_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_events_times_CP3_time,Vacio,1.0
+issues_events_df,b228b93e-2a15-4123-baf9-ca0915165c6a,independiente,data_events_times_CP3_time,Vacio,1.0
+issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_events_times_CP4_time,Vacio,1.0
+issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_events_times_CP4_time,Vacio,1.0
+issues_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_events_times_CP4_time,Vacio,1.0
+issues_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,independiente,data_events_times_CP4_time,Vacio,1.0
+issues_events_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_events_times_CP4_time,Vacio,1.0
+issues_events_df,b228b93e-2a15-4123-baf9-ca0915165c6a,independiente,data_events_times_CP4_time,Vacio,1.0
+issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_events_times_EH2_time,Vacio,1.0
+issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_events_times_EH2_time,Vacio,1.0
+issues_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_events_times_EH2_time,Vacio,1.0
+issues_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,independiente,data_events_times_EH2_time,Vacio,1.0
+issues_events_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_events_times_EH2_time,Vacio,1.0
+issues_events_df,b228b93e-2a15-4123-baf9-ca0915165c6a,independiente,data_events_times_EH2_time,Vacio,1.0
