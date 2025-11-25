@@ -1,69 +1,69 @@
-DF,RaceEvent,Columna,Alerta,Race,Event
-athletes_time_df,01675eec-4b8b-4b92-80b7-5e22a1878f38-Medio Maratón,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],,
-athletes_time_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-Marato,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],,
-athletes_time_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 1,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],,
-athletes_time_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 2,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],,
-athletes_time_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 3,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],,
-athletes_time_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 4,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],,
-athletes_time_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 5,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],,
-athletes_time_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 6,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],,
-athletes_time_df,b228b93e-2a15-4123-baf9-ca0915165c6a-Mitja,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],,
-issues_data_df,,,VACÍO,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón
-issues_data_df,,,VACÍO,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente
-issues_data_df,,,VACÍO,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja
-issues_data_df,,,VACÍO,49603c2f-1b2b-457f-b82e-fed8bded1d3d,independiente
-issues_data_df,,,VACÍO,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1
-issues_data_df,,,VACÍO,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2
-issues_data_df,,,VACÍO,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3
-issues_data_df,,,VACÍO,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4
-issues_data_df,,,VACÍO,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5
-issues_data_df,,,VACÍO,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6
-issues_data_df,,,VACÍO,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente
-issues_data_df,,,VACÍO,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja
-issues_data_df,,,VACÍO,b228b93e-2a15-4123-baf9-ca0915165c6a,independiente
-athletes_time_df,01675eec-4b8b-4b92-80b7-5e22a1878f38-Medio Maratón,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],,
-athletes_time_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-Marato,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],,
-athletes_time_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 1,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],,
-athletes_time_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 2,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],,
-athletes_time_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 3,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],,
-athletes_time_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 4,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],,
-athletes_time_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 5,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],,
-athletes_time_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 6,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],,
-athletes_time_df,b228b93e-2a15-4123-baf9-ca0915165c6a-Mitja,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],,
-issues_events_df,,,VACÍO,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón
-issues_events_df,,,VACÍO,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente
-issues_events_df,,,VACÍO,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja
-issues_events_df,,,VACÍO,49603c2f-1b2b-457f-b82e-fed8bded1d3d,independiente
-issues_events_df,,,VACÍO,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1
-issues_events_df,,,VACÍO,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2
-issues_events_df,,,VACÍO,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3
-issues_events_df,,,VACÍO,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4
-issues_events_df,,,VACÍO,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5
-issues_events_df,,,VACÍO,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6
-issues_events_df,,,VACÍO,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente
-issues_events_df,,,VACÍO,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja
-issues_events_df,,,VACÍO,b228b93e-2a15-4123-baf9-ca0915165c6a,independiente
-athletes_time_df,01675eec-4b8b-4b92-80b7-5e22a1878f38-Medio Maratón,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],,
-athletes_time_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-Marato,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],,
-athletes_time_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 1,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],,
-athletes_time_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 2,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],,
-athletes_time_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 3,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],,
-athletes_time_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 4,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],,
-athletes_time_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 5,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],,
-athletes_time_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 6,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],,
-athletes_time_df,b228b93e-2a15-4123-baf9-ca0915165c6a-Mitja,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],,
-issues_times_df,,split,SPLITS <2,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1
-issues_times_df,,split,SPLITS <2,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3
-issues_df,01675eec-4b8b-4b92-80b7-5e22a1878f38-Medio Maratón,time,OUTLIER TIPO {'datetime64[ns]'} vs dominante int64,,
-issues_df,01675eec-4b8b-4b92-80b7-5e22a1878f38-independiente,time,OUTLIER TIPO {'datetime64[ns]'} vs dominante int64,,
-issues_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-Mitja,time,OUTLIER TIPO {'datetime64[ns]'} vs dominante int64,,
-issues_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-independiente,time,OUTLIER TIPO {'datetime64[ns]'} vs dominante int64,,
-issues_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 1,time,OUTLIER TIPO {'datetime64[ns]'} vs dominante int64,,
-issues_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 2,time,OUTLIER TIPO {'datetime64[ns]'} vs dominante int64,,
-issues_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 3,time,OUTLIER TIPO {'datetime64[ns]'} vs dominante int64,,
-issues_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 4,time,OUTLIER TIPO {'datetime64[ns]'} vs dominante int64,,
-issues_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 5,time,OUTLIER TIPO {'datetime64[ns]'} vs dominante int64,,
-issues_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 6,time,OUTLIER TIPO {'datetime64[ns]'} vs dominante int64,,
-issues_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-independiente,time,OUTLIER TIPO {'datetime64[ns]'} vs dominante int64,,
-issues_df,b228b93e-2a15-4123-baf9-ca0915165c6a-Mitja,time,OUTLIER TIPO {'datetime64[ns]'} vs dominante int64,,
-issues_df,b228b93e-2a15-4123-baf9-ca0915165c6a-independiente,time,OUTLIER TIPO {'datetime64[ns]'} vs dominante int64,,
+DF;RaceEvent;Columna;Alerta;Race;Event
+athletes_time_df;01675eec-4b8b-4b92-80b7-5e22a1878f38-Medio Maratón;time;OUTLIER TIPO {'int64'} vs dominante datetime64[ns];;
+athletes_time_df;49603c2f-1b2b-457f-b82e-fed8bded1d3d-Marato;time;OUTLIER TIPO {'int64'} vs dominante datetime64[ns];;
+athletes_time_df;78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 1;time;OUTLIER TIPO {'int64'} vs dominante datetime64[ns];;
+athletes_time_df;78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 2;time;OUTLIER TIPO {'int64'} vs dominante datetime64[ns];;
+athletes_time_df;78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 3;time;OUTLIER TIPO {'int64'} vs dominante datetime64[ns];;
+athletes_time_df;78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 4;time;OUTLIER TIPO {'int64'} vs dominante datetime64[ns];;
+athletes_time_df;78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 5;time;OUTLIER TIPO {'int64'} vs dominante datetime64[ns];;
+athletes_time_df;78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 6;time;OUTLIER TIPO {'int64'} vs dominante datetime64[ns];;
+athletes_time_df;b228b93e-2a15-4123-baf9-ca0915165c6a-Mitja;time;OUTLIER TIPO {'int64'} vs dominante datetime64[ns];;
+issues_data_df;;;VACÍO;01675eec-4b8b-4b92-80b7-5e22a1878f38;Medio Maratón
+issues_data_df;;;VACÍO;01675eec-4b8b-4b92-80b7-5e22a1878f38;independiente
+issues_data_df;;;VACÍO;49603c2f-1b2b-457f-b82e-fed8bded1d3d;Mitja
+issues_data_df;;;VACÍO;49603c2f-1b2b-457f-b82e-fed8bded1d3d;independiente
+issues_data_df;;;VACÍO;78a14be0-36cc-4ce4-bb5a-b81744a7390e;Stage 1
+issues_data_df;;;VACÍO;78a14be0-36cc-4ce4-bb5a-b81744a7390e;Stage 2
+issues_data_df;;;VACÍO;78a14be0-36cc-4ce4-bb5a-b81744a7390e;Stage 3
+issues_data_df;;;VACÍO;78a14be0-36cc-4ce4-bb5a-b81744a7390e;Stage 4
+issues_data_df;;;VACÍO;78a14be0-36cc-4ce4-bb5a-b81744a7390e;Stage 5
+issues_data_df;;;VACÍO;78a14be0-36cc-4ce4-bb5a-b81744a7390e;Stage 6
+issues_data_df;;;VACÍO;78a14be0-36cc-4ce4-bb5a-b81744a7390e;independiente
+issues_data_df;;;VACÍO;b228b93e-2a15-4123-baf9-ca0915165c6a;Mitja
+issues_data_df;;;VACÍO;b228b93e-2a15-4123-baf9-ca0915165c6a;independiente
+athletes_time_df;01675eec-4b8b-4b92-80b7-5e22a1878f38-Medio Maratón;time;OUTLIER TIPO {'int64'} vs dominante datetime64[ns];;
+athletes_time_df;49603c2f-1b2b-457f-b82e-fed8bded1d3d-Marato;time;OUTLIER TIPO {'int64'} vs dominante datetime64[ns];;
+athletes_time_df;78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 1;time;OUTLIER TIPO {'int64'} vs dominante datetime64[ns];;
+athletes_time_df;78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 2;time;OUTLIER TIPO {'int64'} vs dominante datetime64[ns];;
+athletes_time_df;78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 3;time;OUTLIER TIPO {'int64'} vs dominante datetime64[ns];;
+athletes_time_df;78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 4;time;OUTLIER TIPO {'int64'} vs dominante datetime64[ns];;
+athletes_time_df;78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 5;time;OUTLIER TIPO {'int64'} vs dominante datetime64[ns];;
+athletes_time_df;78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 6;time;OUTLIER TIPO {'int64'} vs dominante datetime64[ns];;
+athletes_time_df;b228b93e-2a15-4123-baf9-ca0915165c6a-Mitja;time;OUTLIER TIPO {'int64'} vs dominante datetime64[ns];;
+issues_events_df;;;VACÍO;01675eec-4b8b-4b92-80b7-5e22a1878f38;Medio Maratón
+issues_events_df;;;VACÍO;01675eec-4b8b-4b92-80b7-5e22a1878f38;independiente
+issues_events_df;;;VACÍO;49603c2f-1b2b-457f-b82e-fed8bded1d3d;Mitja
+issues_events_df;;;VACÍO;49603c2f-1b2b-457f-b82e-fed8bded1d3d;independiente
+issues_events_df;;;VACÍO;78a14be0-36cc-4ce4-bb5a-b81744a7390e;Stage 1
+issues_events_df;;;VACÍO;78a14be0-36cc-4ce4-bb5a-b81744a7390e;Stage 2
+issues_events_df;;;VACÍO;78a14be0-36cc-4ce4-bb5a-b81744a7390e;Stage 3
+issues_events_df;;;VACÍO;78a14be0-36cc-4ce4-bb5a-b81744a7390e;Stage 4
+issues_events_df;;;VACÍO;78a14be0-36cc-4ce4-bb5a-b81744a7390e;Stage 5
+issues_events_df;;;VACÍO;78a14be0-36cc-4ce4-bb5a-b81744a7390e;Stage 6
+issues_events_df;;;VACÍO;78a14be0-36cc-4ce4-bb5a-b81744a7390e;independiente
+issues_events_df;;;VACÍO;b228b93e-2a15-4123-baf9-ca0915165c6a;Mitja
+issues_events_df;;;VACÍO;b228b93e-2a15-4123-baf9-ca0915165c6a;independiente
+athletes_time_df;01675eec-4b8b-4b92-80b7-5e22a1878f38-Medio Maratón;time;OUTLIER TIPO {'int64'} vs dominante datetime64[ns];;
+athletes_time_df;49603c2f-1b2b-457f-b82e-fed8bded1d3d-Marato;time;OUTLIER TIPO {'int64'} vs dominante datetime64[ns];;
+athletes_time_df;78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 1;time;OUTLIER TIPO {'int64'} vs dominante datetime64[ns];;
+athletes_time_df;78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 2;time;OUTLIER TIPO {'int64'} vs dominante datetime64[ns];;
+athletes_time_df;78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 3;time;OUTLIER TIPO {'int64'} vs dominante datetime64[ns];;
+athletes_time_df;78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 4;time;OUTLIER TIPO {'int64'} vs dominante datetime64[ns];;
+athletes_time_df;78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 5;time;OUTLIER TIPO {'int64'} vs dominante datetime64[ns];;
+athletes_time_df;78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 6;time;OUTLIER TIPO {'int64'} vs dominante datetime64[ns];;
+athletes_time_df;b228b93e-2a15-4123-baf9-ca0915165c6a-Mitja;time;OUTLIER TIPO {'int64'} vs dominante datetime64[ns];;
+issues_times_df;;split;SPLITS <2;78a14be0-36cc-4ce4-bb5a-b81744a7390e;Stage 1
+issues_times_df;;split;SPLITS <2;78a14be0-36cc-4ce4-bb5a-b81744a7390e;Stage 3
+issues_df;01675eec-4b8b-4b92-80b7-5e22a1878f38-Medio Maratón;time;OUTLIER TIPO {'datetime64[ns]'} vs dominante int64;;
+issues_df;01675eec-4b8b-4b92-80b7-5e22a1878f38-independiente;time;OUTLIER TIPO {'datetime64[ns]'} vs dominante int64;;
+issues_df;49603c2f-1b2b-457f-b82e-fed8bded1d3d-Mitja;time;OUTLIER TIPO {'datetime64[ns]'} vs dominante int64;;
+issues_df;49603c2f-1b2b-457f-b82e-fed8bded1d3d-independiente;time;OUTLIER TIPO {'datetime64[ns]'} vs dominante int64;;
+issues_df;78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 1;time;OUTLIER TIPO {'datetime64[ns]'} vs dominante int64;;
+issues_df;78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 2;time;OUTLIER TIPO {'datetime64[ns]'} vs dominante int64;;
+issues_df;78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 3;time;OUTLIER TIPO {'datetime64[ns]'} vs dominante int64;;
+issues_df;78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 4;time;OUTLIER TIPO {'datetime64[ns]'} vs dominante int64;;
+issues_df;78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 5;time;OUTLIER TIPO {'datetime64[ns]'} vs dominante int64;;
+issues_df;78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 6;time;OUTLIER TIPO {'datetime64[ns]'} vs dominante int64;;
+issues_df;78a14be0-36cc-4ce4-bb5a-b81744a7390e-independiente;time;OUTLIER TIPO {'datetime64[ns]'} vs dominante int64;;
+issues_df;b228b93e-2a15-4123-baf9-ca0915165c6a-Mitja;time;OUTLIER TIPO {'datetime64[ns]'} vs dominante int64;;
+issues_df;b228b93e-2a15-4123-baf9-ca0915165c6a-independiente;time;OUTLIER TIPO {'datetime64[ns]'} vs dominante int64;;
