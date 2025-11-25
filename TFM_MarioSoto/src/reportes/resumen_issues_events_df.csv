@@ -1,0 +1,31 @@
+campo,tipo,ejemplo,cardinalidad,% missing,carreras,num_carreras
+athlete_id,str,L6554352,59419,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
+data_events_attributes_ADVENTURE,str,,2,98.96578834938202,['78a14be0-36cc-4ce4-bb5a-b81744a7390e'],1
+data_events_attributes_D. Fisico/Intelectual,str,,2,68.85837291786221,['01675eec-4b8b-4b92-80b7-5e22a1878f38'],1
+data_events_attributes_Discapacitado intelectual,str,,3,32.17583873275577,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",2
+data_events_attributes_Discapacitado visual,str,,3,32.17583873275577,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",2
+data_events_attributes_Españoles,str,,3,68.85837291786221,['01675eec-4b8b-4b92-80b7-5e22a1878f38'],1
+data_events_attributes_Fed. AD Maratón,str,,2,68.85837291786221,['01675eec-4b8b-4b92-80b7-5e22a1878f38'],1
+data_events_attributes_Sillas,str,,2,32.17583873275577,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",2
+data_events_auto_category,str,,3,1.0342116506179737,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",3
+data_events_auto_chip,str,,3,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
+data_events_category,str,,44,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
+data_events_dorsal,str,,172,1.0342116506179737,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",3
+data_events_gunTime,Timestamp,2025-02-16 07:40:00+00:00,42,8.883956447327506,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
+data_events_gunTimeMode,str,,3,68.85837291786221,['01675eec-4b8b-4b92-80b7-5e22a1878f38'],1
+data_events_gunTimeModeConfig_wave,str,8:40,13,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
+data_events_status,str,,4,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
+data_events_team,str,TEAM BIKE AND BICI LLEIDA,25,67.82416126724424,"['78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38']",2
+data_events_times_10K_time,str,,9,1.0342116506179737,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",3
+data_events_times_15K_time,str,,19,1.0342116506179737,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",3
+data_events_times_19K_time,str,,40,68.85837291786221,['01675eec-4b8b-4b92-80b7-5e22a1878f38'],1
+data_events_times_20K_time,str,,11,32.17583873275577,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",2
+data_events_times_5K_time,str,,10,1.0342116506179737,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",3
+data_events_times_CP3_time,str,,4,98.96578834938202,['78a14be0-36cc-4ce4-bb5a-b81744a7390e'],1
+data_events_times_CP4_time,str,,2,98.96578834938202,['78a14be0-36cc-4ce4-bb5a-b81744a7390e'],1
+data_events_times_EH2_time,str,,2,98.96578834938202,['78a14be0-36cc-4ce4-bb5a-b81744a7390e'],1
+data_events_times_Meta_time,str,,94,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
+data_events_times_Salida_time,str,,12,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
+event_id,str,independiente,9,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
+issue_id,str,af4215f0-e856-11ef-aee0-f3683f511a40,4327,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
+race_id,str,b228b93e-2a15-4123-baf9-ca0915165c6a,4,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas

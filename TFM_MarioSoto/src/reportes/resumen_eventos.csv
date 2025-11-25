@@ -1,0 +1,10 @@
+event_std,race_ids_unicos,num_carreras,num_filas,num_atletas_unicos,porcentaje_total
+independiente,"['b228b93e-2a15-4123-baf9-ca0915165c6a'
+ '78a14be0-36cc-4ce4-bb5a-b81744a7390e'
+ '01675eec-4b8b-4b92-80b7-5e22a1878f38'
+ '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",4,941360,59398,42.73
+maraton,['49603c2f-1b2b-457f-b82e-fed8bded1d3d'],1,270969,26858,12.3
+media,"['b228b93e-2a15-4123-baf9-ca0915165c6a'
+ '01675eec-4b8b-4b92-80b7-5e22a1878f38'
+ '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",3,847663,56358,38.47
+stage,['78a14be0-36cc-4ce4-bb5a-b81744a7390e'],1,36271,456,1.65
