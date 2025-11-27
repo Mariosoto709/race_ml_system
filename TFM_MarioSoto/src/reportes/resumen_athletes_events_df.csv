@@ -10,6 +10,7 @@ gunTime,str,2025-02-16T07:31:06.000Z,30,19.173309498185002,"['b228b93e-2a15-4123
 gunTimeMode,str,wave,1,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
 gunTimeModeConfig_wave,str,8:30,23,19.173309498185002,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
 last_split_seen,str,5K,25,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
+maxConsecutiveSplitsMissing,int64,0,11,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
 race_id,str,b228b93e-2a15-4123-baf9-ca0915165c6a,4,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
 realStatus,str,running,3,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
 splitsMissing,int64,0,11,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas

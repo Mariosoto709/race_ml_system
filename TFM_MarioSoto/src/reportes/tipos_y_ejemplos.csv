@@ -19,6 +19,7 @@ athletes_events_df,gunTime,"datetime64[ns, UTC]",2025-02-16 07:31:06+00:00
 athletes_events_df,gunTimeMode,object,wave
 athletes_events_df,gunTimeModeConfig_wave,object,8:30
 athletes_events_df,last_split_seen,object,5K
+athletes_events_df,maxConsecutiveSplitsMissing,int64,0
 athletes_events_df,race_id,object,b228b93e-2a15-4123-baf9-ca0915165c6a
 athletes_events_df,realStatus,object,running
 athletes_events_df,splitsMissing,int64,0

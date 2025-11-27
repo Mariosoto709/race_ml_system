@@ -10,6 +10,7 @@ athletes_events_df,gunTime,0.0
 athletes_events_df,gunTimeMode,0.0
 athletes_events_df,gunTimeModeConfig_wave,0.0
 athletes_events_df,last_split_seen,0.0
+athletes_events_df,maxConsecutiveSplitsMissing,0.0
 athletes_events_df,race_id,0.0
 athletes_events_df,realStatus,0.0
 athletes_events_df,splitsMissing,0.0

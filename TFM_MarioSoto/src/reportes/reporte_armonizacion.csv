@@ -19,6 +19,7 @@ athletes_events_df,gunTime,tipo otro,otro,columna protegida (tipo 'otro')
 athletes_events_df,gunTimeMode,no modificada,str,solo un tipo
 athletes_events_df,gunTimeModeConfig_wave,no modificada,str,solo un tipo
 athletes_events_df,last_split_seen,no modificada,str,solo un tipo
+athletes_events_df,maxConsecutiveSplitsMissing,no modificada,num,solo un tipo
 athletes_events_df,race_id,clave protegida,str,columna protegida (clave)
 athletes_events_df,realStatus,no modificada,str,solo un tipo
 athletes_events_df,splitsMissing,no modificada,num,solo un tipo

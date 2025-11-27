@@ -19,6 +19,7 @@ athletes_events_df,gunTime,object,"datetime64[ns, UTC]"
 athletes_events_df,gunTimeMode,object,object
 athletes_events_df,gunTimeModeConfig_wave,object,object
 athletes_events_df,last_split_seen,object,object
+athletes_events_df,maxConsecutiveSplitsMissing,int64,int64
 athletes_events_df,race_id,object,object
 athletes_events_df,realStatus,object,object
 athletes_events_df,splitsMissing,int64,int64

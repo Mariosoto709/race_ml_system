@@ -19,6 +19,7 @@ athletes_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38-Medio Maratón,gunTime,[
 athletes_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38-Medio Maratón,gunTimeMode,['str'],0,0,['wave'],{'str': ['wave']}
 athletes_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38-Medio Maratón,gunTimeModeConfig_wave,['str'],0,0,"['9:15', '9:20', '9:25', '9:30']","{'str': ['9:15', '9:20', '9:25']}"
 athletes_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38-Medio Maratón,last_split_seen,['str'],0,0,"['Meta', '15K', 'notstarted', '10K', '5K', 'Salida', '19K']","{'str': ['Meta', '15K', 'notstarted']}"
+athletes_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38-Medio Maratón,maxConsecutiveSplitsMissing,['int'],0,0,"[0, 1, 2, 4, 5, 3]","{'int': [0, 1, 2]}"
 athletes_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38-Medio Maratón,race_id,['str'],0,0,['01675eec-4b8b-4b92-80b7-5e22a1878f38'],{'str': ['01675eec-4b8b-4b92-80b7-5e22a1878f38']}
 athletes_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38-Medio Maratón,realStatus,['str'],0,0,"['finished', 'running', 'notstarted']","{'str': ['finished', 'running', 'notstarted']}"
 athletes_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38-Medio Maratón,splitsMissing,['int'],0,0,"[0, 1, 2, 4, 5, 3]","{'int': [0, 1, 2]}"
@@ -42,6 +43,7 @@ athletes_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-Marato,gunTime,['Timesta
 athletes_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-Marato,gunTimeMode,['str'],0,0,['wave'],{'str': ['wave']}
 athletes_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-Marato,gunTimeModeConfig_wave,['str'],0,0,"['8:30', '9:09', '8:55', '8:45', '9:15', '9:05', '9:25', '8:40']","{'str': ['8:30', '9:09', '8:55']}"
 athletes_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-Marato,last_split_seen,['str'],0,0,"['Meta', '10K', '30K', 'notstarted', '25K', '20K', 'Media', '40K', '35K', '5K']","{'str': ['Meta', '10K', '30K']}"
+athletes_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-Marato,maxConsecutiveSplitsMissing,['int'],0,0,"[0, 6, 2, 1, 3, 7, 4, 8, 5, 9]","{'int': [0, 6, 2]}"
 athletes_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-Marato,race_id,['str'],0,0,['49603c2f-1b2b-457f-b82e-fed8bded1d3d'],{'str': ['49603c2f-1b2b-457f-b82e-fed8bded1d3d']}
 athletes_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-Marato,realStatus,['str'],0,0,"['finished', 'running', 'notstarted']","{'str': ['finished', 'running', 'notstarted']}"
 athletes_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-Marato,splitsMissing,['int'],0,0,"[0, 6, 3, 1, 2, 7, 4, 5, 8, 9]","{'int': [0, 6, 3]}"
@@ -65,6 +67,7 @@ athletes_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 1,gunTime,['Timest
 athletes_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 1,gunTimeMode,['str'],0,0,['wave'],{'str': ['wave']}
 athletes_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 1,gunTimeModeConfig_wave,['str'],0,0,['Stage 1'],{'str': ['Stage 1']}
 athletes_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 1,last_split_seen,['str'],0,0,"['Meta', 'notstarted', 'CP1', 'CP2']","{'str': ['Meta', 'notstarted', 'CP1']}"
+athletes_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 1,maxConsecutiveSplitsMissing,['int'],0,0,"[1, 0]","{'int': [1, 0]}"
 athletes_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 1,race_id,['str'],0,0,['78a14be0-36cc-4ce4-bb5a-b81744a7390e'],{'str': ['78a14be0-36cc-4ce4-bb5a-b81744a7390e']}
 athletes_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 1,realStatus,['str'],0,0,"['finished', 'notstarted', 'running']","{'str': ['finished', 'notstarted', 'running']}"
 athletes_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 1,splitsMissing,['int'],0,0,"[1, 0, 2]","{'int': [1, 0, 2]}"
@@ -88,6 +91,7 @@ athletes_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 2,gunTime,['Timest
 athletes_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 2,gunTimeMode,['str'],0,0,['wave'],{'str': ['wave']}
 athletes_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 2,gunTimeModeConfig_wave,['str'],0,0,"['Salida 2 E2', 'Stage 2']","{'str': ['Salida 2 E2', 'Stage 2']}"
 athletes_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 2,last_split_seen,['str'],0,0,"['Meta', 'notstarted', 'Salida']","{'str': ['Meta', 'notstarted', 'Salida']}"
+athletes_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 2,maxConsecutiveSplitsMissing,['int'],0,0,"[0, 1]","{'int': [0, 1]}"
 athletes_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 2,race_id,['str'],0,0,['78a14be0-36cc-4ce4-bb5a-b81744a7390e'],{'str': ['78a14be0-36cc-4ce4-bb5a-b81744a7390e']}
 athletes_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 2,realStatus,['str'],0,0,"['finished', 'notstarted', 'running']","{'str': ['finished', 'notstarted', 'running']}"
 athletes_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 2,splitsMissing,['int'],0,0,"[0, 1]","{'int': [0, 1]}"
@@ -111,6 +115,7 @@ athletes_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 3,gunTime,['Timest
 athletes_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 3,gunTimeMode,['str'],0,0,['wave'],{'str': ['wave']}
 athletes_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 3,gunTimeModeConfig_wave,['str'],0,0,['Stage 3'],{'str': ['Stage 3']}
 athletes_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 3,last_split_seen,['str'],0,0,"['Meta', 'notstarted', 'EH2']","{'str': ['Meta', 'notstarted', 'EH2']}"
+athletes_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 3,maxConsecutiveSplitsMissing,['int'],0,0,"[1, 0]","{'int': [1, 0]}"
 athletes_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 3,race_id,['str'],0,0,['78a14be0-36cc-4ce4-bb5a-b81744a7390e'],{'str': ['78a14be0-36cc-4ce4-bb5a-b81744a7390e']}
 athletes_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 3,realStatus,['str'],0,0,"['finished', 'notstarted', 'running']","{'str': ['finished', 'notstarted', 'running']}"
 athletes_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 3,splitsMissing,['int'],0,0,"[1, 0, 2]","{'int': [1, 0, 2]}"
@@ -134,6 +139,7 @@ athletes_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 4,gunTime,['Timest
 athletes_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 4,gunTimeMode,['str'],0,0,['wave'],{'str': ['wave']}
 athletes_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 4,gunTimeModeConfig_wave,['str'],0,0,['Stage 4'],{'str': ['Stage 4']}
 athletes_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 4,last_split_seen,['str'],0,0,"['Meta', 'Salida', 'notstarted', 'CP3', 'CP1', 'EH2', 'CP2']","{'str': ['Meta', 'Salida', 'notstarted']}"
+athletes_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 4,maxConsecutiveSplitsMissing,['int'],0,0,"[1, 2, 0]","{'int': [1, 2, 0]}"
 athletes_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 4,race_id,['str'],0,0,['78a14be0-36cc-4ce4-bb5a-b81744a7390e'],{'str': ['78a14be0-36cc-4ce4-bb5a-b81744a7390e']}
 athletes_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 4,realStatus,['str'],0,0,"['finished', 'running', 'notstarted']","{'str': ['finished', 'running', 'notstarted']}"
 athletes_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 4,splitsMissing,['int'],0,0,"[2, 1, 0, 3]","{'int': [2, 1, 0]}"
@@ -157,6 +163,7 @@ athletes_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 5,gunTime,['Timest
 athletes_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 5,gunTimeMode,['str'],0,0,['wave'],{'str': ['wave']}
 athletes_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 5,gunTimeModeConfig_wave,['str'],0,0,['Stage 5'],{'str': ['Stage 5']}
 athletes_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 5,last_split_seen,['str'],0,0,"['Meta', 'notstarted', 'CP1', 'EH1', 'CP2', 'Salida', 'EH2', 'EH3']","{'str': ['Meta', 'notstarted', 'CP1']}"
+athletes_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 5,maxConsecutiveSplitsMissing,['int'],0,0,"[0, 1]","{'int': [0, 1]}"
 athletes_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 5,race_id,['str'],0,0,['78a14be0-36cc-4ce4-bb5a-b81744a7390e'],{'str': ['78a14be0-36cc-4ce4-bb5a-b81744a7390e']}
 athletes_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 5,realStatus,['str'],0,0,"['finished', 'notstarted', 'running']","{'str': ['finished', 'notstarted', 'running']}"
 athletes_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 5,splitsMissing,['int'],0,0,"[0, 1, 2]","{'int': [0, 1, 2]}"
@@ -180,6 +187,7 @@ athletes_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 6,gunTime,['Timest
 athletes_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 6,gunTimeMode,['str'],0,0,['wave'],{'str': ['wave']}
 athletes_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 6,gunTimeModeConfig_wave,['str'],0,0,['Stage 6'],{'str': ['Stage 6']}
 athletes_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 6,last_split_seen,['str'],0,0,"['Meta', 'notstarted', 'Lastkm']","{'str': ['Meta', 'notstarted', 'Lastkm']}"
+athletes_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 6,maxConsecutiveSplitsMissing,['int'],0,0,"[1, 0, 7]","{'int': [1, 0, 7]}"
 athletes_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 6,race_id,['str'],0,0,['78a14be0-36cc-4ce4-bb5a-b81744a7390e'],{'str': ['78a14be0-36cc-4ce4-bb5a-b81744a7390e']}
 athletes_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 6,realStatus,['str'],0,0,"['finished', 'notstarted', 'running']","{'str': ['finished', 'notstarted', 'running']}"
 athletes_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e-Stage 6,splitsMissing,['int'],0,0,"[1, 0, 7]","{'int': [1, 0, 7]}"
@@ -203,6 +211,7 @@ athletes_events_df,b228b93e-2a15-4123-baf9-ca0915165c6a-Mitja,gunTime,['Timestam
 athletes_events_df,b228b93e-2a15-4123-baf9-ca0915165c6a-Mitja,gunTimeMode,['str'],0,0,['wave'],{'str': ['wave']}
 athletes_events_df,b228b93e-2a15-4123-baf9-ca0915165c6a-Mitja,gunTimeModeConfig_wave,['str'],0,0,"['8:30', '8:40', '9:40', '9:30', '9:00', '9:10', '9:20', '8:50']","{'str': ['8:30', '8:40', '9:40']}"
 athletes_events_df,b228b93e-2a15-4123-baf9-ca0915165c6a-Mitja,last_split_seen,['str'],0,0,"['5K', 'Meta', 'notstarted', '10K', '15K', 'Salida', '20K']","{'str': ['5K', 'Meta', 'notstarted']}"
+athletes_events_df,b228b93e-2a15-4123-baf9-ca0915165c6a-Mitja,maxConsecutiveSplitsMissing,['int'],0,0,"[0, 5, 2, 1, 3, 4]","{'int': [0, 5, 2]}"
 athletes_events_df,b228b93e-2a15-4123-baf9-ca0915165c6a-Mitja,race_id,['str'],0,0,['b228b93e-2a15-4123-baf9-ca0915165c6a'],{'str': ['b228b93e-2a15-4123-baf9-ca0915165c6a']}
 athletes_events_df,b228b93e-2a15-4123-baf9-ca0915165c6a-Mitja,realStatus,['str'],0,0,"['running', 'finished', 'notstarted']","{'str': ['running', 'finished', 'notstarted']}"
 athletes_events_df,b228b93e-2a15-4123-baf9-ca0915165c6a-Mitja,splitsMissing,['int'],0,0,"[0, 5, 2, 1, 4, 3]","{'int': [0, 5, 2]}"
