@@ -1,18 +1,19 @@
 tabla,columna,categoria,tipos_detectados,accion_razon
-athletes_df,athlete_id,modificada,str,athlete_id → convertir todos a str
+athletes_df,athlete_id,modificada,"num,str",athlete_id → convertir todos a str
 athletes_df,birthdate,tipo otro,"nulo,otro",columna protegida (tipo 'otro')
-athletes_df,club,sin regla aplicable,"str,vacio",no hay regla para esta combinación de tipos
-athletes_df,gender,sin regla aplicable,"str,vacio",no hay regla para esta combinación de tipos
-athletes_df,name,no modificada,str,solo un tipo
-athletes_df,nationality,sin regla aplicable,"str,vacio",no hay regla para esta combinación de tipos
+athletes_df,club,modificada,"nulo,str,vacio",nulo → ''
+athletes_df,fullName,no modificada,str,solo un tipo
+athletes_df,gender,modificada,"nulo,str",nulo → ''
+athletes_df,name,modificada,"num,str",num → str
+athletes_df,nationality,modificada,"nulo,str,vacio",nulo → ''
 athletes_df,race_id,clave protegida,str,columna protegida (clave)
-athletes_df,surname,sin regla aplicable,"str,vacio",no hay regla para esta combinación de tipos
-athletes_events_df,athlete_id,modificada,str,athlete_id → convertir todos a str
+athletes_df,surname,modificada,"nulo,str",nulo → ''
+athletes_events_df,athlete_id,modificada,"num,str",athlete_id → convertir todos a str
 athletes_events_df,auto_category,no modificada,num,solo un tipo
 athletes_events_df,auto_chip,no modificada,num,solo un tipo
 athletes_events_df,category,sin regla aplicable,"str,vacio",no hay regla para esta combinación de tipos
 athletes_events_df,distance,no modificada,num,solo un tipo
-athletes_events_df,dorsal,sin regla aplicable,"str,vacio",no hay regla para esta combinación de tipos
+athletes_events_df,dorsal,modificada,"num,str,vacio",num → str
 athletes_events_df,event_id,clave protegida,str,columna protegida (clave)
 athletes_events_df,gunTime,tipo otro,otro,columna protegida (tipo 'otro')
 athletes_events_df,gunTimeMode,no modificada,str,solo un tipo
@@ -26,11 +27,11 @@ athletes_events_df,startNetTime,sin regla aplicable,"nulo,num",no hay regla para
 athletes_events_df,startRawTime,tipo otro,"nulo,otro",columna protegida (tipo 'otro')
 athletes_events_df,startTime,sin regla aplicable,"nulo,num",no hay regla para esta combinación de tipos
 athletes_events_df,status,no modificada,str,solo un tipo
-athletes_events_df,team,sin regla aplicable,"str,vacio",no hay regla para esta combinación de tipos
+athletes_events_df,team,modificada,"nulo,str,vacio",nulo → ''
 athletes_events_df,event_std,no modificada,str,solo un tipo
 athletes_events_df,startNetTime_td,tipo otro,"nulo,otro",columna protegida (tipo 'otro')
 athletes_events_df,startTime_td,tipo otro,"nulo,otro",columna protegida (tipo 'otro')
-athletes_time_df,athlete_id,modificada,str,athlete_id → convertir todos a str
+athletes_time_df,athlete_id,modificada,"num,str",athlete_id → convertir todos a str
 athletes_time_df,average,no modificada,num,solo un tipo
 athletes_time_df,distance,no modificada,num,solo un tipo
 athletes_time_df,event_id,clave protegida,str,columna protegida (clave)
@@ -46,68 +47,68 @@ athletes_time_df,time,no modificada,num,solo un tipo
 athletes_time_df,event_std,no modificada,str,solo un tipo
 athletes_time_df,netTime_td,tipo otro,otro,columna protegida (tipo 'otro')
 athletes_time_df,time_td,tipo otro,otro,columna protegida (tipo 'otro')
-issues_df,athlete_id,modificada,str,athlete_id → convertir todos a str
+issues_df,athlete_id,modificada,"num,str",athlete_id → convertir todos a str
 issues_df,event_id,clave protegida,str,columna protegida (clave)
 issues_df,issue_id,clave protegida,str,columna protegida (clave)
 issues_df,race_id,clave protegida,str,columna protegida (clave)
 issues_df,time,tipo otro,otro,columna protegida (tipo 'otro')
 issues_df,type,no modificada,str,solo un tipo
 issues_df,event_std,no modificada,str,solo un tipo
-issues_data_df,athlete_id,modificada,str,athlete_id → convertir todos a str
-issues_data_df,data_Dorsal entregado,sin regla aplicable,"str,vacio",no hay regla para esta combinación de tipos
-issues_data_df,data_LICENCIA,sin regla aplicable,"str,vacio",no hay regla para esta combinación de tipos
-issues_data_df,data_Licencia,sin regla aplicable,"str,vacio",no hay regla para esta combinación de tipos
-issues_data_df,data_MEDALLA,sin regla aplicable,"str,vacio",no hay regla para esta combinación de tipos
-issues_data_df,data_TALLA,sin regla aplicable,"str,vacio",no hay regla para esta combinación de tipos
-issues_data_df,data_TIEMPO ESTIMADO,sin regla aplicable,"str,vacio",no hay regla para esta combinación de tipos
-issues_data_df,data_Teléfono emergencia,sin regla aplicable,"str,vacio",no hay regla para esta combinación de tipos
+issues_data_df,athlete_id,modificada,"num,str",athlete_id → convertir todos a str
+issues_data_df,data_Dorsal entregado,modificada,"nulo,str,vacio",nulo → ''
+issues_data_df,data_LICENCIA,modificada,"nulo,str",nulo → ''
+issues_data_df,data_Licencia,modificada,"nulo,str,vacio",nulo → ''
+issues_data_df,data_MEDALLA,modificada,"nulo,str",nulo → ''
+issues_data_df,data_TALLA,modificada,"nulo,str",nulo → ''
+issues_data_df,data_TIEMPO ESTIMADO,modificada,"nulo,str,vacio",nulo → ''
+issues_data_df,data_Teléfono emergencia,modificada,"nulo,str,vacio",nulo → ''
 issues_data_df,data_birthdate,tipo otro,"nulo,otro",columna protegida (tipo 'otro')
-issues_data_df,data_club,sin regla aplicable,"str,vacio",no hay regla para esta combinación de tipos
-issues_data_df,data_document,sin regla aplicable,"str,vacio",no hay regla para esta combinación de tipos
-issues_data_df,data_e-mail,sin regla aplicable,"str,vacio",no hay regla para esta combinación de tipos
-issues_data_df,data_gender,sin regla aplicable,"str,vacio",no hay regla para esta combinación de tipos
-issues_data_df,data_name,sin regla aplicable,"str,vacio",no hay regla para esta combinación de tipos
-issues_data_df,data_nationality,sin regla aplicable,"str,vacio",no hay regla para esta combinación de tipos
-issues_data_df,data_pais,sin regla aplicable,"str,vacio",no hay regla para esta combinación de tipos
-issues_data_df,data_phone,sin regla aplicable,"str,vacio",no hay regla para esta combinación de tipos
-issues_data_df,data_statusNote,sin regla aplicable,"str,vacio",no hay regla para esta combinación de tipos
-issues_data_df,data_surname,sin regla aplicable,"str,vacio",no hay regla para esta combinación de tipos
+issues_data_df,data_club,modificada,"nulo,str",nulo → ''
+issues_data_df,data_document,modificada,"nulo,str,vacio",nulo → ''
+issues_data_df,data_e-mail,modificada,"nulo,str,vacio",nulo → ''
+issues_data_df,data_gender,modificada,"nulo,str",nulo → ''
+issues_data_df,data_name,modificada,"nulo,str",nulo → ''
+issues_data_df,data_nationality,modificada,"nulo,str,vacio",nulo → ''
+issues_data_df,data_pais,modificada,"nulo,str",nulo → ''
+issues_data_df,data_phone,modificada,"nulo,str,vacio",nulo → ''
+issues_data_df,data_statusNote,modificada,"nulo,str,vacio",nulo → ''
+issues_data_df,data_surname,modificada,"nulo,str",nulo → ''
 issues_data_df,event_id,clave protegida,str,columna protegida (clave)
 issues_data_df,issue_id,clave protegida,str,columna protegida (clave)
 issues_data_df,race_id,clave protegida,str,columna protegida (clave)
 issues_data_df,event_std,no modificada,str,solo un tipo
-issues_events_df,athlete_id,modificada,str,athlete_id → convertir todos a str
-issues_events_df,data_events_attributes_ADVENTURE,sin regla aplicable,"str,vacio",no hay regla para esta combinación de tipos
-issues_events_df,data_events_attributes_D. Fisico/Intelectual,sin regla aplicable,"str,vacio",no hay regla para esta combinación de tipos
-issues_events_df,data_events_attributes_Discapacitado intelectual,sin regla aplicable,"str,vacio",no hay regla para esta combinación de tipos
-issues_events_df,data_events_attributes_Discapacitado visual,sin regla aplicable,"str,vacio",no hay regla para esta combinación de tipos
-issues_events_df,data_events_attributes_Españoles,sin regla aplicable,"str,vacio",no hay regla para esta combinación de tipos
-issues_events_df,data_events_attributes_Fed. AD Maratón,sin regla aplicable,"str,vacio",no hay regla para esta combinación de tipos
-issues_events_df,data_events_attributes_Sillas,sin regla aplicable,"str,vacio",no hay regla para esta combinación de tipos
-issues_events_df,data_events_auto_category,sin regla aplicable,"nulo,num",no hay regla para esta combinación de tipos
-issues_events_df,data_events_auto_chip,sin regla aplicable,"nulo,num",no hay regla para esta combinación de tipos
+issues_events_df,athlete_id,modificada,"num,str",athlete_id → convertir todos a str
+issues_events_df,data_events_attributes_ADVENTURE,modificada,"nulo,str,vacio",nulo → ''
+issues_events_df,data_events_attributes_D. Fisico/Intelectual,modificada,"nulo,str,vacio",nulo → ''
+issues_events_df,data_events_attributes_Discapacitado intelectual,modificada,"nulo,str,vacio",nulo → ''
+issues_events_df,data_events_attributes_Discapacitado visual,modificada,"nulo,str,vacio",nulo → ''
+issues_events_df,data_events_attributes_Españoles,modificada,"nulo,str,vacio",nulo → ''
+issues_events_df,data_events_attributes_Fed. AD Maratón,modificada,"nulo,str,vacio",nulo → ''
+issues_events_df,data_events_attributes_Sillas,modificada,"nulo,str,vacio",nulo → ''
+issues_events_df,data_events_auto_category,modificada,"nulo,num,vacio",vacio → NaN
+issues_events_df,data_events_auto_chip,modificada,"num,vacio",vacio → NaN
 issues_events_df,data_events_category,sin regla aplicable,"str,vacio",no hay regla para esta combinación de tipos
-issues_events_df,data_events_dorsal,sin regla aplicable,"str,vacio",no hay regla para esta combinación de tipos
+issues_events_df,data_events_dorsal,modificada,"nulo,num,str,vacio","num → str, nulo → ''"
 issues_events_df,data_events_gunTime,tipo otro,"nulo,otro",columna protegida (tipo 'otro')
-issues_events_df,data_events_gunTimeMode,sin regla aplicable,"str,vacio",no hay regla para esta combinación de tipos
+issues_events_df,data_events_gunTimeMode,modificada,"nulo,str,vacio",nulo → ''
 issues_events_df,data_events_gunTimeModeConfig_wave,sin regla aplicable,"str,vacio",no hay regla para esta combinación de tipos
 issues_events_df,data_events_status,sin regla aplicable,"str,vacio",no hay regla para esta combinación de tipos
-issues_events_df,data_events_team,sin regla aplicable,"str,vacio",no hay regla para esta combinación de tipos
-issues_events_df,data_events_times_10K_time,sin regla aplicable,"nulo,num",no hay regla para esta combinación de tipos
-issues_events_df,data_events_times_15K_time,sin regla aplicable,"nulo,num",no hay regla para esta combinación de tipos
-issues_events_df,data_events_times_19K_time,sin regla aplicable,"nulo,num",no hay regla para esta combinación de tipos
-issues_events_df,data_events_times_20K_time,sin regla aplicable,"nulo,num",no hay regla para esta combinación de tipos
-issues_events_df,data_events_times_5K_time,sin regla aplicable,"nulo,num",no hay regla para esta combinación de tipos
-issues_events_df,data_events_times_CP3_time,sin regla aplicable,"nulo,num",no hay regla para esta combinación de tipos
-issues_events_df,data_events_times_CP4_time,sin regla aplicable,"nulo,num",no hay regla para esta combinación de tipos
-issues_events_df,data_events_times_EH2_time,sin regla aplicable,"nulo,num",no hay regla para esta combinación de tipos
-issues_events_df,data_events_times_Meta_time,sin regla aplicable,"nulo,num",no hay regla para esta combinación de tipos
-issues_events_df,data_events_times_Salida_time,sin regla aplicable,"nulo,num",no hay regla para esta combinación de tipos
+issues_events_df,data_events_team,modificada,"nulo,str,vacio",nulo → ''
+issues_events_df,data_events_times_10K_time,modificada,"nulo,num,vacio",vacio → NaN
+issues_events_df,data_events_times_15K_time,modificada,"nulo,num,vacio",vacio → NaN
+issues_events_df,data_events_times_19K_time,modificada,"nulo,num,vacio",vacio → NaN
+issues_events_df,data_events_times_20K_time,modificada,"nulo,num,vacio",vacio → NaN
+issues_events_df,data_events_times_5K_time,modificada,"nulo,num,vacio",vacio → NaN
+issues_events_df,data_events_times_CP3_time,modificada,"nulo,num,vacio",vacio → NaN
+issues_events_df,data_events_times_CP4_time,modificada,"nulo,num,vacio",vacio → NaN
+issues_events_df,data_events_times_EH2_time,modificada,"nulo,num,vacio",vacio → NaN
+issues_events_df,data_events_times_Meta_time,modificada,"num,vacio",vacio → NaN
+issues_events_df,data_events_times_Salida_time,modificada,"num,vacio",vacio → NaN
 issues_events_df,event_id,clave protegida,str,columna protegida (clave)
 issues_events_df,issue_id,clave protegida,str,columna protegida (clave)
 issues_events_df,race_id,clave protegida,str,columna protegida (clave)
 issues_events_df,event_std,no modificada,str,solo un tipo
-issues_times_df,athlete_id,modificada,str,athlete_id → convertir todos a str
+issues_times_df,athlete_id,modificada,"num,str",athlete_id → convertir todos a str
 issues_times_df,event_id,clave protegida,str,columna protegida (clave)
 issues_times_df,issue_id,clave protegida,str,columna protegida (clave)
 issues_times_df,race_id,clave protegida,str,columna protegida (clave)

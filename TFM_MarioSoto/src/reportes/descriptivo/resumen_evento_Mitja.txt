@@ -1,0 +1,41 @@
+RESUMEN COMPLETO POR EVENTO | Evento: Mitja | Atletas totales: 31679
+====================================================================================================
+
+Columna: gender
+Tipo: object | Valores únicos: 3 | Nulos: 0 | Vacíos: 0
+Moda: male (19290 ocurrencias)
+% Nulos + Vacíos: 0.00%
+Top 5 valores:
+  - male: 19,290
+  - female: 12,349
+  - mixed: 40
+
+Columna: birthdate
+Tipo: datetime64[ns] | Valores únicos: 12,826 | Nulos: 35 | Vacíos: 0
+Fecha mínima: 1925-05-07 00:00:00
+Fecha máxima: 2009-07-01 00:00:00
+Rango de días: 30736
+Año más frecuente: 1996.0
+Mes más frecuente: 7.0
+
+Columna: club
+Tipo: object | Valores únicos: 3,352 | Nulos: 0 | Vacíos: 1,485
+Moda: Independiente (22629 ocurrencias)
+% Nulos + Vacíos: 4.69%
+Top 5 valores:
+  - Independiente: 22,629
+  - : 1,485
+  - PRORUNNERS BARCELONA: 152
+  - FUN RUNNERS CLUB ESPORTIU: 107
+  - BCTeam: 60
+
+Columna: nationality
+Tipo: object | Valores únicos: 98 | Nulos: 0 | Vacíos: 1,106
+Moda: ES (19292 ocurrencias)
+% Nulos + Vacíos: 3.49%
+Top 5 valores:
+  - ES: 19,292
+  - FR: 2,627
+  - GB: 2,576
+  - : 1,106
+  - DE: 991

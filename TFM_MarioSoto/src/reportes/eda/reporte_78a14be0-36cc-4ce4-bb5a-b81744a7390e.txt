@@ -1,0 +1,52 @@
+================================================================================
+REPORTE CARRERA 78a14be0-36cc-4ce4-bb5a-b81744a7390e
+================================================================================
+
+=== name ===
+Únicos: 311, Nulos: 0
+Ejemplos: TONI, XAVIER, ANNA, LUIS LEON, JON, DANIEL, JOEL, JOAN, MIGUEL, VICTOR
+
+=== surname ===
+Únicos: 445, Nulos: 0
+Ejemplos: MARIN RAMOS, ARIMON GIRONÈS, AMAT VENTYOL, SÁNCHEZ GIL, ZAFRA, HAUSMANN SPIELMAN, ROGER MORENO, ROMEU CREIXELL, CASTIELLA, FERNÁNDEZ CABANELAS
+
+=== Gender ===
+Únicos: ['male', 'female', 'mixed'], Nulos: 0
+Conteo:
+male      347
+mixed      63
+female     46
+
+=== Birthdate ===
+Estadísticas de edades:
+count    456.000000
+mean      46.317982
+std       11.394127
+min       17.000000
+25%       38.750000
+50%       47.000000
+75%       56.000000
+max       73.000000
+Outliers (edades sospechosas):
+  No se detectaron outliers.
+
+=== Nationality ===
+Nulos: 0
+Códigos inválidos: ESP, POR, NED, PER, BEL, MAR, ANTILLAS HOLANDESAS, FRA, CRC, AND
+Top 10 códigos:
+ESP    357
+MAR     12
+NED     10
+POR      9
+FRA      7
+COL      6
+SWE      6
+POL      5
+ITA      5
+SUI      5
+
+Posibles nacionalidades mal escritas (según distancia de Levenshtein):
+  No se detectaron nacionalidades sospechosas.
+
+=== Featured ===
+Conteo: {False: 456}, Proporción: 0.000

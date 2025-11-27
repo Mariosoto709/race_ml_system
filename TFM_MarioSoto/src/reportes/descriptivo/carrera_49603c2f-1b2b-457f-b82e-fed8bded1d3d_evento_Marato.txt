@@ -1,0 +1,42 @@
+ANÁLISIS COMPLETO | Carrera: 49603c2f-1b2b-457f-b82e-fed8bded1d3d | Evento: Marato | Atletas: 26858
+====================================================================================================
+
+Columna: gender
+Tipo: object | Valores únicos: 4 | Nulos: 0 | Vacíos: 21
+Moda: male (20676 ocurrencias)
+% Nulos + Vacíos: 0.08%
+Top 5 valores:
+  - male: 20,676
+  - female: 6,108
+  - mixed: 53
+  - : 21
+
+Columna: birthdate
+Tipo: datetime64[ns] | Valores únicos: 12,565 | Nulos: 25 | Vacíos: 0
+Fecha mínima: 1932-12-21 00:00:00
+Fecha máxima: 2024-03-10 00:00:00
+Rango de días: 33317
+Año más frecuente: 1996.0
+Mes más frecuente: 9.0
+
+Columna: club
+Tipo: object | Valores únicos: 4,579 | Nulos: 0 | Vacíos: 20,239
+Moda:  (20239 ocurrencias)
+% Nulos + Vacíos: 75.36%
+Top 5 valores:
+  - : 20,239
+  - FUNRUNNERSCLUBESPORTIU: 48
+  - BCTEAM: 34
+  - PRORUNNERSBARCELONA: 28
+  - VICTORYTOUR: 26
+
+Columna: nationality
+Tipo: object | Valores únicos: 110 | Nulos: 0 | Vacíos: 613
+Moda: ESP (11130 ocurrencias)
+% Nulos + Vacíos: 2.28%
+Top 5 valores:
+  - ESP: 11,130
+  - FRA: 5,172
+  - GBR: 3,442
+  - GER: 813
+  - IRL: 727

@@ -1,0 +1,41 @@
+ANÁLISIS COMPLETO | Carrera: 01675eec-4b8b-4b92-80b7-5e22a1878f38 | Evento: Medio Maratón | Atletas: 24670
+====================================================================================================
+
+Columna: gender
+Tipo: object | Valores únicos: 3 | Nulos: 0 | Vacíos: 12
+Moda: male (17068 ocurrencias)
+% Nulos + Vacíos: 0.05%
+Top 5 valores:
+  - male: 17,068
+  - female: 7,590
+  - : 12
+
+Columna: birthdate
+Tipo: datetime64[ns] | Valores únicos: 12,099 | Nulos: 20 | Vacíos: 0
+Fecha mínima: 1933-07-23 00:00:00
+Fecha máxima: 2007-04-06 00:00:00
+Rango de días: 26920
+Año más frecuente: 1998.0
+Mes más frecuente: 5.0
+
+Columna: club
+Tipo: object | Valores únicos: 2,945 | Nulos: 0 | Vacíos: 18,985
+Moda:  (18985 ocurrencias)
+% Nulos + Vacíos: 76.96%
+Top 5 valores:
+  - : 18,985
+  - II BPAC: 155
+  - I BPAC: 142
+  - Club Deportivo Repsol: 133
+  - Alquiber: 133
+
+Columna: nationality
+Tipo: object | Valores únicos: 111 | Nulos: 0 | Vacíos: 2,014
+Moda: ESP (17156 ocurrencias)
+% Nulos + Vacíos: 8.16%
+Top 5 valores:
+  - ESP: 17,156
+  - : 2,014
+  - FRA: 1,020
+  - GBR: 619
+  - ITA: 435

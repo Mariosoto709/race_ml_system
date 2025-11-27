@@ -1,0 +1,77 @@
+================================================================================
+REPORTE CARRERA 49603c2f-1b2b-457f-b82e-fed8bded1d3d
+================================================================================
+
+=== name ===
+Únicos: 7492, Nulos: 0
+Ejemplos: Jonathan, Angel, ROGER, Julien, Remi, José Luis, Victor, Eric, Nacho, Anton
+Posibles errores tipográficos (casi iguales):
+    name Sugerido
+jonathan Jonathan
+   angel   Daniel
+  julien   Julien
+  victor   Victor
+  sergio    Sergi
+    jose    Josep
+  daniel   Daniel
+   ramon    Simon
+  thomas   Thomas
+   david    David
+
+=== surname ===
+Únicos: 22592, Nulos: 21
+Ejemplos: Baamonde Carballido, Mullera Rodríguez, ROCA DALMAU, Fayolle, Thivolle, Cruz Infantes, Vinyals Domingo, Domingo Roldán, Burgos Moliné, Piedras Puig
+Posibles errores tipográficos (casi iguales):
+ surname Sugerido
+williams Williams
+  martin   Martin
+    rosa    Costa
+connolly Connolly
+    bell    Kelly
+   hardy     Ward
+  meller   Miller
+gonzález Gonzalez
+    kars     Ward
+   mayer    Baker
+
+=== Gender ===
+Únicos: ['male', 'female', 'mixed'], Nulos: 21
+Conteo:
+male      20681
+female     6110
+mixed        53
+
+=== Birthdate ===
+Estadísticas de edades:
+count    26838.000000
+mean        38.941538
+std         11.454131
+min          1.000000
+25%         29.000000
+50%         38.000000
+75%         48.000000
+max         92.000000
+Outliers (edades sospechosas):
+        name      surname  birthdate
+MIGUEL ÁNGEL RUIZ LABORIA 2024-03-10
+
+=== Nationality ===
+Nulos: 0
+Códigos inválidos: ESP, FRA, GER, GBR, BEL, ITA, AUT, NOR, BUL, IRL
+Top 10 códigos:
+ESP    11135
+FRA     5173
+GBR     3442
+GER      813
+IRL      727
+BEL      614
+         592
+ITA      569
+POL      511
+ES       334
+
+Posibles nacionalidades mal escritas (según distancia de Levenshtein):
+  No se detectaron nacionalidades sospechosas.
+
+=== Featured ===
+Conteo: {False: 26865}, Proporción: 0.000

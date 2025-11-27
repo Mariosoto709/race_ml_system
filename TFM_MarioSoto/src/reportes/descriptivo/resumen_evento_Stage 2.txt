@@ -1,0 +1,41 @@
+RESUMEN COMPLETO POR EVENTO | Evento: Stage 2 | Atletas totales: 456
+====================================================================================================
+
+Columna: gender
+Tipo: object | Valores únicos: 3 | Nulos: 0 | Vacíos: 0
+Moda: male (347 ocurrencias)
+% Nulos + Vacíos: 0.00%
+Top 5 valores:
+  - male: 347
+  - mixed: 63
+  - female: 46
+
+Columna: birthdate
+Tipo: datetime64[ns] | Valores únicos: 449 | Nulos: 0 | Vacíos: 0
+Fecha mínima: 1952-01-26 00:00:00
+Fecha máxima: 2008-06-27 00:00:00
+Rango de días: 20607
+Año más frecuente: 1979
+Mes más frecuente: 1
+
+Columna: club
+Tipo: object | Valores únicos: 189 | Nulos: 0 | Vacíos: 87
+Moda:  (87 ocurrencias)
+% Nulos + Vacíos: 19.08%
+Top 5 valores:
+  - : 87
+  - AURAL CENTROS AUDITIVOS: 22
+  - ŠKODA WE LOVE CYCLING: 11
+  - INSTITUT GUTTMANN: 9
+  - EQUIPE NATIONALE DU MAROC: 9
+
+Columna: nationality
+Tipo: object | Valores únicos: 26 | Nulos: 0 | Vacíos: 0
+Moda: ESP (357 ocurrencias)
+% Nulos + Vacíos: 0.00%
+Top 5 valores:
+  - ESP: 357
+  - MAR: 12
+  - NED: 10
+  - POR: 9
+  - FRA: 7

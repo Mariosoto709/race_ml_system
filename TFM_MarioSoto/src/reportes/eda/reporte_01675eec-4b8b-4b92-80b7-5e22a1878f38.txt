@@ -1,0 +1,80 @@
+================================================================================
+REPORTE CARRERA 01675eec-4b8b-4b92-80b7-5e22a1878f38
+================================================================================
+
+=== name ===
+Únicos: 6782, Nulos: 0
+Ejemplos: Yago, Noah, Daniel, Ismael, Oqbe, Jonathan, Levy, Hayimro, Alfred, David
+Posibles errores tipográficos (casi iguales):
+            name         Sugerido
+          daniel           Daniel
+           david            David
+francisco javier Francisco Javier
+           diego            Diego
+          javier           Javier
+            rafa             Sara
+          marcos           Carlos
+            jose             Jose
+           pablo            Pablo
+          miquel           Miguel
+
+=== surname ===
+Únicos: 28378, Nulos: 16
+Ejemplos: Rojo, Kiplimo Ruto, Sinda, Kiprono, Kibrom Ruesom, Kamosong, Kibet Chematot, Yele Mekonen, Kipkemoi Cheruiyot, Nilsson
+Posibles errores tipográficos (casi iguales):
+           surname           Sugerido
+gonzález rodríguez González Rodríguez
+    lópez gonzález     López González
+            alonso             Alonso
+  garcía fernández   García Fernández
+           álvarez            Alvarez
+      garcía gómez       García Gómez
+     garcía martín      García Martín
+           sanchez            Sanchez
+   sánchez sánchez    Sánchez Sánchez
+             gomes              Gomez
+
+=== Gender ===
+Únicos: ['male', 'female'], Nulos: 14
+Conteo:
+male      32410
+female    15477
+
+=== Birthdate ===
+Estadísticas de edades:
+count    47873.000000
+mean        37.181230
+std         11.884449
+min          5.000000
+25%         27.000000
+50%         35.000000
+75%         47.000000
+max         92.000000
+Outliers (edades sospechosas):
+   name            surname  birthdate
+   Lope   Arregui Quintero 2011-03-27
+ Silvia Sánchez del Fresno 2011-03-29
+Natalia      Gómez Vicente 2011-08-03
+   Gael    Muñoz Rodriguez 2010-04-01
+   HUGO     VEGA RODRÍGUEZ 2011-07-09
+
+=== Nationality ===
+Nulos: 0
+Códigos inválidos: ESP, KEN, THA, ERI, ETH, SWE, ITA, GBR, MAR, URY
+Top 10 códigos:
+NAN       20713
+ESP       17160
+NONE       2094
+ESPAÑA     1754
+FRA        1020
+GBR         619
+ITA         435
+DEU         348
+PRT         274
+USA         261
+
+Posibles nacionalidades mal escritas (según distancia de Levenshtein):
+  No se detectaron nacionalidades sospechosas.
+
+=== Featured ===
+Conteo: {False: 47901}, Proporción: 0.000

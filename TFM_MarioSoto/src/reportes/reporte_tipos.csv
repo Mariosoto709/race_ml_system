@@ -1,7 +1,8 @@
 DF,Columna,Tipo_antes,Tipo_despues
 athletes_df,athlete_id,object,object
-athletes_df,birthdate,datetime64[ns],datetime64[ns]
+athletes_df,birthdate,object,datetime64[ns]
 athletes_df,club,object,object
+athletes_df,fullName,object,object
 athletes_df,gender,object,object
 athletes_df,name,object,object
 athletes_df,nationality,object,object
@@ -14,7 +15,7 @@ athletes_events_df,category,object,object
 athletes_events_df,distance,int64,int64
 athletes_events_df,dorsal,object,object
 athletes_events_df,event_id,object,object
-athletes_events_df,gunTime,"datetime64[ns, UTC]","datetime64[ns, UTC]"
+athletes_events_df,gunTime,object,"datetime64[ns, UTC]"
 athletes_events_df,gunTimeMode,object,object
 athletes_events_df,gunTimeModeConfig_wave,object,object
 athletes_events_df,last_split_seen,object,object
@@ -23,13 +24,13 @@ athletes_events_df,realStatus,object,object
 athletes_events_df,splitsMissing,int64,int64
 athletes_events_df,splitsSeen,int64,int64
 athletes_events_df,startNetTime,float64,float64
-athletes_events_df,startRawTime,datetime64[ns],datetime64[ns]
+athletes_events_df,startRawTime,float64,datetime64[ns]
 athletes_events_df,startTime,float64,float64
 athletes_events_df,status,object,object
 athletes_events_df,team,object,object
 athletes_events_df,event_std,object,object
-athletes_events_df,startNetTime_td,timedelta64[ns],timedelta64[ns]
-athletes_events_df,startTime_td,timedelta64[ns],timedelta64[ns]
+athletes_events_df,startNetTime_td,N/A,timedelta64[ns]
+athletes_events_df,startTime_td,N/A,timedelta64[ns]
 athletes_time_df,athlete_id,object,object
 athletes_time_df,average,float64,float64
 athletes_time_df,distance,int64,int64
@@ -40,17 +41,17 @@ athletes_time_df,netTime,float64,float64
 athletes_time_df,offset,float64,float64
 athletes_time_df,order,int64,int64
 athletes_time_df,race_id,object,object
-athletes_time_df,rawTime,datetime64[ns],datetime64[ns]
+athletes_time_df,rawTime,int64,datetime64[ns]
 athletes_time_df,split,object,object
 athletes_time_df,time,int64,int64
 athletes_time_df,event_std,object,object
-athletes_time_df,netTime_td,timedelta64[ns],timedelta64[ns]
-athletes_time_df,time_td,timedelta64[ns],timedelta64[ns]
+athletes_time_df,netTime_td,N/A,timedelta64[ns]
+athletes_time_df,time_td,N/A,timedelta64[ns]
 issues_df,athlete_id,object,object
 issues_df,event_id,object,object
 issues_df,issue_id,object,object
 issues_df,race_id,object,object
-issues_df,time,datetime64[ns],datetime64[ns]
+issues_df,time,int64,datetime64[ns]
 issues_df,type,object,object
 issues_df,event_std,object,object
 issues_data_df,athlete_id,object,object
@@ -61,7 +62,7 @@ issues_data_df,data_MEDALLA,object,object
 issues_data_df,data_TALLA,object,object
 issues_data_df,data_TIEMPO ESTIMADO,object,object
 issues_data_df,data_Teléfono emergencia,object,object
-issues_data_df,data_birthdate,datetime64[ns],datetime64[ns]
+issues_data_df,data_birthdate,object,datetime64[ns]
 issues_data_df,data_club,object,object
 issues_data_df,data_document,object,object
 issues_data_df,data_e-mail,object,object
@@ -88,7 +89,7 @@ issues_events_df,data_events_auto_category,object,object
 issues_events_df,data_events_auto_chip,object,object
 issues_events_df,data_events_category,object,object
 issues_events_df,data_events_dorsal,object,object
-issues_events_df,data_events_gunTime,"datetime64[ns, UTC]","datetime64[ns, UTC]"
+issues_events_df,data_events_gunTime,object,"datetime64[ns, UTC]"
 issues_events_df,data_events_gunTimeMode,object,object
 issues_events_df,data_events_gunTimeModeConfig_wave,object,object
 issues_events_df,data_events_status,object,object
@@ -114,4 +115,4 @@ issues_times_df,race_id,object,object
 issues_times_df,split,object,object
 issues_times_df,time,int64,int64
 issues_times_df,event_std,object,object
-issues_times_df,time_td,timedelta64[ns],timedelta64[ns]
+issues_times_df,time_td,N/A,timedelta64[ns]

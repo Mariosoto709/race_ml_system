@@ -1,0 +1,77 @@
+================================================================================
+REPORTE CARRERA b228b93e-2a15-4123-baf9-ca0915165c6a
+================================================================================
+
+=== name ===
+Únicos: 8057, Nulos: 0
+Ejemplos: Abdezaliz, Floriane, Laura, Nicolas, Dmitrijs, Maxime, Ruben, Benjamin, Samuel, Ciaran
+Posibles errores tipográficos (casi iguales):
+   name Sugerido
+  laura    Laura
+nicolas  Nicolas
+ samuel   Manuel
+    tom      Pol
+  marta    Marta
+    isa      Ana
+  núria    Maria
+ marina    Maria
+ miguel   Miguel
+  jhoan     Joan
+
+=== surname ===
+Únicos: 27127, Nulos: 33
+Ejemplos: Merzougui, Hot, Santos, Navarro, Serjogins, Lopes, Ortiz Martínez, Franke, Martin López, Lewis
+Posibles errores tipográficos (casi iguales):
+surname Sugerido
+  lopes    Lopez
+  lewis    Lewis
+ martin   Martin
+niessen  Nielsen
+     he      Lee
+  bello    Kelly
+    coe      Lee
+    lee      Lee
+    bea      Lee
+  zanen   Hansen
+
+=== Gender ===
+Únicos: ['male', 'female', 'mixed'], Nulos: 0
+Conteo:
+male      19292
+female    12351
+mixed        40
+
+=== Birthdate ===
+Estadísticas de edades:
+count    31648.000000
+mean        36.556939
+std         11.059958
+min         16.000000
+25%         28.000000
+50%         34.000000
+75%         44.000000
+max        100.000000
+Outliers (edades sospechosas):
+ name surname  birthdate
+Arnau   Canal 1925-05-07
+
+=== Nationality ===
+Nulos: 0
+Códigos inválidos: , NAN, NONE, FRA
+Top 10 códigos:
+ES    19297
+FR     2627
+GB     2576
+       1073
+DE      991
+NL      689
+IT      570
+NO      541
+IE      517
+PL      373
+
+Posibles nacionalidades mal escritas (según distancia de Levenshtein):
+  No se detectaron nacionalidades sospechosas.
+
+=== Featured ===
+Conteo: {False: 31683}, Proporción: 0.000

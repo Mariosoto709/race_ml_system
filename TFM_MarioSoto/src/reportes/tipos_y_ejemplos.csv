@@ -2,6 +2,7 @@ DF,Columna,Tipo,Ejemplo
 athletes_df,athlete_id,object,31
 athletes_df,birthdate,datetime64[ns],1991-08-30 00:00:00
 athletes_df,club,object,ASOCIACION ATLETICA TORRIJOS
+athletes_df,fullName,object,Abdezaliz Merzougui
 athletes_df,gender,object,male
 athletes_df,name,object,Abdezaliz
 athletes_df,nationality,object,es
