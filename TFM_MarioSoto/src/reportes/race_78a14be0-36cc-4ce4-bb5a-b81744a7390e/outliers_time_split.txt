@@ -1,0 +1,887 @@
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 1, Split CP1 ===
+                                  athlete_id               club  edad  time_split_sec
+183817  0f6bf316-df6a-5246-88b1-ad44f4b7a0cb  INSTITUT GUTTMANN  58.0        4261.401
+163768  26d88625-694b-5087-8cda-7a0645b3be29  INSTITUT GUTTMANN  29.0        4214.816
+167720  35b3cb57-c982-559f-9b1b-4411975ea175              KH7 1  39.0        1259.404
+179429  60f9f643-db20-525b-b805-ea6464c403f7  INSTITUT GUTTMANN  48.0        4278.945
+164518  628d8260-0f0b-5b1a-b234-fe48c5ff3246  INSTITUT GUTTMANN  34.0        4478.445
+182429  6ebf9a41-86ab-5447-9f63-3b6a47f6e720  INSTITUT GUTTMANN  39.0        4384.996
+177514  6feade42-64ad-5daf-891a-9a3d30b043e5  INSTITUT GUTTMANN  60.0        4252.177
+174516  827ae310-ae81-570f-ae7c-2497665cb674              KH7 3  39.0        1319.238
+181718  9ef98b72-d122-533c-968e-394d879f3c3c   FLYZ MONTENEVADO  35.0        1320.762
+172492  a052d5cd-51ca-5d63-ad06-ebfa720f6ddd  INSTITUT GUTTMANN  47.0        4231.824
+169487  b09f286b-d893-5548-8bdc-64ba245e9604   FLYZ MONTENEVADO  35.0        1254.165
+171893  b6861a84-dc59-5797-8978-ed1a4a86962a  INSTITUT GUTTMANN  52.0        4462.614
+167969  c690c665-7cf0-5934-86a1-c9703823df0b         VERBENA CC  42.0        1233.115
+169840  e32760c7-4811-5cc3-91f7-3da2a995629c  INSTITUT GUTTMANN  37.0        4477.127
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 1, Split CP2 ===
+                                  athlete_id                       club  edad  time_split_sec
+175362  09a02b4e-6fca-5ccd-9def-7cc7ab0c4807                             52.0        3567.454
+168617  0d44262d-d10c-5b24-935c-f4c623b71e52                    BIKE BÉ  58.0        3735.746
+166067  15dde7fc-54de-5aa0-8a4e-464aea30342d               RUDDING PARK  47.0        3276.747
+171291  21ff2d4d-a5c6-552c-ae14-08a17f94db60                      KH7 1  41.0        1349.194
+173535  23e386ac-b354-5d95-8a18-67cd7cd83148                             36.0        3393.833
+183420  32c70449-f036-5c7d-b886-c62e889004c9                             57.0        3363.638
+167722  35b3cb57-c982-559f-9b1b-4411975ea175                      KH7 1  39.0        1330.207
+178173  3b31dd33-621c-52a2-8dfd-fb818e5c66eb              RAMON VILELLA  73.0        3660.907
+175411  40ffea5d-ae1e-5a56-89f3-b73062bc396e                             60.0        6237.879
+163862  496b08ff-62c0-5a60-849f-1a99bcfe0f9e                      KH7 2  40.0        1378.654
+175314  51f1d163-d194-5615-847b-d16409951c86                             54.0        3293.935
+174813  69eeb692-8c4c-5d96-90e1-910d66e7e8b2                    OCEANIS  63.0        3383.713
+169690  77478817-4711-5631-97b0-74a411352f2f                             52.0        4320.462
+162766  7b167227-8f2b-5f8c-8d1b-6202a946d7bf                             40.0        3583.959
+181720  9ef98b72-d122-533c-968e-394d879f3c3c           FLYZ MONTENEVADO  35.0        1349.608
+182848  a7946dab-ac23-5e60-b549-b87328d3c563                BAR EL GATO  62.0        3780.521
+168314  b2a82d55-45ac-5229-8d33-df5f3834a509          ITERAL CONSULTING  60.0        4317.914
+167352  bd10d2ef-c894-52b4-a0b1-0e5d0a945fdc  EQUIPE NATIONALE DU MAROC  53.0        4540.760
+182550  c2a22533-97fd-5396-8d17-64b06a4f2cbe              RAMON VILELLA  53.0        3509.403
+182482  c5033044-4839-5874-8456-ef5ee0b2c4bd               RUDDING PARK  32.0        3275.932
+167971  c690c665-7cf0-5934-86a1-c9703823df0b                 VERBENA CC  42.0        1377.713
+176744  e6908d3f-14b1-5baf-9fdb-8938d601b992                             33.0        3409.369
+167143  ed3c0f57-5bc7-5670-8de2-a5a9456c534a                             65.0        3382.870
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 1, Split CP3 ===
+                                  athlete_id                        club  edad  time_split_sec
+168618  0d44262d-d10c-5b24-935c-f4c623b71e52                     BIKE BÉ  58.0           0.000
+166068  15dde7fc-54de-5aa0-8a4e-464aea30342d                RUDDING PARK  47.0        2569.391
+162916  4d325944-3693-5adf-a199-43b47210f9db  TEAM KOSNER-SALTOKI HOME 1  41.0         678.731
+174910  5aee5aa3-a432-573e-a674-11d4c9ca54d0   EQUIPE NATIONALE DU MAROC  62.0        1917.685
+177143  5f9180df-59f9-5d94-8a20-e5f66b18681e     AURAL CENTROS AUDITIVOS  50.0        1861.845
+174814  69eeb692-8c4c-5d96-90e1-910d66e7e8b2                     OCEANIS  63.0        1825.574
+183771  72f3102e-e7fa-5fe6-a7ed-7bdb1c767fa2                              40.0        1860.146
+169691  77478817-4711-5631-97b0-74a411352f2f                              52.0           0.000
+182849  a7946dab-ac23-5e60-b549-b87328d3c563                 BAR EL GATO  62.0           0.000
+168315  b2a82d55-45ac-5229-8d33-df5f3834a509           ITERAL CONSULTING  60.0           0.000
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 1, Split CP4 ===
+                                  athlete_id                        club  edad  time_split_sec
+170455  178bf318-6b9f-58b0-8c8c-daf2e22a090b   TEAM BIKE AND BICI LLEIDA  57.0       14594.793
+182361  341b2256-a21f-5aa5-84f0-bd5ebb7ce25d      EDIBIKES / FLECA VELLA  45.0        5479.108
+167725  35b3cb57-c982-559f-9b1b-4411975ea175                       KH7 1  39.0        5234.860
+162918  4d325944-3693-5adf-a199-43b47210f9db  TEAM KOSNER-SALTOKI HOME 1  41.0        5107.114
+184374  9e8f7c57-9a34-5d62-b013-c6187cf78d49     AURAL CENTROS AUDITIVOS  27.0       14575.174
+169492  b09f286b-d893-5548-8bdc-64ba245e9604            FLYZ MONTENEVADO  35.0        5224.884
+184273  b8119557-00ee-50a2-bd87-9c072e40c233                              56.0       14448.117
+167973  c690c665-7cf0-5934-86a1-c9703823df0b                  VERBENA CC  42.0        5478.691
+166390  dc280b34-c66b-5db1-b9ed-15c3b6348ebb   TEAM BIKE AND BICI LLEIDA  25.0       14596.068
+169218  f692b6a4-11fa-5225-bc0a-c04da4d986b7                              47.0       14678.288
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 1, Split EH1 ===
+                                  athlete_id                        club  edad  time_split_sec
+183818  0f6bf316-df6a-5246-88b1-ad44f4b7a0cb           INSTITUT GUTTMANN  58.0        5297.341
+163769  26d88625-694b-5087-8cda-7a0645b3be29           INSTITUT GUTTMANN  29.0        5277.358
+167721  35b3cb57-c982-559f-9b1b-4411975ea175                       KH7 1  39.0        1783.246
+163861  496b08ff-62c0-5a60-849f-1a99bcfe0f9e                       KH7 2  40.0        1797.008
+162914  4d325944-3693-5adf-a199-43b47210f9db  TEAM KOSNER-SALTOKI HOME 1  41.0        1606.341
+179430  60f9f643-db20-525b-b805-ea6464c403f7           INSTITUT GUTTMANN  48.0        5223.677
+164519  628d8260-0f0b-5b1a-b234-fe48c5ff3246           INSTITUT GUTTMANN  34.0        5028.825
+174812  69eeb692-8c4c-5d96-90e1-910d66e7e8b2                     OCEANIS  63.0        4914.094
+182430  6ebf9a41-86ab-5447-9f63-3b6a47f6e720           INSTITUT GUTTMANN  39.0        5215.007
+177515  6feade42-64ad-5daf-891a-9a3d30b043e5           INSTITUT GUTTMANN  60.0        5251.586
+181275  9500725a-190b-568d-b289-b722f19823e9                              50.0        4973.243
+172493  a052d5cd-51ca-5d63-ad06-ebfa720f6ddd           INSTITUT GUTTMANN  47.0        5330.052
+169488  b09f286b-d893-5548-8bdc-64ba245e9604            FLYZ MONTENEVADO  35.0        1672.638
+171894  b6861a84-dc59-5797-8978-ed1a4a86962a           INSTITUT GUTTMANN  52.0        5042.351
+170502  d747d402-4d6f-5d59-864f-460dd76ddb28      VASCONHA BTT / VOUZELA  37.0        1792.825
+169841  e32760c7-4811-5cc3-91f7-3da2a995629c           INSTITUT GUTTMANN  37.0        5031.766
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 1, Split EH2 ===
+                                  athlete_id                        club  edad  time_split_sec
+178576  007fbebc-bb58-5f1b-aa74-3cb12abeda95          ŠKODA CYCLING TEAM  37.0        3225.648
+173386  01f9c0b1-e2db-5053-ba3b-f711ada126a9          ŠKODA CYCLING TEAM  50.0        3227.893
+173197  1f99fe22-a93d-5198-9eb5-df83def8cefa                  UV AUCH GG  30.0        1172.098
+173537  23e386ac-b354-5d95-8a18-67cd7cd83148                              36.0        3161.836
+167724  35b3cb57-c982-559f-9b1b-4411975ea175                       KH7 1  39.0        1121.535
+162917  4d325944-3693-5adf-a199-43b47210f9db  TEAM KOSNER-SALTOKI HOME 1  41.0        1109.895
+179190  51ae50f9-68ab-58a3-96f0-b20f05da8d02               GRUP VILACONS  60.0        3516.147
+169491  b09f286b-d893-5548-8bdc-64ba245e9604            FLYZ MONTENEVADO  35.0        1124.079
+170508  d747d402-4d6f-5d59-864f-460dd76ddb28      VASCONHA BTT / VOUZELA  37.0        1171.364
+172891  d7833f64-caeb-525d-9637-d86cf8f33962               GRUP VILACONS  59.0        3517.442
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 1, Split Last km ===
+                                  athlete_id                        club  edad  time_split_sec
+171049  01f3ab93-17f9-5414-9023-93832a5e40f9                              56.0         481.684
+166071  15dde7fc-54de-5aa0-8a4e-464aea30342d                RUDDING PARK  47.0         355.438
+182010  1e6f4bcd-e74c-53ce-91ae-ec621b474b0d          ŠKODA CYCLING TEAM  33.0         136.142
+182702  32a7dd30-d98f-5f07-986b-19398bcf45b5                       KH7 5  45.0         358.338
+167726  35b3cb57-c982-559f-9b1b-4411975ea175                       KH7 1  39.0         131.039
+162919  4d325944-3693-5adf-a199-43b47210f9db  TEAM KOSNER-SALTOKI HOME 1  41.0         128.024
+170097  5dfb0ad8-6857-5875-b4db-e67220e006bf                     RENESYN  68.0         363.196
+169493  b09f286b-d893-5548-8bdc-64ba245e9604            FLYZ MONTENEVADO  35.0         132.305
+181926  bb5bb51d-c2d4-5e39-aaf5-59ab46ade998   EQUIPE NATIONALE DU MAROC  23.0         146.155
+179687  f060d17b-a047-58b8-96f0-f6961c6c15a9          HUMAN RE-EVOLUTION  43.0         480.281
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 1, Split Meta ===
+                                  athlete_id                        club  edad  time_split_sec
+164575  20f1cb50-15de-5a2c-bd03-f3cd2275b2a7                   LICA TEAM  43.0         104.293
+173539  23e386ac-b354-5d95-8a18-67cd7cd83148                              36.0         451.483
+162920  4d325944-3693-5adf-a199-43b47210f9db  TEAM KOSNER-SALTOKI HOME 1  41.0          98.142
+174817  69eeb692-8c4c-5d96-90e1-910d66e7e8b2                     OCEANIS  63.0         588.824
+166341  6d963d4e-c63d-5ac0-97f1-7f9dd580b2b9  TEAM KOSNER-SALTOKI HOME 7  53.0         740.549
+177094  721b3091-0221-5c21-838b-05ebb5eef7c1                      KH7 11  46.0         469.143
+174138  76e3a4e2-a7c9-54bb-a60d-9fef7dbe2bb3                   LICA TEAM  45.0         104.299
+180929  9d0e931b-55ba-597b-a30c-07e8eb109b2f                   LICA TEAM  59.0         103.939
+169494  b09f286b-d893-5548-8bdc-64ba245e9604            FLYZ MONTENEVADO  35.0         103.981
+166692  e6eb2189-19bf-532e-991b-48c00ab96391                       KH7 6  44.0         469.046
+167147  ed3c0f57-5bc7-5670-8de2-a5a9456c534a                              65.0         447.704
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 2, Split EH1 ===
+                                  athlete_id                        club  edad  time_split_sec
+171052  01f3ab93-17f9-5414-9023-93832a5e40f9                              56.0        5212.618
+174721  0af937f2-fc82-5740-957d-47b1243bdd05  TEAM KOSNER-SALTOKI HOME 1  49.0        2652.688
+179245  0ef12dba-e013-58ab-b4ab-65a1a1a21889  TEAM KOSNER-SALTOKI HOME 2  39.0        2649.995
+166074  15dde7fc-54de-5aa0-8a4e-464aea30342d                RUDDING PARK  47.0        6007.330
+166597  1e93d7d5-a5df-5688-a7e8-be2554c23138      HAUSMANN AROMATIC TEAM  22.0        2649.971
+171298  21ff2d4d-a5c6-552c-ae14-08a17f94db60                       KH7 1  41.0        2639.704
+173541  23e386ac-b354-5d95-8a18-67cd7cd83148                              36.0        6213.931
+170350  3304619f-941a-58cb-8d8f-ed03b6665ae7                              36.0        5551.368
+164172  4223896e-afbc-5a37-8ae5-624bdd24d9ed          VICTORIA FACTORY 4  59.0        6190.130
+170100  5dfb0ad8-6857-5875-b4db-e67220e006bf                     RENESYN  68.0        5547.902
+174819  69eeb692-8c4c-5d96-90e1-910d66e7e8b2                     OCEANIS  63.0        6129.925
+164802  74439deb-77eb-5293-9686-ada7b9b0457e                              39.0        2626.771
+177232  a5dc12b3-8827-5cca-bbfa-e68325c2c949     CLUB CICLISTA TREITOIRO  58.0        5556.754
+182484  c5033044-4839-5874-8456-ef5ee0b2c4bd                RUDDING PARK  32.0        6005.082
+179690  f060d17b-a047-58b8-96f0-f6961c6c15a9          HUMAN RE-EVOLUTION  43.0        5213.508
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 2, Split EH2 ===
+                                  athlete_id                        club  edad  time_split_sec
+166075  15dde7fc-54de-5aa0-8a4e-464aea30342d                RUDDING PARK  47.0       10419.256
+171299  21ff2d4d-a5c6-552c-ae14-08a17f94db60                       KH7 1  41.0        3167.182
+173542  23e386ac-b354-5d95-8a18-67cd7cd83148                              36.0        9538.882
+170351  3304619f-941a-58cb-8d8f-ed03b6665ae7                              36.0        7844.700
+167730  35b3cb57-c982-559f-9b1b-4411975ea175                       KH7 1  39.0        3147.204
+164173  4223896e-afbc-5a37-8ae5-624bdd24d9ed          VICTORIA FACTORY 4  59.0        9565.510
+162923  4d325944-3693-5adf-a199-43b47210f9db  TEAM KOSNER-SALTOKI HOME 1  41.0        3148.215
+170101  5dfb0ad8-6857-5875-b4db-e67220e006bf                     RENESYN  68.0        7906.540
+174820  69eeb692-8c4c-5d96-90e1-910d66e7e8b2                     OCEANIS  63.0        9623.769
+181728  9ef98b72-d122-533c-968e-394d879f3c3c            FLYZ MONTENEVADO  35.0        3284.683
+177233  a5dc12b3-8827-5cca-bbfa-e68325c2c949     CLUB CICLISTA TREITOIRO  58.0        7844.745
+169497  b09f286b-d893-5548-8bdc-64ba245e9604            FLYZ MONTENEVADO  35.0        3148.252
+182485  c5033044-4839-5874-8456-ef5ee0b2c4bd                RUDDING PARK  32.0       10417.272
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 2, Split Meta ===
+                                  athlete_id                        club  edad  time_split_sec
+171054  01f3ab93-17f9-5414-9023-93832a5e40f9                              56.0        6691.117
+178431  0ec50de4-1402-558b-adcf-3c646ce06ada     AURAL CENTROS AUDITIVOS  48.0        5527.762
+166076  15dde7fc-54de-5aa0-8a4e-464aea30342d                RUDDING PARK  47.0        6115.748
+171300  21ff2d4d-a5c6-552c-ae14-08a17f94db60                       KH7 1  41.0        2054.949
+173543  23e386ac-b354-5d95-8a18-67cd7cd83148                              36.0        5704.942
+168526  2f96ded9-1db9-55dd-ad34-45039f6302d0   TEAM KOSER-SALTOKI HOME 6  58.0       11504.928
+170352  3304619f-941a-58cb-8d8f-ed03b6665ae7                              36.0        6173.384
+182367  341b2256-a21f-5aa5-84f0-bd5ebb7ce25d      EDIBIKES / FLECA VELLA  45.0        2016.533
+178182  3b31dd33-621c-52a2-8dfd-fb818e5c66eb               RAMON VILELLA  73.0        5586.529
+164174  4223896e-afbc-5a37-8ae5-624bdd24d9ed          VICTORIA FACTORY 4  59.0        5703.828
+163871  496b08ff-62c0-5a60-849f-1a99bcfe0f9e                       KH7 2  40.0        2030.592
+170102  5dfb0ad8-6857-5875-b4db-e67220e006bf                     RENESYN  68.0        6115.871
+174821  69eeb692-8c4c-5d96-90e1-910d66e7e8b2                     OCEANIS  63.0        5703.928
+162775  7b167227-8f2b-5f8c-8d1b-6202a946d7bf                              40.0        5591.540
+167658  9668f244-16b0-5f2e-b4cd-fbf55566841a                              50.0        5405.232
+181729  9ef98b72-d122-533c-968e-394d879f3c3c            FLYZ MONTENEVADO  35.0        1920.148
+177234  a5dc12b3-8827-5cca-bbfa-e68325c2c949     CLUB CICLISTA TREITOIRO  58.0        6172.895
+162823  b7d53cfe-681f-5df2-be6f-84508485715e                              55.0        5458.296
+181930  bb5bb51d-c2d4-5e39-aaf5-59ab46ade998   EQUIPE NATIONALE DU MAROC  23.0        7861.660
+182486  c5033044-4839-5874-8456-ef5ee0b2c4bd                RUDDING PARK  32.0        6121.508
+167980  c690c665-7cf0-5934-86a1-c9703823df0b                  VERBENA CC  42.0        2030.503
+163971  e24769f7-cdfa-54cc-9ab5-1b4cacee8379                           0  49.0        5405.785
+176753  e6908d3f-14b1-5baf-9fdb-8938d601b992                              33.0        5589.455
+179692  f060d17b-a047-58b8-96f0-f6961c6c15a9          HUMAN RE-EVOLUTION  43.0        5869.810
+163577  f9bac489-e75d-5587-953a-043f2ee9c4ca  TEAM KOSNER-SALTOKI HOME 6  69.0        5683.051
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 3, Split CP1 ===
+                                  athlete_id                        club  edad  time_split_sec
+173545  23e386ac-b354-5d95-8a18-67cd7cd83148                              36.0        3215.397
+172058  3a645c31-934d-5c3c-954b-e338a044b892            A RITME DE PEDAL  63.0        3237.169
+162926  4d325944-3693-5adf-a199-43b47210f9db  TEAM KOSNER-SALTOKI HOME 1  41.0        1610.238
+177286  58e5141d-141d-5b64-ae8b-3cbdac4997b9   EQUIPE NATIONALE DU MAROC  20.0        1672.530
+174823  69eeb692-8c4c-5d96-90e1-910d66e7e8b2                     OCEANIS  63.0        3130.325
+174529  827ae310-ae81-570f-ae7c-2497665cb674                       KH7 3  39.0        1643.699
+164632  bff9905a-e4ec-568d-847b-8590f0eb2558  TEAM KOSNER-SALTOKI HOME 1  46.0        1674.601
+167982  c690c665-7cf0-5934-86a1-c9703823df0b                  VERBENA CC  42.0        1646.346
+166148  ca6a55fd-85ec-5ffd-ad6c-35253d539e84                              68.0        3246.098
+167149  ed3c0f57-5bc7-5670-8de2-a5a9456c534a                              65.0        3142.140
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 3, Split CP2 ===
+                                  athlete_id                       club  edad  time_split_sec
+177631  0cb4c284-fd60-51b4-b1a2-5fc0ea4cb2c8           MOOVE FOUNDATION  23.0        3309.276
+166080  15dde7fc-54de-5aa0-8a4e-464aea30342d               RUDDING PARK  47.0        4624.031
+173547  23e386ac-b354-5d95-8a18-67cd7cd83148                             36.0        3376.794
+164280  2e9a0ae4-542a-5766-be7a-a00b2bae2033           MOOVE FOUNDATION  24.0        3263.935
+172059  3a645c31-934d-5c3c-954b-e338a044b892           A RITME DE PEDAL  63.0        4311.973
+171807  3da20337-4c60-580d-8d57-1d6aafa0dd27           MOOVE FOUNDATION  29.0        3344.340
+173897  41a097e0-8739-5ce3-a7be-12c4fe8a5172    AURAL CENTROS AUDITIVOS  54.0        3976.492
+182070  42d75e05-09b0-5d12-8d8b-810ffbec93f5                      KH7 1  48.0        1493.338
+174824  69eeb692-8c4c-5d96-90e1-910d66e7e8b2                    OCEANIS  63.0        5608.393
+164808  74439deb-77eb-5293-9686-ada7b9b0457e                             39.0        1440.910
+174531  827ae310-ae81-570f-ae7c-2497665cb674                      KH7 3  39.0        1478.918
+170667  8b3763fa-0cda-50f1-8449-69496d83a314        PALO BIKE ENTREMONT  52.0        3344.688
+166029  ad9b3031-1b8b-539f-9af1-7a90ab51f8bf        PALO BIKE ENTREMONT  50.0        3341.828
+164482  aface548-6a92-5197-a8ea-7cd002d50382        PALO BIKE ENTREMONT  46.0        3348.346
+178682  b07eb1fe-5666-5397-b529-b43ece3952e4                             42.0        4520.399
+163380  b5793b4a-1d90-5878-a6fd-fb87a01b443f      PALO BIKE & ENTREMONT  52.0        3347.227
+181541  b9df0523-4d0b-518c-93f0-1d2f9fee7033        PALO BIKE ENTREMONT  52.0        3343.718
+181934  bb5bb51d-c2d4-5e39-aaf5-59ab46ade998  EQUIPE NATIONALE DU MAROC  23.0        1463.292
+182490  c5033044-4839-5874-8456-ef5ee0b2c4bd               RUDDING PARK  32.0        4620.252
+167984  c690c665-7cf0-5934-86a1-c9703823df0b                 VERBENA CC  42.0        1467.246
+179746  c813b69e-dab3-597e-a1c7-8b7147bc7af1        PALO BIKE-ENTREMONT  47.0        3349.181
+167150  ed3c0f57-5bc7-5670-8de2-a5a9456c534a                             65.0        5569.090
+172753  f22f2e83-8a10-5203-a583-966725d5e7e1    AURAL CENTROS AUDITIVOS  33.0        5715.146
+169227  f692b6a4-11fa-5225-bc0a-c04da4d986b7                             47.0        3715.080
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 3, Split CP3 ===
+                                  athlete_id                        club  edad  time_split_sec
+171306  21ff2d4d-a5c6-552c-ae14-08a17f94db60                       KH7 1  41.0         937.465
+173549  23e386ac-b354-5d95-8a18-67cd7cd83148                              36.0        5377.377
+183435  32c70449-f036-5c7d-b886-c62e889004c9                              57.0        5516.728
+167737  35b3cb57-c982-559f-9b1b-4411975ea175                       KH7 1  39.0         949.226
+162930  4d325944-3693-5adf-a199-43b47210f9db  TEAM KOSNER-SALTOKI HOME 1  41.0         927.143
+174826  69eeb692-8c4c-5d96-90e1-910d66e7e8b2                     OCEANIS  63.0        6155.629
+169504  b09f286b-d893-5548-8bdc-64ba245e9604            FLYZ MONTENEVADO  35.0         898.392
+182492  c5033044-4839-5874-8456-ef5ee0b2c4bd                RUDDING PARK  32.0        5347.728
+167986  c690c665-7cf0-5934-86a1-c9703823df0b                  VERBENA CC  42.0         936.050
+167152  ed3c0f57-5bc7-5670-8de2-a5a9456c534a                              65.0        5176.031
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 3, Split CP4 ===
+                                  athlete_id                        club  edad  time_split_sec
+176710  00023dce-52ad-5793-adaf-cb2511f1315c                      KH7 13  57.0        1243.824
+171062  01f3ab93-17f9-5414-9023-93832a5e40f9                              56.0        1361.485
+167008  06cedd2a-fbaf-54b6-bd4b-8ba7feb6c735               QUALITYY TEAM  65.0        1144.327
+173209  1f99fe22-a93d-5198-9eb5-df83def8cefa                  UV AUCH GG  30.0         243.960
+171308  21ff2d4d-a5c6-552c-ae14-08a17f94db60                       KH7 1  41.0         229.914
+182715  32a7dd30-d98f-5f07-986b-19398bcf45b5                       KH7 5  45.0        3887.407
+178190  3b31dd33-621c-52a2-8dfd-fb818e5c66eb               RAMON VILELLA  73.0        1307.801
+162932  4d325944-3693-5adf-a199-43b47210f9db  TEAM KOSNER-SALTOKI HOME 1  41.0        1407.301
+175631  68bead1f-33fd-554d-a7a1-81da361efbc7               SPRITE AGADIR  66.0        1120.500
+174828  69eeb692-8c4c-5d96-90e1-910d66e7e8b2                     OCEANIS  63.0        1451.154
+166353  6d963d4e-c63d-5ac0-97f1-7f9dd580b2b9  TEAM KOSNER-SALTOKI HOME 7  53.0        1398.931
+162783  7b167227-8f2b-5f8c-8d1b-6202a946d7bf                              40.0        1301.639
+182816  7ca41cdd-2a61-5abe-ad46-8f1e2ed4051a                              52.0        3497.177
+183586  92ba0889-f26c-57aa-9815-d96e4d07a0c8               RESERVA PONAL  55.0        1282.698
+172707  98956706-a169-583b-a472-3982194f0509                     CONYONS  51.0        1979.059
+180236  9b411786-e1bc-558c-81ac-a5c988946253                       YOTTA  51.0        2403.355
+178489  9decd63e-5225-5cdd-a799-67f3f0380212                              49.0        4113.300
+181737  9ef98b72-d122-533c-968e-394d879f3c3c            FLYZ MONTENEVADO  35.0         234.700
+182865  a7946dab-ac23-5e60-b549-b87328d3c563                 BAR EL GATO  62.0        3816.495
+178911  aabf7f67-d95c-599a-8025-9353b4287435          FAT BIKE BARCELONA  47.0        1083.283
+169506  b09f286b-d893-5548-8bdc-64ba245e9604            FLYZ MONTENEVADO  35.0         229.778
+172113  b975ce22-2502-5af5-8eee-7bcfadfbef72                     BIKE BÉ  63.0        3710.872
+184590  c55ca4ba-0ab2-58a9-9247-0d14c270fc72  TEAM KOSNER-SALTOKI HOME 8  47.0        1604.560
+167988  c690c665-7cf0-5934-86a1-c9703823df0b                  VERBENA CC  42.0         228.227
+172562  e2e8cffb-36f4-5af8-a163-50b07150594e  TEAM KOSNER-SALTOKI HOME 8  55.0        1676.660
+176761  e6908d3f-14b1-5baf-9fdb-8938d601b992                              33.0        1414.610
+174302  ec4edc3d-8b4c-5c1f-8430-2114f81b859f                              56.0        1187.496
+167154  ed3c0f57-5bc7-5670-8de2-a5a9456c534a                              65.0        1216.795
+179700  f060d17b-a047-58b8-96f0-f6961c6c15a9          HUMAN RE-EVOLUTION  43.0        1285.670
+172757  f22f2e83-8a10-5203-a583-966725d5e7e1     AURAL CENTROS AUDITIVOS  33.0        1181.219
+174686  f8397d3d-edaa-521b-be03-91be57995533                              61.0        1135.469
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 3, Split EH1 ===
+                                  athlete_id                        club  edad  time_split_sec
+178586  007fbebc-bb58-5f1b-aa74-3cb12abeda95          ŠKODA CYCLING TEAM  37.0        2626.127
+171057  01f3ab93-17f9-5414-9023-93832a5e40f9                              56.0        2661.877
+173396  01f9c0b1-e2db-5053-ba3b-f711ada126a9          ŠKODA CYCLING TEAM  50.0        2658.714
+176479  2be61dd9-ad28-5c89-82c0-9cb3a48f3fd2       CICLES BERENGUER TEAM  46.0        1234.059
+166348  6d963d4e-c63d-5ac0-97f1-7f9dd580b2b9  TEAM KOSNER-SALTOKI HOME 7  53.0        2593.968
+170154  775f95fd-5e69-58f1-bab1-de4a20ae9f86          VICTORIA FACTORY 2  59.0        1235.524
+172607  7965fd1e-cdfb-55a6-be99-748b15af0ae5                              41.0        1235.356
+164757  80d628b8-fee2-50d8-9241-a22db2cdd013                  IKOSSOKGAS  61.0        1235.684
+167782  980ba00d-8eb8-5b52-9dbb-78db01d68609          TEAM OOP! - XANTEN  56.0        1235.275
+178805  b281c669-f984-53e4-8182-7201455023e5              CYCLING MY WAY  46.0        3163.710
+180896  c2ff9171-3e47-5bc5-8696-f7d81712cdf0              CYCLING MY WAY  32.0        3164.510
+171605  d45dc5e0-486f-58f9-87d2-7d05e42fa831              CYCLING MY WAY  38.0        3161.030
+179695  f060d17b-a047-58b8-96f0-f6961c6c15a9          HUMAN RE-EVOLUTION  43.0        2598.932
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 3, Split EH2 ===
+                                  athlete_id                        club  edad  time_split_sec
+169179  0a6e3323-3dac-5f3e-8fd0-1bd50da1b34f         PERALEJOS DE ARRIBA  42.0        6160.043
+166081  15dde7fc-54de-5aa0-8a4e-464aea30342d                RUDDING PARK  47.0        6884.365
+173206  1f99fe22-a93d-5198-9eb5-df83def8cefa                  UV AUCH GG  30.0        2096.216
+171305  21ff2d4d-a5c6-552c-ae14-08a17f94db60                       KH7 1  41.0        2040.428
+173548  23e386ac-b354-5d95-8a18-67cd7cd83148                              36.0        7944.360
+168531  2f96ded9-1db9-55dd-ad34-45039f6302d0   TEAM KOSER-SALTOKI HOME 6  58.0        7527.161
+183434  32c70449-f036-5c7d-b886-c62e889004c9                              57.0        7887.107
+167736  35b3cb57-c982-559f-9b1b-4411975ea175                       KH7 1  39.0        1919.961
+178187  3b31dd33-621c-52a2-8dfd-fb818e5c66eb               RAMON VILELLA  73.0        6643.755
+162929  4d325944-3693-5adf-a199-43b47210f9db  TEAM KOSNER-SALTOKI HOME 1  41.0        1941.779
+170107  5dfb0ad8-6857-5875-b4db-e67220e006bf                     RENESYN  68.0        6605.116
+182222  798b6702-3a32-5952-afe5-cdcd359b0132         PERALEJOS DE ARRIBA  47.0        6163.017
+162780  7b167227-8f2b-5f8c-8d1b-6202a946d7bf                              40.0        6622.055
+181290  9500725a-190b-568d-b289-b722f19823e9                              50.0        6592.850
+172659  a3982101-3edf-56e9-8aa5-01609f2ddbe2           TITAN DEJA HUELLA  60.0        6290.640
+169503  b09f286b-d893-5548-8bdc-64ba245e9604            FLYZ MONTENEVADO  35.0        2067.788
+182491  c5033044-4839-5874-8456-ef5ee0b2c4bd                RUDDING PARK  32.0        6868.523
+172307  d24bd455-bb6b-57a5-bd60-f2c444e3ac6f                   WAS25-TDM  41.0        6200.747
+165761  d60bcb98-913f-5234-8330-911129c7e102           TITAN DEJA HUELLA  30.0        6292.864
+176758  e6908d3f-14b1-5baf-9fdb-8938d601b992                              33.0        6622.702
+167151  ed3c0f57-5bc7-5670-8de2-a5a9456c534a                              65.0        6870.876
+172754  f22f2e83-8a10-5203-a583-966725d5e7e1     AURAL CENTROS AUDITIVOS  33.0        6983.543
+163582  f9bac489-e75d-5587-953a-043f2ee9c4ca  TEAM KOSNER-SALTOKI HOME 6  69.0        7496.186
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 3, Split EH3 ===
+                                  athlete_id                        club  edad  time_split_sec
+178590  007fbebc-bb58-5f1b-aa74-3cb12abeda95          ŠKODA CYCLING TEAM  37.0         3865.17
+173400  01f9c0b1-e2db-5053-ba3b-f711ada126a9          ŠKODA CYCLING TEAM  50.0         3838.18
+171307  21ff2d4d-a5c6-552c-ae14-08a17f94db60                       KH7 1  41.0         2040.51
+168533  2f96ded9-1db9-55dd-ad34-45039f6302d0   TEAM KOSER-SALTOKI HOME 6  58.0         3657.23
+183436  32c70449-f036-5c7d-b886-c62e889004c9                              57.0         3851.86
+167738  35b3cb57-c982-559f-9b1b-4411975ea175                       KH7 1  39.0         2042.03
+178189  3b31dd33-621c-52a2-8dfd-fb818e5c66eb               RAMON VILELLA  73.0         3559.94
+162931  4d325944-3693-5adf-a199-43b47210f9db  TEAM KOSNER-SALTOKI HOME 1  41.0         2046.60
+170109  5dfb0ad8-6857-5875-b4db-e67220e006bf                     RENESYN  68.0         4304.10
+162782  7b167227-8f2b-5f8c-8d1b-6202a946d7bf                              40.0         3559.38
+169505  b09f286b-d893-5548-8bdc-64ba245e9604            FLYZ MONTENEVADO  35.0         2040.21
+182493  c5033044-4839-5874-8456-ef5ee0b2c4bd                RUDDING PARK  32.0         3809.57
+167987  c690c665-7cf0-5934-86a1-c9703823df0b                  VERBENA CC  42.0         2042.73
+174301  ec4edc3d-8b4c-5c1f-8430-2114f81b859f                              56.0         3531.28
+167153  ed3c0f57-5bc7-5670-8de2-a5a9456c534a                              65.0         3624.28
+172756  f22f2e83-8a10-5203-a583-966725d5e7e1     AURAL CENTROS AUDITIVOS  33.0         3627.06
+163584  f9bac489-e75d-5587-953a-043f2ee9c4ca  TEAM KOSNER-SALTOKI HOME 6  69.0         3763.53
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 3, Split Lastkm ===
+                                  athlete_id                        club  edad  time_split_sec
+167009  06cedd2a-fbaf-54b6-bd4b-8ba7feb6c735               QUALITYY TEAM  65.0        2882.353
+174732  0af937f2-fc82-5740-957d-47b1243bdd05  TEAM KOSNER-SALTOKI HOME 1  49.0        1685.699
+171309  21ff2d4d-a5c6-552c-ae14-08a17f94db60                       KH7 1  41.0        1556.236
+167740  35b3cb57-c982-559f-9b1b-4411975ea175                       KH7 1  39.0        1565.106
+175429  40ffea5d-ae1e-5a56-89f3-b73062bc396e                              60.0        2908.194
+162933  4d325944-3693-5adf-a199-43b47210f9db  TEAM KOSNER-SALTOKI HOME 1  41.0        1679.729
+178490  9decd63e-5225-5cdd-a799-67f3f0380212                              49.0        3115.940
+169507  b09f286b-d893-5548-8bdc-64ba245e9604            FLYZ MONTENEVADO  35.0        1557.432
+174495  ce21f63f-37fd-5a01-8cab-4ff5c16444ce                QUALITY TEAM  60.0        2881.970
+174303  ec4edc3d-8b4c-5c1f-8430-2114f81b859f                              56.0        2965.034
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 3, Split Meta ===
+                                  athlete_id                        club  edad  time_split_sec
+178592  007fbebc-bb58-5f1b-aa74-3cb12abeda95          ŠKODA CYCLING TEAM  37.0        3387.533
+171063  01f3ab93-17f9-5414-9023-93832a5e40f9                              56.0        3441.669
+173402  01f9c0b1-e2db-5053-ba3b-f711ada126a9          ŠKODA CYCLING TEAM  50.0        3388.760
+171310  21ff2d4d-a5c6-552c-ae14-08a17f94db60                       KH7 1  41.0         130.999
+173552  23e386ac-b354-5d95-8a18-67cd7cd83148                              36.0        3792.232
+168535  2f96ded9-1db9-55dd-ad34-45039f6302d0   TEAM KOSER-SALTOKI HOME 6  58.0        3160.340
+183438  32c70449-f036-5c7d-b886-c62e889004c9                              57.0        3506.524
+170361  3304619f-941a-58cb-8d8f-ed03b6665ae7                              36.0        3438.875
+167741  35b3cb57-c982-559f-9b1b-4411975ea175                       KH7 1  39.0         131.392
+178191  3b31dd33-621c-52a2-8dfd-fb818e5c66eb               RAMON VILELLA  73.0        3722.086
+173353  45c1985c-9a4f-5dda-8a23-1f5251ffb18b   EQUIPE NATIONALE DU MAROC  26.0         133.979
+170111  5dfb0ad8-6857-5875-b4db-e67220e006bf                     RENESYN  68.0        3896.083
+174829  69eeb692-8c4c-5d96-90e1-910d66e7e8b2                     OCEANIS  63.0        3423.172
+182619  7768fc6d-610c-5188-b2b1-ffc9955c01e6                              53.0         328.092
+162784  7b167227-8f2b-5f8c-8d1b-6202a946d7bf                              40.0        3726.378
+184039  8c321779-5c7c-5c1a-99db-92e8e3b1e77a                              37.0         132.271
+169133  93b73913-0d46-5bba-8a96-5e42620b0c70                  TEAM PU&MA  56.0        2800.532
+172709  98956706-a169-583b-a472-3982194f0509                     CONYONS  51.0         324.631
+177243  a5dc12b3-8827-5cca-bbfa-e68325c2c949     CLUB CICLISTA TREITOIRO  58.0        3438.706
+169508  b09f286b-d893-5548-8bdc-64ba245e9604            FLYZ MONTENEVADO  35.0         130.951
+181939  bb5bb51d-c2d4-5e39-aaf5-59ab46ade998   EQUIPE NATIONALE DU MAROC  23.0        2161.539
+177686  c2c9cb3b-0a9b-50ca-a7cf-66b08c89f093                  TEAM PU&MA  24.0        2800.447
+182495  c5033044-4839-5874-8456-ef5ee0b2c4bd                RUDDING PARK  32.0        9193.497
+172311  d24bd455-bb6b-57a5-bd60-f2c444e3ac6f                   WAS25-TDM  41.0        4884.530
+176762  e6908d3f-14b1-5baf-9fdb-8938d601b992                              33.0        3728.550
+167155  ed3c0f57-5bc7-5670-8de2-a5a9456c534a                              65.0        3404.685
+179701  f060d17b-a047-58b8-96f0-f6961c6c15a9          HUMAN RE-EVOLUTION  43.0        3439.931
+172758  f22f2e83-8a10-5203-a583-966725d5e7e1     AURAL CENTROS AUDITIVOS  33.0        3205.447
+163586  f9bac489-e75d-5587-953a-043f2ee9c4ca  TEAM KOSNER-SALTOKI HOME 6  69.0        3158.825
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 4, Split CP1 ===
+                                  athlete_id                        club  edad  time_split_sec
+167626  108c6543-d171-5c31-b66f-b347efcd3e69                 FIGUIS7TEAM  26.0       10734.598
+176914  1a6117fa-a1d6-5187-8a4e-34c945bc47c0                 FIGUIS7TEAM  60.0        7884.766
+164237  1bb9d1a9-95b8-5d44-a527-c665106f1ee2                      DOMINO  57.0        7117.984
+168537  2f96ded9-1db9-55dd-ad34-45039f6302d0   TEAM KOSER-SALTOKI HOME 6  58.0        6490.119
+167743  35b3cb57-c982-559f-9b1b-4411975ea175                       KH7 1  39.0        2914.313
+168284  3929bc12-da28-5973-bed5-67f211087e7b                              61.0        7120.084
+162936  4d325944-3693-5adf-a199-43b47210f9db  TEAM KOSNER-SALTOKI HOME 1  41.0        2871.865
+164816  74439deb-77eb-5293-9686-ada7b9b0457e                              39.0        3068.421
+181741  9ef98b72-d122-533c-968e-394d879f3c3c            FLYZ MONTENEVADO  35.0        3072.049
+169510  b09f286b-d893-5548-8bdc-64ba245e9604            FLYZ MONTENEVADO  35.0        3071.992
+168890  eec489f3-7754-5def-a90f-548a1badc060  TEAM KOSNER-SALTOKI HOME 2  42.0       10740.994
+163588  f9bac489-e75d-5587-953a-043f2ee9c4ca  TEAM KOSNER-SALTOKI HOME 6  69.0        6500.356
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 4, Split CP2 ===
+                                  athlete_id                        club  edad  time_split_sec
+171066  01f3ab93-17f9-5414-9023-93832a5e40f9                              56.0        5819.843
+177640  0cb4c284-fd60-51b4-b1a2-5fc0ea4cb2c8            MOOVE FOUNDATION  23.0        5203.116
+173555  23e386ac-b354-5d95-8a18-67cd7cd83148                              36.0        6226.023
+164289  2e9a0ae4-542a-5766-be7a-a00b2bae2033            MOOVE FOUNDATION  24.0        5204.676
+167744  35b3cb57-c982-559f-9b1b-4411975ea175                       KH7 1  39.0        1953.801
+178194  3b31dd33-621c-52a2-8dfd-fb818e5c66eb               RAMON VILELLA  73.0        5207.352
+171816  3da20337-4c60-580d-8d57-1d6aafa0dd27            MOOVE FOUNDATION  29.0        5209.648
+162937  4d325944-3693-5adf-a199-43b47210f9db  TEAM KOSNER-SALTOKI HOME 1  41.0        1953.562
+174832  69eeb692-8c4c-5d96-90e1-910d66e7e8b2                     OCEANIS  63.0        5393.367
+164817  74439deb-77eb-5293-9686-ada7b9b0457e                              39.0        2061.970
+165414  78d8d116-5a0d-5987-8a23-1dd0d1bb09ea         DUO MASCULINO KH7 3  36.0        6746.353
+162787  7b167227-8f2b-5f8c-8d1b-6202a946d7bf                              40.0        5218.361
+183173  93de8a5d-0d29-51a2-a208-37c23e20eea1    CALAFRUT - MEISEL GARAGE  33.0        7129.088
+181742  9ef98b72-d122-533c-968e-394d879f3c3c            FLYZ MONTENEVADO  35.0        2062.129
+169511  b09f286b-d893-5548-8bdc-64ba245e9604            FLYZ MONTENEVADO  35.0        2062.120
+175988  cf1de49b-bd40-50ce-ab77-b6233dddcd41                      KH7 11  49.0        5306.565
+169360  d90f857c-328c-5002-8364-536feca66f9c         DUO MASCULINO KH7 4  49.0        6748.386
+172567  e2e8cffb-36f4-5af8-a163-50b07150594e  TEAM KOSNER-SALTOKI HOME 8  55.0        7173.021
+176765  e6908d3f-14b1-5baf-9fdb-8938d601b992                              33.0        5210.452
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 4, Split CP3 ===
+                                  athlete_id                        club  edad  time_split_sec
+171067  01f3ab93-17f9-5414-9023-93832a5e40f9                              56.0        2749.092
+169188  0a6e3323-3dac-5f3e-8fd0-1bd50da1b34f         PERALEJOS DE ARRIBA  42.0        2588.528
+166612  1e93d7d5-a5df-5688-a7e8-be2554c23138      HAUSMANN AROMATIC TEAM  22.0        3818.947
+166313  23ad916a-c728-587c-84a8-5e0c080174fa                              59.0        5370.912
+174883  286fee3f-838c-578e-93aa-46ddc1bc884b                              54.0        2589.862
+167745  35b3cb57-c982-559f-9b1b-4411975ea175                       KH7 1  39.0        1157.509
+164188  4223896e-afbc-5a37-8ae5-624bdd24d9ed          VICTORIA FACTORY 4  59.0        2727.230
+162938  4d325944-3693-5adf-a199-43b47210f9db  TEAM KOSNER-SALTOKI HOME 1  41.0        1155.692
+180392  592d8c72-0502-5057-b089-65696d9b5970                              24.0        2592.510
+170115  5dfb0ad8-6857-5875-b4db-e67220e006bf                     RENESYN  68.0        2524.641
+163490  669a5031-96a3-59c2-be22-615414e928bd      EDIBIKES / FLECA VELLA  46.0        3898.022
+164818  74439deb-77eb-5293-9686-ada7b9b0457e                              39.0        1208.991
+182231  798b6702-3a32-5952-afe5-cdcd359b0132         PERALEJOS DE ARRIBA  47.0        2592.704
+179959  9816d959-110a-53dd-8a13-d2bb7d99b2e6                              22.0        2885.803
+178495  9decd63e-5225-5cdd-a799-67f3f0380212                              49.0        2554.081
+181743  9ef98b72-d122-533c-968e-394d879f3c3c            FLYZ MONTENEVADO  35.0        1207.856
+169512  b09f286b-d893-5548-8bdc-64ba245e9604            FLYZ MONTENEVADO  35.0        1209.402
+179162  b3dad29f-e9ec-52cf-a3ca-228ce551446b         DUO MASCULINO KH7 4  54.0        2506.178
+170866  d0957f3a-c4b9-5748-a64d-43adb211846c     AURAL CENTROS AUDITIVOS  57.0        2527.146
+179705  f060d17b-a047-58b8-96f0-f6961c6c15a9          HUMAN RE-EVOLUTION  43.0        2679.298
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 4, Split CP4 ===
+                                  athlete_id                        club  edad  time_split_sec
+167016  06cedd2a-fbaf-54b6-bd4b-8ba7feb6c735               QUALITYY TEAM  65.0        8426.325
+165518  1f9e843d-c956-5658-90f1-b970c45f3d4e   EQUIPE NATIONALE DU MAROC  18.0        8186.528
+167748  35b3cb57-c982-559f-9b1b-4411975ea175                       KH7 1  39.0        3258.958
+162940  4d325944-3693-5adf-a199-43b47210f9db  TEAM KOSNER-SALTOKI HOME 1  41.0        3259.779
+181745  9ef98b72-d122-533c-968e-394d879f3c3c            FLYZ MONTENEVADO  35.0        3315.559
+178919  aabf7f67-d95c-599a-8025-9353b4287435          FAT BIKE BARCELONA  47.0        8422.316
+169514  b09f286b-d893-5548-8bdc-64ba245e9604            FLYZ MONTENEVADO  35.0        3319.036
+174502  ce21f63f-37fd-5a01-8cab-4ff5c16444ce                QUALITY TEAM  60.0        8278.439
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 4, Split EH2 ===
+                                  athlete_id                        club  edad  time_split_sec
+168943  344c41a2-c43d-56ef-9d26-ae12819ea04c       ŠKODA WE LOVE CYCLING  59.0        4273.100
+167746  35b3cb57-c982-559f-9b1b-4411975ea175                       KH7 1  39.0        1776.890
+162939  4d325944-3693-5adf-a199-43b47210f9db  TEAM KOSNER-SALTOKI HOME 1  41.0        1777.794
+164819  74439deb-77eb-5293-9686-ada7b9b0457e                              39.0        2007.249
+181744  9ef98b72-d122-533c-968e-394d879f3c3c            FLYZ MONTENEVADO  35.0        1919.381
+172518  a052d5cd-51ca-5d63-ad06-ebfa720f6ddd           INSTITUT GUTTMANN  47.0        4322.662
+172669  a3982101-3edf-56e9-8aa5-01609f2ddbe2           TITAN DEJA HUELLA  60.0        4395.553
+169513  b09f286b-d893-5548-8bdc-64ba245e9604            FLYZ MONTENEVADO  35.0        1916.291
+165771  d60bcb98-913f-5234-8330-911129c7e102           TITAN DEJA HUELLA  30.0        4280.539
+169866  e32760c7-4811-5cc3-91f7-3da2a995629c           INSTITUT GUTTMANN  37.0        4531.165
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 4, Split EH3 ===
+                                  athlete_id                        club  edad  time_split_sec
+183547  0795f043-8d47-5edc-914c-84607136bbbe      RESERVA PONAL COLOMBIA  57.0        2337.040
+169192  0a6e3323-3dac-5f3e-8fd0-1bd50da1b34f         PERALEJOS DE ARRIBA  42.0       10767.492
+174742  0af937f2-fc82-5740-957d-47b1243bdd05  TEAM KOSNER-SALTOKI HOME 1  49.0         888.450
+177645  0cb4c284-fd60-51b4-b1a2-5fc0ea4cb2c8            MOOVE FOUNDATION  23.0       10689.459
+176920  1a6117fa-a1d6-5187-8a4e-34c945bc47c0                 FIGUIS7TEAM  60.0        9339.582
+171319  21ff2d4d-a5c6-552c-ae14-08a17f94db60                       KH7 1  41.0         883.420
+173560  23e386ac-b354-5d95-8a18-67cd7cd83148                              36.0        8930.142
+174887  286fee3f-838c-578e-93aa-46ddc1bc884b                              54.0        8417.731
+164294  2e9a0ae4-542a-5766-be7a-a00b2bae2033            MOOVE FOUNDATION  24.0       10780.645
+183444  32c70449-f036-5c7d-b886-c62e889004c9                              57.0       10985.916
+178199  3b31dd33-621c-52a2-8dfd-fb818e5c66eb               RAMON VILELLA  73.0       10715.088
+171821  3da20337-4c60-580d-8d57-1d6aafa0dd27            MOOVE FOUNDATION  29.0       10747.009
+163890  496b08ff-62c0-5a60-849f-1a99bcfe0f9e                       KH7 2  40.0         888.620
+162941  4d325944-3693-5adf-a199-43b47210f9db  TEAM KOSNER-SALTOKI HOME 1  41.0         812.540
+180396  592d8c72-0502-5057-b089-65696d9b5970                              24.0        8479.040
+170119  5dfb0ad8-6857-5875-b4db-e67220e006bf                     RENESYN  68.0       10706.514
+174837  69eeb692-8c4c-5d96-90e1-910d66e7e8b2                     OCEANIS  63.0        9574.428
+183797  72f3102e-e7fa-5fe6-a7ed-7bdb1c767fa2                              40.0        5709.909
+164823  74439deb-77eb-5293-9686-ada7b9b0457e                              39.0        3143.530
+182235  798b6702-3a32-5952-afe5-cdcd359b0132         PERALEJOS DE ARRIBA  47.0       10739.907
+162792  7b167227-8f2b-5f8c-8d1b-6202a946d7bf                              40.0       10676.934
+183597  92ba0889-f26c-57aa-9815-d96e4d07a0c8               RESERVA PONAL  55.0        2337.040
+181303  9500725a-190b-568d-b289-b722f19823e9                              50.0       11014.443
+170581  9a909013-0d62-5c97-b6e7-c9fcdc2a64d3                  MAIGMO RIE  46.0        2751.890
+181153  a8fc1803-a795-5a3e-98f4-3be4139f1372                 SI PINTURAS  46.0        5538.330
+162842  b7d53cfe-681f-5df2-be6f-84508485715e                              55.0        2258.330
+178551  bf648b15-71f2-538a-a8be-dd5c2605b1bb                  MAIGMO RIE  44.0        2750.580
+182577  c2a22533-97fd-5396-8d17-64b06a4f2cbe               RAMON VILELLA  53.0       11122.993
+172174  cce7245f-b79e-563a-bb36-59be3d9a4182                              58.0        5524.913
+170531  d747d402-4d6f-5d59-864f-460dd76ddb28      VASCONHA BTT / VOUZELA  37.0         889.150
+176444  dc63f8d7-24c7-5e8a-b1bf-e148403a54b2                  MAIGMO RÍE  38.0        2750.430
+163990  e24769f7-cdfa-54cc-9ab5-1b4cacee8379                           0  49.0        2306.510
+172572  e2e8cffb-36f4-5af8-a163-50b07150594e  TEAM KOSNER-SALTOKI HOME 8  55.0        9157.007
+176770  e6908d3f-14b1-5baf-9fdb-8938d601b992                              33.0       10171.598
+172766  f22f2e83-8a10-5203-a583-966725d5e7e1     AURAL CENTROS AUDITIVOS  33.0       10771.769
+164142  f4245c5a-8811-51c0-b718-8b016f6b8cb5                              53.0       11418.918
+169241  f692b6a4-11fa-5225-bc0a-c04da4d986b7                              47.0       11500.142
+174696  f8397d3d-edaa-521b-be03-91be57995533                              61.0       12106.576
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 4, Split Lastkm ===
+                                  athlete_id                        club  edad  time_split_sec
+167018  06cedd2a-fbaf-54b6-bd4b-8ba7feb6c735               QUALITYY TEAM  65.0        5870.959
+183445  32c70449-f036-5c7d-b886-c62e889004c9                              57.0        5767.111
+162942  4d325944-3693-5adf-a199-43b47210f9db  TEAM KOSNER-SALTOKI HOME 1  41.0        2083.789
+170118  5dfb0ad8-6857-5875-b4db-e67220e006bf                     RENESYN  68.0        6398.486
+181747  9ef98b72-d122-533c-968e-394d879f3c3c            FLYZ MONTENEVADO  35.0        2126.971
+178921  aabf7f67-d95c-599a-8025-9353b4287435          FAT BIKE BARCELONA  47.0        5873.717
+169516  b09f286b-d893-5548-8bdc-64ba245e9604            FLYZ MONTENEVADO  35.0        2127.469
+174504  ce21f63f-37fd-5a01-8cab-4ff5c16444ce                QUALITY TEAM  60.0        5871.718
+170530  d747d402-4d6f-5d59-864f-460dd76ddb28      VASCONHA BTT / VOUZELA  37.0        2208.113
+175292  f0bd29fb-b976-5958-8140-4bfce480739e                       KH7 2  45.0        2209.367
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 4, Split Meta ===
+                                  athlete_id                        club  edad  time_split_sec
+178599  007fbebc-bb58-5f1b-aa74-3cb12abeda95          ŠKODA CYCLING TEAM  37.0         235.035
+171070  01f3ab93-17f9-5414-9023-93832a5e40f9                              56.0         258.571
+173409  01f9c0b1-e2db-5053-ba3b-f711ada126a9          ŠKODA CYCLING TEAM  50.0         233.885
+169190  0a6e3323-3dac-5f3e-8fd0-1bd50da1b34f         PERALEJOS DE ARRIBA  42.0       18185.659
+177643  0cb4c284-fd60-51b4-b1a2-5fc0ea4cb2c8            MOOVE FOUNDATION  23.0       18153.044
+164671  1783fbd8-d4b7-5e08-bc47-5dd46263d330                              44.0        5526.261
+176918  1a6117fa-a1d6-5187-8a4e-34c945bc47c0                 FIGUIS7TEAM  60.0       23618.327
+166616  1e93d7d5-a5df-5688-a7e8-be2554c23138      HAUSMANN AROMATIC TEAM  22.0        2586.637
+171317  21ff2d4d-a5c6-552c-ae14-08a17f94db60                       KH7 1  41.0         111.437
+173558  23e386ac-b354-5d95-8a18-67cd7cd83148                              36.0       18248.412
+174885  286fee3f-838c-578e-93aa-46ddc1bc884b                              54.0       18174.512
+164292  2e9a0ae4-542a-5766-be7a-a00b2bae2033            MOOVE FOUNDATION  24.0       18152.548
+183446  32c70449-f036-5c7d-b886-c62e889004c9                              57.0       18292.572
+167747  35b3cb57-c982-559f-9b1b-4411975ea175                       KH7 1  39.0        3006.796
+178197  3b31dd33-621c-52a2-8dfd-fb818e5c66eb               RAMON VILELLA  73.0       18198.797
+171819  3da20337-4c60-580d-8d57-1d6aafa0dd27            MOOVE FOUNDATION  29.0       18153.950
+162943  4d325944-3693-5adf-a199-43b47210f9db  TEAM KOSNER-SALTOKI HOME 1  41.0         111.534
+180394  592d8c72-0502-5057-b089-65696d9b5970                              24.0       18175.088
+169971  5abeef6d-0f87-558b-8b69-15be56100e3d                 WÜRTH MODYF  35.0        3378.531
+170117  5dfb0ad8-6857-5875-b4db-e67220e006bf                     RENESYN  68.0       18250.965
+174835  69eeb692-8c4c-5d96-90e1-910d66e7e8b2                     OCEANIS  63.0       18194.824
+165024  69f3f567-9bc6-5aa8-ac7b-819f367c3b64         DUO MASCULINO KH7 3  48.0        5574.605
+183795  72f3102e-e7fa-5fe6-a7ed-7bdb1c767fa2                              40.0       18123.119
+165419  78d8d116-5a0d-5987-8a23-1dd0d1bb09ea         DUO MASCULINO KH7 3  36.0        5552.091
+182233  798b6702-3a32-5952-afe5-cdcd359b0132         PERALEJOS DE ARRIBA  47.0       18185.904
+162790  7b167227-8f2b-5f8c-8d1b-6202a946d7bf                              40.0       18191.982
+168443  8ad7c467-22a3-50ea-9cec-58d8895bf3de             DUO MIXTO KH7 2  51.0        5566.985
+184046  8c321779-5c7c-5c1a-99db-92e8e3b1e77a                              37.0        5520.329
+181301  9500725a-190b-568d-b289-b722f19823e9                              50.0       18147.379
+181151  a8fc1803-a795-5a3e-98f4-3be4139f1372                 SI PINTURAS  46.0       18161.327
+177066  b4f862df-1d9b-5d7f-b3bb-9513ad1000c8                      KH7 11  58.0       18152.091
+182575  c2a22533-97fd-5396-8d17-64b06a4f2cbe               RAMON VILELLA  53.0       18174.328
+167997  c690c665-7cf0-5934-86a1-c9703823df0b                  VERBENA CC  42.0         111.889
+172172  cce7245f-b79e-563a-bb36-59be3d9a4182                              58.0       18157.728
+182676  d0ba969a-3070-553f-984f-e2ae61c3d4cc   CAFÉ COOPEDOTA COSTA RICA  60.0       12421.391
+170529  d747d402-4d6f-5d59-864f-460dd76ddb28      VASCONHA BTT / VOUZELA  37.0         112.157
+172570  e2e8cffb-36f4-5af8-a163-50b07150594e  TEAM KOSNER-SALTOKI HOME 8  55.0       18142.315
+176768  e6908d3f-14b1-5baf-9fdb-8938d601b992                              33.0       18139.506
+179708  f060d17b-a047-58b8-96f0-f6961c6c15a9          HUMAN RE-EVOLUTION  43.0         258.589
+175291  f0bd29fb-b976-5958-8140-4bfce480739e                       KH7 2  45.0         112.081
+172764  f22f2e83-8a10-5203-a583-966725d5e7e1     AURAL CENTROS AUDITIVOS  33.0       18192.503
+164140  f4245c5a-8811-51c0-b718-8b016f6b8cb5                              53.0       18217.247
+169239  f692b6a4-11fa-5225-bc0a-c04da4d986b7                              47.0       18193.462
+174694  f8397d3d-edaa-521b-be03-91be57995533                              61.0       18264.244
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 5, Split CP1 ===
+                                  athlete_id                        club  edad  time_split_sec
+167750  35b3cb57-c982-559f-9b1b-4411975ea175                       KH7 1  39.0        2070.340
+162945  4d325944-3693-5adf-a199-43b47210f9db  TEAM KOSNER-SALTOKI HOME 1  41.0        2045.577
+170684  8b3763fa-0cda-50f1-8449-69496d83a314         PALO BIKE ENTREMONT  52.0        5689.788
+181750  9ef98b72-d122-533c-968e-394d879f3c3c            FLYZ MONTENEVADO  35.0        2069.746
+166046  ad9b3031-1b8b-539f-9af1-7a90ab51f8bf         PALO BIKE ENTREMONT  50.0        5559.960
+164499  aface548-6a92-5197-a8ea-7cd002d50382         PALO BIKE ENTREMONT  46.0        5518.725
+169519  b09f286b-d893-5548-8bdc-64ba245e9604            FLYZ MONTENEVADO  35.0        2070.457
+177070  b4f862df-1d9b-5d7f-b3bb-9513ad1000c8                      KH7 11  58.0        4694.777
+163397  b5793b4a-1d90-5878-a6fd-fb87a01b443f       PALO BIKE & ENTREMONT  52.0        5514.504
+181558  b9df0523-4d0b-518c-93f0-1d2f9fee7033         PALO BIKE ENTREMONT  52.0        5683.851
+168001  c690c665-7cf0-5934-86a1-c9703823df0b                  VERBENA CC  42.0        2046.013
+179763  c813b69e-dab3-597e-a1c7-8b7147bc7af1         PALO BIKE-ENTREMONT  47.0        5688.974
+179368  cda25f32-9060-5625-8968-2e86d83a0b7c                              61.0        4307.173
+174698  f8397d3d-edaa-521b-be03-91be57995533                              61.0        4569.665
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 5, Split CP2 ===
+                                  athlete_id                        club  edad  time_split_sec
+183551  0795f043-8d47-5edc-914c-84607136bbbe      RESERVA PONAL COLOMBIA  57.0        1637.710
+177649  0cb4c284-fd60-51b4-b1a2-5fc0ea4cb2c8            MOOVE FOUNDATION  23.0        1418.388
+164248  1bb9d1a9-95b8-5d44-a527-c665106f1ee2                      DOMINO  57.0        1411.478
+173564  23e386ac-b354-5d95-8a18-67cd7cd83148                              36.0        1427.770
+172871  269a55eb-6c80-5ab5-a423-53a738ddc177                FINFRA SPORT  25.0        1368.577
+164298  2e9a0ae4-542a-5766-be7a-a00b2bae2033            MOOVE FOUNDATION  24.0        1421.019
+183450  32c70449-f036-5c7d-b886-c62e889004c9                              57.0        1552.469
+168295  3929bc12-da28-5973-bed5-67f211087e7b                              61.0        1415.713
+166521  398c5f67-6236-5bc1-921d-3297f3d41a70              FINFRA SPORT 1  60.0        1369.506
+171825  3da20337-4c60-580d-8d57-1d6aafa0dd27            MOOVE FOUNDATION  29.0        1418.901
+164197  4223896e-afbc-5a37-8ae5-624bdd24d9ed          VICTORIA FACTORY 4  59.0        1406.030
+163894  496b08ff-62c0-5a60-849f-1a99bcfe0f9e                       KH7 2  40.0         584.993
+176200  4a6f6746-7921-5797-8d4f-6efe5fcfa4a9            FLYZ MONTENEVADO  26.0         619.020
+175343  51f1d163-d194-5615-847b-d16409951c86                              54.0        1483.294
+176347  520f145f-193b-5a26-ae47-bc76d2922d86       ŠKODA WE LOVE CYCLING  52.0         583.967
+163700  5256b0ef-8346-5953-871e-e7461b59c131                              37.0        1407.040
+173765  629aeb6a-036d-5c11-9bd6-1937eadba9c1                FINFRA SPORT  70.0        1371.098
+175646  68bead1f-33fd-554d-a7a1-81da361efbc7               SPRITE AGADIR  66.0        1417.967
+178053  72324aec-a9d2-5c78-8f4e-abbfbdc45532       ŠKODA WE LOVE CYCLING  34.0         584.733
+177599  8323f055-535c-576d-9b0f-05ccfbb2945e      RESERVA PONAL COLOMBIA  54.0        1673.776
+183601  92ba0889-f26c-57aa-9815-d96e4d07a0c8               RESERVA PONAL  55.0        1636.013
+166670  b51f15ba-4d25-5834-a3db-312006338847              FINFRA SPORT 1  68.0        1369.685
+163097  c3f36a18-96ff-5ac5-bbc9-8dc4033c6758                              45.0        1449.081
+184605  c55ca4ba-0ab2-58a9-9247-0d14c270fc72  TEAM KOSNER-SALTOKI HOME 8  47.0        1487.532
+170535  d747d402-4d6f-5d59-864f-460dd76ddb28      VASCONHA BTT / VOUZELA  37.0         583.641
+171423  edbb308e-d4ab-5ce6-be97-98e3af2b7ef8            PENYA ALMORSARET  61.0        1407.875
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 5, Split CP3 ===
+                                  athlete_id                        club  edad  time_split_sec
+172231  15937a58-d29d-5125-b49b-2b61aa681e37                       KH7 9  46.0          841.78
+168501  64fdd9d4-ee12-5a1e-aa2c-e93590def101                    FLOP-CMC  37.0          835.21
+166371  6d963d4e-c63d-5ac0-97f1-7f9dd580b2b9  TEAM KOSNER-SALTOKI HOME 7  53.0         2397.55
+172725  98956706-a169-583b-a472-3982194f0509                     CONYONS  51.0         2211.52
+168752  9a841f5f-c6a7-597d-aed9-b82f052c7fce                       KH7 6  72.0          842.48
+184608  c55ca4ba-0ab2-58a9-9247-0d14c270fc72  TEAM KOSNER-SALTOKI HOME 8  47.0         2398.66
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 5, Split CP4 ===
+                                  athlete_id                        club  edad  time_split_sec
+171326  21ff2d4d-a5c6-552c-ae14-08a17f94db60                       KH7 1  41.0        1800.534
+173568  23e386ac-b354-5d95-8a18-67cd7cd83148                              36.0        3928.746
+182734  32a7dd30-d98f-5f07-986b-19398bcf45b5                       KH7 5  45.0        3700.991
+167754  35b3cb57-c982-559f-9b1b-4411975ea175                       KH7 1  39.0        1776.737
+180055  3a5fcfae-db7f-537a-a37b-79a68f5e2a14                       KH7 9  38.0        3702.080
+163897  496b08ff-62c0-5a60-849f-1a99bcfe0f9e                       KH7 2  40.0        1858.621
+162950  4d325944-3693-5adf-a199-43b47210f9db  TEAM KOSNER-SALTOKI HOME 1  41.0        1773.078
+170127  5dfb0ad8-6857-5875-b4db-e67220e006bf                     RENESYN  68.0        3849.058
+174798  73e5d62e-092f-5b72-b42b-50a67579df46                              46.0        3756.584
+180254  9b411786-e1bc-558c-81ac-a5c988946253                       YOTTA  51.0        3676.008
+169524  b09f286b-d893-5548-8bdc-64ba245e9604            FLYZ MONTENEVADO  35.0        1798.773
+165783  d60bcb98-913f-5234-8330-911129c7e102           TITAN DEJA HUELLA  30.0        3927.537
+170538  d747d402-4d6f-5d59-864f-460dd76ddb28      VASCONHA BTT / VOUZELA  37.0        3850.221
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 5, Split EH1 ===
+                                  athlete_id                        club  edad  time_split_sec
+176724  00023dce-52ad-5793-adaf-cb2511f1315c                      KH7 13  57.0        2095.239
+171075  01f3ab93-17f9-5414-9023-93832a5e40f9                              56.0        2415.286
+171322  21ff2d4d-a5c6-552c-ae14-08a17f94db60                       KH7 1  41.0         795.692
+173563  23e386ac-b354-5d95-8a18-67cd7cd83148                              36.0        2148.585
+170373  3304619f-941a-58cb-8d8f-ed03b6665ae7                              36.0        2404.489
+178202  3b31dd33-621c-52a2-8dfd-fb818e5c66eb               RAMON VILELLA  73.0        2279.302
+176199  4a6f6746-7921-5797-8d4f-6efe5fcfa4a9            FLYZ MONTENEVADO  26.0         783.032
+170122  5dfb0ad8-6857-5875-b4db-e67220e006bf                     RENESYN  68.0        2035.550
+174840  69eeb692-8c4c-5d96-90e1-910d66e7e8b2                     OCEANIS  63.0        2307.896
+174794  73e5d62e-092f-5b72-b42b-50a67579df46                              46.0        3343.374
+164826  74439deb-77eb-5293-9686-ada7b9b0457e                              39.0         782.668
+165423  78d8d116-5a0d-5987-8a23-1dd0d1bb09ea         DUO MASCULINO KH7 3  36.0        2427.229
+162795  7b167227-8f2b-5f8c-8d1b-6202a946d7bf                              40.0        2285.122
+172676  a3982101-3edf-56e9-8aa5-01609f2ddbe2           TITAN DEJA HUELLA  60.0        2208.407
+177255  a5dc12b3-8827-5cca-bbfa-e68325c2c949     CLUB CICLISTA TREITOIRO  58.0        2412.148
+169520  b09f286b-d893-5548-8bdc-64ba245e9604            FLYZ MONTENEVADO  35.0         796.464
+165778  d60bcb98-913f-5234-8330-911129c7e102           TITAN DEJA HUELLA  30.0        2214.605
+172575  e2e8cffb-36f4-5af8-a163-50b07150594e  TEAM KOSNER-SALTOKI HOME 8  55.0        2287.946
+176773  e6908d3f-14b1-5baf-9fdb-8938d601b992                              33.0        2274.575
+179713  f060d17b-a047-58b8-96f0-f6961c6c15a9          HUMAN RE-EVOLUTION  43.0        2452.192
+175296  f0bd29fb-b976-5958-8140-4bfce480739e                       KH7 2  45.0         783.389
+172769  f22f2e83-8a10-5203-a583-966725d5e7e1     AURAL CENTROS AUDITIVOS  33.0        2107.683
+174699  f8397d3d-edaa-521b-be03-91be57995533                              61.0        3493.887
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 5, Split EH2 ===
+                                  athlete_id                        club  edad  time_split_sec
+179665  01265cd2-d3fd-53a1-987d-ccc2c55523bb                              49.0        7468.885
+171324  21ff2d4d-a5c6-552c-ae14-08a17f94db60                       KH7 1  41.0        3101.002
+173565  23e386ac-b354-5d95-8a18-67cd7cd83148                              36.0        8092.932
+174892  286fee3f-838c-578e-93aa-46ddc1bc884b                              54.0        7503.537
+170375  3304619f-941a-58cb-8d8f-ed03b6665ae7                              36.0        7923.866
+167757  35b3cb57-c982-559f-9b1b-4411975ea175                       KH7 1  39.0        3100.919
+162948  4d325944-3693-5adf-a199-43b47210f9db  TEAM KOSNER-SALTOKI HOME 1  41.0        3104.824
+180401  592d8c72-0502-5057-b089-65696d9b5970                              24.0        7467.074
+179964  9816d959-110a-53dd-8a13-d2bb7d99b2e6                              22.0        7125.664
+181753  9ef98b72-d122-533c-968e-394d879f3c3c            FLYZ MONTENEVADO  35.0        3107.562
+177257  a5dc12b3-8827-5cca-bbfa-e68325c2c949     CLUB CICLISTA TREITOIRO  58.0        7924.335
+169522  b09f286b-d893-5548-8bdc-64ba245e9604            FLYZ MONTENEVADO  35.0        3100.272
+165780  d60bcb98-913f-5234-8330-911129c7e102           TITAN DEJA HUELLA  30.0        9477.797
+172577  e2e8cffb-36f4-5af8-a163-50b07150594e  TEAM KOSNER-SALTOKI HOME 8  55.0        7944.951
+179715  f060d17b-a047-58b8-96f0-f6961c6c15a9          HUMAN RE-EVOLUTION  43.0        7924.528
+174701  f8397d3d-edaa-521b-be03-91be57995533                              61.0        7660.690
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 5, Split EH3 ===
+                                  athlete_id                       club  edad  time_split_sec
+165527  1f9e843d-c956-5658-90f1-b970c45f3d4e  EQUIPE NATIONALE DU MAROC  18.0        7450.217
+163896  496b08ff-62c0-5a60-849f-1a99bcfe0f9e                      KH7 2  40.0        2648.725
+176202  4a6f6746-7921-5797-8d4f-6efe5fcfa4a9           FLYZ MONTENEVADO  26.0        2648.363
+172427  676e33b9-e648-5459-a149-a4bf740ca225  EQUIPE NATIONALE DU MAROC  23.0        7407.984
+164829  74439deb-77eb-5293-9686-ada7b9b0457e                             39.0        2647.910
+182832  7ca41cdd-2a61-5abe-ad46-8f1e2ed4051a                             52.0       11703.376
+182003  a122e615-dbef-5524-8ef0-21641ab6ace1        KELAMETRO SOLIDARIO  58.0        6957.088
+170537  d747d402-4d6f-5d59-864f-460dd76ddb28     VASCONHA BTT / VOUZELA  37.0        2648.318
+174319  ec4edc3d-8b4c-5c1f-8430-2114f81b859f                             56.0        6837.594
+175299  f0bd29fb-b976-5958-8140-4bfce480739e                      KH7 2  45.0        2649.617
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 5, Split Lastkm ===
+                                  athlete_id                        club  edad  time_split_sec
+167028  06cedd2a-fbaf-54b6-bd4b-8ba7feb6c735               QUALITYY TEAM  65.0        1259.224
+174750  0af937f2-fc82-5740-957d-47b1243bdd05  TEAM KOSNER-SALTOKI HOME 1  49.0         580.922
+177654  0cb4c284-fd60-51b4-b1a2-5fc0ea4cb2c8            MOOVE FOUNDATION  23.0        1259.193
+178459  0ec50de4-1402-558b-adcf-3c646ce06ada     AURAL CENTROS AUDITIVOS  48.0        1268.742
+164253  1bb9d1a9-95b8-5d44-a527-c665106f1ee2                      DOMINO  57.0        1261.750
+171327  21ff2d4d-a5c6-552c-ae14-08a17f94db60                       KH7 1  41.0         564.566
+173569  23e386ac-b354-5d95-8a18-67cd7cd83148                              36.0        1262.234
+164303  2e9a0ae4-542a-5766-be7a-a00b2bae2033            MOOVE FOUNDATION  24.0        1259.419
+168956  344c41a2-c43d-56ef-9d26-ae12819ea04c       ŠKODA WE LOVE CYCLING  59.0        1215.912
+167755  35b3cb57-c982-559f-9b1b-4411975ea175                       KH7 1  39.0         529.003
+168300  3929bc12-da28-5973-bed5-67f211087e7b                              61.0        1262.559
+171830  3da20337-4c60-580d-8d57-1d6aafa0dd27            MOOVE FOUNDATION  29.0        1260.903
+162951  4d325944-3693-5adf-a199-43b47210f9db  TEAM KOSNER-SALTOKI HOME 1  41.0         528.622
+170128  5dfb0ad8-6857-5875-b4db-e67220e006bf                     RENESYN  68.0        1238.762
+169525  b09f286b-d893-5548-8bdc-64ba245e9604            FLYZ MONTENEVADO  35.0         565.057
+165784  d60bcb98-913f-5234-8330-911129c7e102           TITAN DEJA HUELLA  30.0        1263.623
+174322  ec4edc3d-8b4c-5c1f-8430-2114f81b859f                              56.0        1320.471
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 5, Split Meta ===
+                                  athlete_id                        club  edad  time_split_sec
+174751  0af937f2-fc82-5740-957d-47b1243bdd05  TEAM KOSNER-SALTOKI HOME 1  49.0         118.301
+178460  0ec50de4-1402-558b-adcf-3c646ce06ada     AURAL CENTROS AUDITIVOS  48.0         342.373
+179872  13418bf0-2fd2-5596-bde2-9eb0ac51f0e6                              48.0         257.334
+171328  21ff2d4d-a5c6-552c-ae14-08a17f94db60                       KH7 1  41.0         113.239
+166323  23ad916a-c728-587c-84a8-5e0c080174fa                              59.0         257.351
+183455  32c70449-f036-5c7d-b886-c62e889004c9                              57.0        2390.069
+167756  35b3cb57-c982-559f-9b1b-4411975ea175                       KH7 1  39.0         114.957
+178209  3b31dd33-621c-52a2-8dfd-fb818e5c66eb               RAMON VILELLA  73.0         256.576
+162952  4d325944-3693-5adf-a199-43b47210f9db  TEAM KOSNER-SALTOKI HOME 1  41.0         115.335
+162802  7b167227-8f2b-5f8c-8d1b-6202a946d7bf                              40.0         258.112
+172728  98956706-a169-583b-a472-3982194f0509                     CONYONS  51.0         277.334
+169526  b09f286b-d893-5548-8bdc-64ba245e9604            FLYZ MONTENEVADO  35.0         112.669
+176780  e6908d3f-14b1-5baf-9fdb-8938d601b992                              33.0         258.930
+179720  f060d17b-a047-58b8-96f0-f6961c6c15a9          HUMAN RE-EVOLUTION  43.0         357.742
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 6, Split CP1 ===
+                                  athlete_id              club  edad  time_split_sec
+173223  1f99fe22-a93d-5198-9eb5-df83def8cefa        UV AUCH GG  30.0         1371.20
+171330  21ff2d4d-a5c6-552c-ae14-08a17f94db60             KH7 1  41.0         1370.60
+173572  23e386ac-b354-5d95-8a18-67cd7cd83148                    36.0         3374.17
+183457  32c70449-f036-5c7d-b886-c62e889004c9                    57.0         3359.17
+167759  35b3cb57-c982-559f-9b1b-4411975ea175             KH7 1  39.0         1371.51
+178211  3b31dd33-621c-52a2-8dfd-fb818e5c66eb     RAMON VILELLA  73.0         3432.50
+162804  7b167227-8f2b-5f8c-8d1b-6202a946d7bf                    40.0         3418.43
+181315  9500725a-190b-568d-b289-b722f19823e9                    50.0         3357.73
+169528  b09f286b-d893-5548-8bdc-64ba245e9604  FLYZ MONTENEVADO  35.0         1370.40
+182589  c2a22533-97fd-5396-8d17-64b06a4f2cbe     RAMON VILELLA  53.0         3355.11
+168010  c690c665-7cf0-5934-86a1-c9703823df0b        VERBENA CC  42.0         1371.48
+176782  e6908d3f-14b1-5baf-9fdb-8938d601b992                    33.0         3421.32
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 6, Split CP2 ===
+                                  athlete_id                     club  edad  time_split_sec
+183561  0795f043-8d47-5edc-914c-84607136bbbe   RESERVA PONAL COLOMBIA  57.0        3605.083
+173574  23e386ac-b354-5d95-8a18-67cd7cd83148                           36.0        3818.442
+170384  3304619f-941a-58cb-8d8f-ed03b6665ae7                           36.0        3622.762
+167761  35b3cb57-c982-559f-9b1b-4411975ea175                    KH7 1  39.0        1635.270
+166531  398c5f67-6236-5bc1-921d-3297f3d41a70           FINFRA SPORT 1  60.0        3457.726
+178213  3b31dd33-621c-52a2-8dfd-fb818e5c66eb            RAMON VILELLA  73.0        3647.194
+176209  4a6f6746-7921-5797-8d4f-6efe5fcfa4a9         FLYZ MONTENEVADO  26.0        1613.106
+170133  5dfb0ad8-6857-5875-b4db-e67220e006bf                  RENESYN  68.0        3509.364
+174851  69eeb692-8c4c-5d96-90e1-910d66e7e8b2                  OCEANIS  63.0        3852.477
+162806  7b167227-8f2b-5f8c-8d1b-6202a946d7bf                           40.0        3630.856
+183611  92ba0889-f26c-57aa-9815-d96e4d07a0c8            RESERVA PONAL  55.0        3606.022
+172681  a3982101-3edf-56e9-8aa5-01609f2ddbe2        TITAN DEJA HUELLA  60.0        3734.537
+177266  a5dc12b3-8827-5cca-bbfa-e68325c2c949  CLUB CICLISTA TREITOIRO  58.0        3606.058
+169530  b09f286b-d893-5548-8bdc-64ba245e9604         FLYZ MONTENEVADO  35.0        1635.971
+168012  c690c665-7cf0-5934-86a1-c9703823df0b               VERBENA CC  42.0        1606.083
+165789  d60bcb98-913f-5234-8330-911129c7e102        TITAN DEJA HUELLA  30.0        3750.479
+170544  d747d402-4d6f-5d59-864f-460dd76ddb28   VASCONHA BTT / VOUZELA  37.0        1635.937
+176784  e6908d3f-14b1-5baf-9fdb-8938d601b992                           33.0        3579.688
+172780  f22f2e83-8a10-5203-a583-966725d5e7e1  AURAL CENTROS AUDITIVOS  33.0        3500.224
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 6, Split CP3 ===
+                                  athlete_id                        club  edad  time_split_sec
+178616  007fbebc-bb58-5f1b-aa74-3cb12abeda95          ŠKODA CYCLING TEAM  37.0         973.296
+171081  01f3ab93-17f9-5414-9023-93832a5e40f9                              56.0        1191.975
+173426  01f9c0b1-e2db-5053-ba3b-f711ada126a9          ŠKODA CYCLING TEAM  50.0         973.702
+183562  0795f043-8d47-5edc-914c-84607136bbbe      RESERVA PONAL COLOMBIA  57.0        1226.083
+183862  0f6bf316-df6a-5246-88b1-ad44f4b7a0cb           INSTITUT GUTTMANN  58.0         929.028
+184514  214d521e-5425-503d-aa1d-aa502b95cc67                 WÜRTH MODYF  40.0        2285.059
+173575  23e386ac-b354-5d95-8a18-67cd7cd83148                              36.0         975.621
+163813  26d88625-694b-5087-8cda-7a0645b3be29           INSTITUT GUTTMANN  29.0        1315.536
+168559  2f96ded9-1db9-55dd-ad34-45039f6302d0   TEAM KOSER-SALTOKI HOME 6  58.0         973.485
+164208  4223896e-afbc-5a37-8ae5-624bdd24d9ed          VICTORIA FACTORY 4  59.0         947.473
+168709  505d3f13-ace2-55b1-bf90-8dcbe862a269                FRUTIMAR/PSC  44.0        2302.292
+169984  5abeef6d-0f87-558b-8b69-15be56100e3d                 WÜRTH MODYF  35.0        2284.612
+179474  60f9f643-db20-525b-b805-ea6464c403f7           INSTITUT GUTTMANN  48.0        1314.155
+164563  628d8260-0f0b-5b1a-b234-fe48c5ff3246           INSTITUT GUTTMANN  34.0        1312.598
+182474  6ebf9a41-86ab-5447-9f63-3b6a47f6e720           INSTITUT GUTTMANN  39.0        1315.448
+177559  6feade42-64ad-5daf-891a-9a3d30b043e5           INSTITUT GUTTMANN  60.0         930.202
+182350  7909e3a5-af1e-5635-9138-2fb473120fd4                       KH7 3  34.0         481.036
+162807  7b167227-8f2b-5f8c-8d1b-6202a946d7bf                              40.0         947.392
+183612  92ba0889-f26c-57aa-9815-d96e4d07a0c8               RESERVA PONAL  55.0        1230.744
+172537  a052d5cd-51ca-5d63-ad06-ebfa720f6ddd           INSTITUT GUTTMANN  47.0         928.157
+171938  b6861a84-dc59-5797-8978-ed1a4a86962a           INSTITUT GUTTMANN  52.0         930.591
+181571  b9df0523-4d0b-518c-93f0-1d2f9fee7033         PALO BIKE ENTREMONT  52.0         944.449
+163359  bf8112a8-bb18-5aa8-96d7-e0d9d39670dd           DOMUS MIRACYCLING  49.0         480.738
+184364  c75fbe8e-cb5f-5c6e-b04e-ddbfaeca3e6b                   SOLO BICI  52.0         478.826
+179776  c813b69e-dab3-597e-a1c7-8b7147bc7af1         PALO BIKE-ENTREMONT  47.0         943.688
+183912  d3257b1a-7368-5124-a015-b77d88538588                        SIIL  47.0         479.278
+169885  e32760c7-4811-5cc3-91f7-3da2a995629c           INSTITUT GUTTMANN  37.0        1313.892
+176785  e6908d3f-14b1-5baf-9fdb-8938d601b992                              33.0         935.787
+179725  f060d17b-a047-58b8-96f0-f6961c6c15a9          HUMAN RE-EVOLUTION  43.0        1016.396
+165089  f6d8164d-f4c7-5b24-b4ad-c50064ca8c0d                WÜRTH MASTER  42.0        2285.666
+163610  f9bac489-e75d-5587-953a-043f2ee9c4ca  TEAM KOSNER-SALTOKI HOME 6  69.0         974.191
+163660  fd789e9a-b2b4-59d9-812d-77897e48c923                              22.0         479.050
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 6, Split CP4 ===
+                                  athlete_id                        club  edad  time_split_sec
+171083  01f3ab93-17f9-5414-9023-93832a5e40f9                              56.0        2682.285
+171335  21ff2d4d-a5c6-552c-ae14-08a17f94db60                       KH7 1  41.0         553.160
+167764  35b3cb57-c982-559f-9b1b-4411975ea175                       KH7 1  39.0         554.229
+178216  3b31dd33-621c-52a2-8dfd-fb818e5c66eb               RAMON VILELLA  73.0        2493.747
+162959  4d325944-3693-5adf-a199-43b47210f9db  TEAM KOSNER-SALTOKI HOME 1  41.0         556.963
+179476  60f9f643-db20-525b-b805-ea6464c403f7           INSTITUT GUTTMANN  48.0        2826.099
+174128  989fdaf7-9736-5871-8a45-38b7a340a5f8                              36.0        3108.220
+181764  9ef98b72-d122-533c-968e-394d879f3c3c            FLYZ MONTENEVADO  35.0         576.888
+169533  b09f286b-d893-5548-8bdc-64ba245e9604            FLYZ MONTENEVADO  35.0         552.937
+179727  f060d17b-a047-58b8-96f0-f6961c6c15a9          HUMAN RE-EVOLUTION  43.0        2546.351
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 6, Split EH1 ===
+                                  athlete_id                        club  edad  time_split_sec
+174754  0af937f2-fc82-5740-957d-47b1243bdd05  TEAM KOSNER-SALTOKI HOME 1  49.0          661.31
+173573  23e386ac-b354-5d95-8a18-67cd7cd83148                              36.0         1587.06
+183458  32c70449-f036-5c7d-b886-c62e889004c9                              57.0         1389.79
+167760  35b3cb57-c982-559f-9b1b-4411975ea175                       KH7 1  39.0          665.50
+178212  3b31dd33-621c-52a2-8dfd-fb818e5c66eb               RAMON VILELLA  73.0         1509.43
+163902  496b08ff-62c0-5a60-849f-1a99bcfe0f9e                       KH7 2  40.0          664.00
+162955  4d325944-3693-5adf-a199-43b47210f9db  TEAM KOSNER-SALTOKI HOME 1  41.0          665.01
+162805  7b167227-8f2b-5f8c-8d1b-6202a946d7bf                              40.0         1515.18
+181316  9500725a-190b-568d-b289-b722f19823e9                              50.0         1387.21
+181760  9ef98b72-d122-533c-968e-394d879f3c3c            FLYZ MONTENEVADO  35.0          663.20
+172535  a052d5cd-51ca-5d63-ad06-ebfa720f6ddd           INSTITUT GUTTMANN  47.0         1669.31
+182590  c2a22533-97fd-5396-8d17-64b06a4f2cbe               RAMON VILELLA  53.0         1389.45
+169883  e32760c7-4811-5cc3-91f7-3da2a995629c           INSTITUT GUTTMANN  37.0         1419.90
+176783  e6908d3f-14b1-5baf-9fdb-8938d601b992                              33.0         1484.08
+179723  f060d17b-a047-58b8-96f0-f6961c6c15a9          HUMAN RE-EVOLUTION  43.0         1365.26
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 6, Split EH2 ===
+                                  athlete_id                        club  edad  time_split_sec
+183563  0795f043-8d47-5edc-914c-84607136bbbe      RESERVA PONAL COLOMBIA  57.0        5507.570
+171334  21ff2d4d-a5c6-552c-ae14-08a17f94db60                       KH7 1  41.0        2229.110
+173576  23e386ac-b354-5d95-8a18-67cd7cd83148                              36.0        5464.658
+170386  3304619f-941a-58cb-8d8f-ed03b6665ae7                              36.0        5545.169
+167763  35b3cb57-c982-559f-9b1b-4411975ea175                       KH7 1  39.0        2131.892
+162958  4d325944-3693-5adf-a199-43b47210f9db  TEAM KOSNER-SALTOKI HOME 1  41.0        2129.414
+183613  92ba0889-f26c-57aa-9815-d96e4d07a0c8               RESERVA PONAL  55.0        5499.190
+181763  9ef98b72-d122-533c-968e-394d879f3c3c            FLYZ MONTENEVADO  35.0        2123.608
+177268  a5dc12b3-8827-5cca-bbfa-e68325c2c949     CLUB CICLISTA TREITOIRO  58.0        5541.538
+169532  b09f286b-d893-5548-8bdc-64ba245e9604            FLYZ MONTENEVADO  35.0        2227.901
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 6, Split Lastkm ===
+                                  athlete_id                    club  edad  time_split_sec
+171085  01f3ab93-17f9-5414-9023-93832a5e40f9                          56.0        2620.949
+167038  06cedd2a-fbaf-54b6-bd4b-8ba7feb6c735           QUALITYY TEAM  65.0        2629.097
+171336  21ff2d4d-a5c6-552c-ae14-08a17f94db60                   KH7 1  41.0         945.664
+163817  26d88625-694b-5087-8cda-7a0645b3be29       INSTITUT GUTTMANN  29.0        2741.790
+164567  628d8260-0f0b-5b1a-b234-fe48c5ff3246       INSTITUT GUTTMANN  34.0        2713.098
+182478  6ebf9a41-86ab-5447-9f63-3b6a47f6e720       INSTITUT GUTTMANN  39.0        2750.012
+177563  6feade42-64ad-5daf-891a-9a3d30b043e5       INSTITUT GUTTMANN  60.0        2715.586
+181765  9ef98b72-d122-533c-968e-394d879f3c3c        FLYZ MONTENEVADO  35.0         987.180
+172541  a052d5cd-51ca-5d63-ad06-ebfa720f6ddd       INSTITUT GUTTMANN  47.0        2755.449
+169534  b09f286b-d893-5548-8bdc-64ba245e9604        FLYZ MONTENEVADO  35.0         946.887
+168016  c690c665-7cf0-5934-86a1-c9703823df0b              VERBENA CC  42.0         990.457
+170548  d747d402-4d6f-5d59-864f-460dd76ddb28  VASCONHA BTT / VOUZELA  37.0         986.015
+169889  e32760c7-4811-5cc3-91f7-3da2a995629c       INSTITUT GUTTMANN  37.0        2702.805
+165693  f5a2a768-7849-5d3d-b582-2a21d56fa36e        MOOVE FOUNDATION  26.0       15941.000
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 6, Split Meta ===
+                                  athlete_id                                club  edad  time_split_sec
+183565  0795f043-8d47-5edc-914c-84607136bbbe              RESERVA PONAL COLOMBIA  57.0        2600.988
+175057  0bdc4d88-3857-59a2-a44a-2d994b4865e3  AC ALIJOENSE-DC22/MOVHERA/AVESSADA  38.0         242.666
+173578  23e386ac-b354-5d95-8a18-67cd7cd83148                                      36.0        3102.259
+178217  3b31dd33-621c-52a2-8dfd-fb818e5c66eb                       RAMON VILELLA  73.0        2893.232
+163908  496b08ff-62c0-5a60-849f-1a99bcfe0f9e                               KH7 2  40.0          81.478
+162961  4d325944-3693-5adf-a199-43b47210f9db          TEAM KOSNER-SALTOKI HOME 1  41.0          78.973
+166382  6d963d4e-c63d-5ac0-97f1-7f9dd580b2b9          TEAM KOSNER-SALTOKI HOME 7  53.0         251.607
+162810  7b167227-8f2b-5f8c-8d1b-6202a946d7bf                                      40.0        2978.901
+183615  92ba0889-f26c-57aa-9815-d96e4d07a0c8                       RESERVA PONAL  55.0        2584.049
+181766  9ef98b72-d122-533c-968e-394d879f3c3c                    FLYZ MONTENEVADO  35.0          77.297
+169837  a0e3b8e4-2876-5a38-bcc4-b904a31603c9          TEAM KOSNER-SALTOKI HOME 6  56.0         268.203
+179527  a967e772-1faf-5d8f-8c29-c34618c3265e  AC ALIJOENSE-DC22/MOVHERA/AVESSADA  30.0         242.763
+168017  c690c665-7cf0-5934-86a1-c9703823df0b                          VERBENA CC  42.0          81.997
+170549  d747d402-4d6f-5d59-864f-460dd76ddb28              VASCONHA BTT / VOUZELA  37.0          81.093
+176788  e6908d3f-14b1-5baf-9fdb-8938d601b992                                      33.0        3034.539
+179728  f060d17b-a047-58b8-96f0-f6961c6c15a9                  HUMAN RE-EVOLUTION  43.0         285.233

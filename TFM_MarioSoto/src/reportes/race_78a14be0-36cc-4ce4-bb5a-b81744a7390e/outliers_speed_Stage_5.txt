@@ -1,0 +1,169 @@
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 5, Athlete 00023dce-52ad-5793-adaf-cb2511f1315c (propio ritmo) ===
+       split  average  speed_m_per_s
+176703   CP1  0.22789       4.388082
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 5, Athlete 007fbebc-bb58-5f1b-aa74-3cb12abeda95 (propio ritmo) ===
+       split  average  speed_m_per_s
+178583   CP1  0.24084       4.152134
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 5, Athlete 01f9c0b1-e2db-5053-ba3b-f711ada126a9 (propio ritmo) ===
+       split  average  speed_m_per_s
+173393   CP1  0.24076       4.153514
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 5, Athlete 02484e99-0cbc-503b-ba6b-4260bbd750e2 (propio ritmo) ===
+       split  average  speed_m_per_s
+171956   CP1  0.19874         5.0317
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 5, Athlete 0a0c5e60-9a5d-5b30-9b15-1c96a30087dd (propio ritmo) ===
+       split  average  speed_m_per_s
+165951   CP1  0.17799       5.618293
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 5, Athlete 0bb5da19-9183-54d8-86ac-8b63a8abd199 (propio ritmo) ===
+       split  average  speed_m_per_s
+183478   CP1  0.24072       4.154204
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 5, Athlete 178bf318-6b9f-58b0-8c8c-daf2e22a090b (propio ritmo) ===
+       split  average  speed_m_per_s
+170462   CP1  0.20715        4.82742
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 5, Athlete 24b57f2e-5cb7-5575-bfd7-4d1477d7910e (propio ritmo) ===
+       split  average  speed_m_per_s
+180429   CP1  0.19169       5.216756
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 5, Athlete 26f91954-1595-5c9c-95dd-adc615d47beb (propio ritmo) ===
+       split  average  speed_m_per_s
+176375   CP1  0.18111       5.521506
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 5, Athlete 274a08e0-7625-5d4d-bb37-d9b3d1c14580 (propio ritmo) ===
+       split  average  speed_m_per_s
+169649   CP1  0.18954       5.275931
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 5, Athlete 2dfb8a44-1e83-51ee-8f44-32afd1390aa5 (propio ritmo) ===
+       split  average  speed_m_per_s
+162975   CP1   0.1804       5.543237
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 5, Athlete 3b31dd33-621c-52a2-8dfd-fb818e5c66eb (propio ritmo) ===
+       split  average  speed_m_per_s
+178181   CP1  0.24188       4.134281
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 5, Athlete 42a0b663-f989-5fc1-8df9-f334bd3aec1d (propio ritmo) ===
+       split  average  speed_m_per_s
+171854   CP1  0.18174       5.502366
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 5, Athlete 43bb516d-0980-547a-bf2a-da939a1d11fc (propio ritmo) ===
+       split  average  speed_m_per_s
+175173   CP1  0.17803       5.617031
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 5, Athlete 4ca24688-130c-523a-86c8-d22411b5ff18 (propio ritmo) ===
+       split  average  speed_m_per_s
+170202   CP1  0.19962       5.009518
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 5, Athlete 4e87cff9-833e-56a9-9d33-2deed5c8e1f9 (propio ritmo) ===
+       split  average  speed_m_per_s
+175726   CP1  0.16957        5.89727
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 5, Athlete 4f5399ee-a8b5-59b7-9019-3843506cdac9 (propio ritmo) ===
+       split  average  speed_m_per_s
+178948   CP1  0.20195       4.951721
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 5, Athlete 667a0a74-eb57-5688-900f-f91342624da2 (propio ritmo) ===
+       split  average  speed_m_per_s
+181336   CP1   0.1614       6.195787
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 5, Athlete 69eeb692-8c4c-5d96-90e1-910d66e7e8b2 (propio ritmo) ===
+       split  average  speed_m_per_s
+174819   CP1   0.2479       4.033885
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 5, Athlete 7b167227-8f2b-5f8c-8d1b-6202a946d7bf (propio ritmo) ===
+       split  average  speed_m_per_s
+162774   CP1  0.24151       4.140615
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 5, Athlete 84953b0e-c9eb-5c3d-8bb8-803758462116 (propio ritmo) ===
+       split  average  speed_m_per_s
+176953   CP1  0.17802       5.617346
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 5, Athlete 8d30dd4a-d531-563f-8072-2073f0302909 (propio ritmo) ===
+       split  average  speed_m_per_s
+180480   CP1  0.22074       4.530217
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 5, Athlete 8e77f47a-5830-5d48-8e78-85e612a7d4a6 (propio ritmo) ===
+       split  average  speed_m_per_s
+167262   CP1  0.17795       5.619556
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 5, Athlete 948d6d7e-459d-58c0-8f6f-3c1555fd1e25 (propio ritmo) ===
+       split  average  speed_m_per_s
+167564   CP1  0.19186       5.212134
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 5, Athlete 9decd63e-5225-5cdd-a799-67f3f0380212 (propio ritmo) ===
+       split  average  speed_m_per_s
+178482   CP1  0.23376       4.277892
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 5, Athlete a5b55d80-57c5-517a-9b1b-8dc16b8f2459 (propio ritmo) ===
+       split  average  speed_m_per_s
+178381   CP1  0.19627       5.095022
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 5, Athlete a6d48ada-9100-52b5-8622-ec0279e0e9de (propio ritmo) ===
+       split  average  speed_m_per_s
+165259   CP1  0.19195        5.20969
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 5, Athlete aedd619d-8823-5621-9476-0d6fc3d061d6 (propio ritmo) ===
+       split  average  speed_m_per_s
+178132   CP1  0.18131       5.515416
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 5, Athlete afa42a9e-d28c-5bae-b50a-bee22c04e82c (propio ritmo) ===
+       split  average  speed_m_per_s
+166198   CP1  0.21909       4.564334
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 5, Athlete b2a82d55-45ac-5229-8d33-df5f3834a509 (propio ritmo) ===
+       split  average  speed_m_per_s
+168324   CP1  0.19963       5.009267
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 5, Athlete b7d53cfe-681f-5df2-be6f-84508485715e (propio ritmo) ===
+       split  average  speed_m_per_s
+162824   CP1  0.22428       4.458712
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 5, Athlete bd10d2ef-c894-52b4-a0b1-0e5d0a945fdc (propio ritmo) ===
+       split  average  speed_m_per_s
+167362   CP1  0.16829       5.942124
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 5, Athlete c1c9a0b2-4fad-50d8-bea9-533ab7b49832 (propio ritmo) ===
+       split  average  speed_m_per_s
+183237   CP1  0.17808       5.615454
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 5, Athlete cb213557-8ce7-5ca1-99a1-58051ff4729a (propio ritmo) ===
+       split  average  speed_m_per_s
+175876   CP1  0.17278       5.787707
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 5, Athlete dc280b34-c66b-5db1-b9ed-15c3b6348ebb (propio ritmo) ===
+       split  average  speed_m_per_s
+166397   CP1  0.20719       4.826488
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 5, Athlete de3710b9-8769-5cb9-b876-f6246ab48daf (propio ritmo) ===
+       split  average  speed_m_per_s
+182269   EH1  0.19078        5.24164
+182272   EH3  0.19489        5.13110
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 5, Athlete e17be570-2282-54a2-ba88-32a21ae31783 (propio ritmo) ===
+       split  average  speed_m_per_s
+177778   CP1  0.17806       5.616084
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 5, Athlete e6908d3f-14b1-5baf-9fdb-8938d601b992 (propio ritmo) ===
+       split  average  speed_m_per_s
+176752   CP1  0.24113       4.147141
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 5, Athlete eaa3b5b9-713e-506b-a6f4-2bcdad78c05e (propio ritmo) ===
+       split  average  speed_m_per_s
+183060   CP1  0.18125       5.517241
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 5, Athlete eaadc6e5-8a8a-5498-936b-6932f0288c8d (propio ritmo) ===
+       split  average  speed_m_per_s
+181235   CP1    0.178       5.617978
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 5, Athlete ef5c3c9d-81b5-5765-8793-34408fa3768d (propio ritmo) ===
+       split  average  speed_m_per_s
+168980   CP1   0.1985       5.037783
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 5, Athlete f22f2e83-8a10-5203-a583-966725d5e7e1 (propio ritmo) ===
+       split  average  speed_m_per_s
+172748   CP1  0.23414       4.270949

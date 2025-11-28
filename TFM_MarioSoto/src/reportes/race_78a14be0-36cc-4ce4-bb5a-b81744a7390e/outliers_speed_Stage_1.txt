@@ -1,0 +1,12 @@
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 1, Athlete 24b57f2e-5cb7-5575-bfd7-4d1477d7910e (propio ritmo) ===
+       split  average  speed_m_per_s
+180397   CP1  0.37043       2.699565
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 1, Athlete a96d8544-d4b4-58c6-9928-c8bbd6a355c2 (propio ritmo) ===
+       split  average  speed_m_per_s
+173412   CP1  0.38534       2.595111
+
+=== Carrera 78a14be0-36cc-4ce4-bb5a-b81744a7390e, Evento Stage 1, Athlete c065e6c9-295d-57ea-94f0-4ca4e20ab9e3 (propio ritmo) ===
+       split  average  speed_m_per_s
+182085   CP1   0.3963       2.523341
