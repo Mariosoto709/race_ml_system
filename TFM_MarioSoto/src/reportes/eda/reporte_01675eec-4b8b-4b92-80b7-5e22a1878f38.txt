@@ -3,7 +3,7 @@ REPORTE CARRERA 01675eec-4b8b-4b92-80b7-5e22a1878f38
 ================================================================================
 
 === name ===
-Únicos: 6782, Nulos: 0
+Únicos: 6781, Nulos: 0
 Ejemplos: Yago, Noah, Daniel, Ismael, Oqbe, Jonathan, Levy, Hayimro, Alfred, David
 Posibles errores tipográficos (casi iguales):
             name         Sugerido
@@ -19,32 +19,59 @@ francisco javier Francisco Javier
           miquel           Miguel
 
 === surname ===
-Únicos: 28378, Nulos: 16
+Únicos: 28379, Nulos: 0
 Ejemplos: Rojo, Kiplimo Ruto, Sinda, Kiprono, Kibrom Ruesom, Kamosong, Kibet Chematot, Yele Mekonen, Kipkemoi Cheruiyot, Nilsson
 Posibles errores tipográficos (casi iguales):
            surname           Sugerido
 gonzález rodríguez González Rodríguez
     lópez gonzález     López González
             alonso             Alonso
+            blanco             Blanco
   garcía fernández   García Fernández
            álvarez            Alvarez
       garcía gómez       García Gómez
      garcía martín      García Martín
            sanchez            Sanchez
    sánchez sánchez    Sánchez Sánchez
-             gomes              Gomez
+
+=== Clubes ===
+Únicos: 3105, Nulos: 0
+Top 10 clubes:
+                         41514
+Club Deportivo Repsol      180
+Special Olympics           158
+II BPAC                    155
+I BPAC                     142
+Alquiber                   133
+Independiente              122
+ALQUIBER                    94
+Club Corredores             94
+CLUB CORREDORES             68
+Posibles errores tipográficos (casi iguales):
+                     Club                  Sugerido
+                     nike                      none
+                       on                          
+      s.s.reyes-c.menorca        ss.reyes-c.menorca
+         ssreyes-cmenorca        ss.reyes-c.menorca
+      ss.reyes-cc.menorca        ss.reyes-c.menorca
+           clubcorredores           club corredores
+los lunes de recuperacion los lunes de recuperación
+                vgrunning                vg running
+             indepediente             independiente
+               ds running                vg running
 
 === Gender ===
-Únicos: ['male', 'female'], Nulos: 14
+Únicos: ['male', 'female', ''], Nulos: 0
 Conteo:
 male      32410
 female    15477
+             14
 
 === Birthdate ===
 Estadísticas de edades:
 count    47873.000000
-mean        37.181230
-std         11.884449
+mean        37.191841
+std         11.884993
 min          5.000000
 25%         27.000000
 50%         35.000000
@@ -62,9 +89,8 @@ Natalia      Gómez Vicente 2011-08-03
 Nulos: 0
 Códigos inválidos: ESP, KEN, THA, ERI, ETH, SWE, ITA, GBR, MAR, URY
 Top 10 códigos:
-NAN       20713
+          22807
 ESP       17160
-NONE       2094
 ESPAÑA     1754
 FRA        1020
 GBR         619
@@ -72,9 +98,7 @@ ITA         435
 DEU         348
 PRT         274
 USA         261
+MEX         235
 
 Posibles nacionalidades mal escritas (según distancia de Levenshtein):
   No se detectaron nacionalidades sospechosas.
-
-=== Featured ===
-Conteo: {False: 47901}, Proporción: 0.000

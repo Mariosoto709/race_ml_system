@@ -19,7 +19,7 @@ jonathan Jonathan
    david    David
 
 === surname ===
-Únicos: 22592, Nulos: 21
+Únicos: 22593, Nulos: 0
 Ejemplos: Baamonde Carballido, Mullera Rodríguez, ROCA DALMAU, Fayolle, Thivolle, Cruz Infantes, Vinyals Domingo, Domingo Roldán, Burgos Moliné, Piedras Puig
 Posibles errores tipográficos (casi iguales):
  surname Sugerido
@@ -34,23 +34,50 @@ gonzález Gonzalez
     kars     Ward
    mayer    Baker
 
+=== Clubes ===
+Únicos: 4583, Nulos: 0
+Top 10 clubes:
+                          20242
+FUNRUNNERSCLUBESPORTIU       48
+BCTEAM                       34
+PRORUNNERSBARCELONA          28
+VICTORYTOUR                  26
+AOSTEAM                      24
+PROAM                        19
+FDSG                         18
+INCLUYENDOSONRISAS           17
+Corredorscat                 16
+Posibles errores tipográficos (casi iguales):
+          Club        Sugerido
+        onteam          bcteam
+    cerdanyola    atcerdanyola
+           ctg            cato
+runnerespanyol runnersespanyol
+  aa xafatolls     aaxafatolls
+        d5team          bcteam
+          tarc            earv
+           uat            cato
+            on                
+           cts            cato
+
 === Gender ===
-Únicos: ['male', 'female', 'mixed'], Nulos: 21
+Únicos: ['male', 'female', 'mixed', ''], Nulos: 0
 Conteo:
 male      20681
 female     6110
 mixed        53
+             21
 
 === Birthdate ===
 Estadísticas de edades:
 count    26838.000000
-mean        38.941538
-std         11.454131
+mean        38.952120
+std         11.455208
 min          1.000000
 25%         29.000000
 50%         38.000000
 75%         48.000000
-max         92.000000
+max         93.000000
 Outliers (edades sospechosas):
         name      surname  birthdate
 MIGUEL ÁNGEL RUIZ LABORIA 2024-03-10
@@ -64,14 +91,11 @@ FRA     5173
 GBR     3442
 GER      813
 IRL      727
+         615
 BEL      614
-         592
 ITA      569
 POL      511
 ES       334
 
 Posibles nacionalidades mal escritas (según distancia de Levenshtein):
   No se detectaron nacionalidades sospechosas.
-
-=== Featured ===
-Conteo: {False: 26865}, Proporción: 0.000

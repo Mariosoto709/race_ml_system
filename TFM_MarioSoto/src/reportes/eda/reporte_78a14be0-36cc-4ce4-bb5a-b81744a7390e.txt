@@ -10,6 +10,32 @@ Ejemplos: TONI, XAVIER, ANNA, LUIS LEON, JON, DANIEL, JOEL, JOAN, MIGUEL, VICTOR
 Únicos: 445, Nulos: 0
 Ejemplos: MARIN RAMOS, ARIMON GIRONÈS, AMAT VENTYOL, SÁNCHEZ GIL, ZAFRA, HAUSMANN SPIELMAN, ROGER MORENO, ROMEU CREIXELL, CASTIELLA, FERNÁNDEZ CABANELAS
 
+=== Clubes ===
+Únicos: 189, Nulos: 0
+Top 10 clubes:
+                             87
+AURAL CENTROS AUDITIVOS      22
+ŠKODA WE LOVE CYCLING        11
+INSTITUT GUTTMANN             9
+EQUIPE NATIONALE DU MAROC     9
+MOOVE FOUNDATION              9
+ŠKODA CYCLING TEAM            6
+YOU SPIRIT                    5
+EDIBIKES / FLECA VELLA        5
+CYCLING MY WAY                4
+Posibles errores tipográficos (casi iguales):
+                      Club                   Sugerido
+     palo bike & entremont        palo bike entremont
+team kosner-saltoki home 6 team kosner-saltoki home 2
+                         0                           
+  team kosner-saltoki home team kosner-saltoki home 2
+             qualityy team               quality team
+ team koser-saltoki home 6 team kosner-saltoki home 2
+        victoria factory 3         victoria factory 4
+        victoria factory 2         victoria factory 4
+        victoria factory 1         victoria factory 4
+     škoda we love cycling      škoda we love cycling
+
 === Gender ===
 Únicos: ['male', 'female', 'mixed'], Nulos: 0
 Conteo:
@@ -20,8 +46,8 @@ female     46
 === Birthdate ===
 Estadísticas de edades:
 count    456.000000
-mean      46.317982
-std       11.394127
+mean      46.326754
+std       11.391371
 min       17.000000
 25%       38.750000
 50%       47.000000
@@ -47,6 +73,3 @@ SUI      5
 
 Posibles nacionalidades mal escritas (según distancia de Levenshtein):
   No se detectaron nacionalidades sospechosas.
-
-=== Featured ===
-Conteo: {False: 456}, Proporción: 0.000

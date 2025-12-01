@@ -1,5 +1,5 @@
 
-=== Evento(s): Stage 6 & Stage 3 & Stage 4 & Stage 2 & Stage 5 & Stage 1 ===
+=== Evento(s): Stage 2 & Stage 4 & Stage 1 & Stage 3 & Stage 5 & Stage 6 ===
                                   athlete_id    split  netTime_sec         anomaly_type
 162745  7b167227-8f2b-5f8c-8d1b-6202a946d7bf      EH1     7951.483    Outlier de tiempo
 162746  7b167227-8f2b-5f8c-8d1b-6202a946d7bf      CP2    11535.442    Outlier de tiempo

@@ -19,7 +19,7 @@ nicolas  Nicolas
   jhoan     Joan
 
 === surname ===
-Únicos: 27127, Nulos: 33
+Únicos: 27128, Nulos: 0
 Ejemplos: Merzougui, Hot, Santos, Navarro, Serjogins, Lopes, Ortiz Martínez, Franke, Martin López, Lewis
 Posibles errores tipográficos (casi iguales):
 surname Sugerido
@@ -27,12 +27,38 @@ surname Sugerido
   lewis    Lewis
  martin   Martin
 niessen  Nielsen
-     he      Lee
+     he         
   bello    Kelly
     coe      Lee
     lee      Lee
     bea      Lee
   zanen   Hansen
+
+=== Clubes ===
+Únicos: 3352, Nulos: 0
+Top 10 clubes:
+Independiente                22632
+                              1485
+PRORUNNERS BARCELONA           152
+FUN RUNNERS CLUB ESPORTIU      107
+BCTeam                          60
+eDO Team                        58
+CLUB PROAM                      52
+Les Croupiers RC                51
+PCteam                          45
+NBRO Running                    42
+Posibles errores tipográficos (casi iguales):
+                    Club                  Sugerido
+                  runpac                   runnpac
+             cpc runners               cdf runners
+                 pc team                    bcteam
+             club pro am                club proam
+               razzeclub                razze club
+                     nor                      nbro
+    deloitte runner club     deloitte runners club
+funrunners club esportiu fun runners club esportiu
+             caf runners               cdf runners
+       uec anoia popular          uecanoia popular
 
 === Gender ===
 Únicos: ['male', 'female', 'mixed'], Nulos: 0
@@ -44,8 +70,8 @@ mixed        40
 === Birthdate ===
 Estadísticas de edades:
 count    31648.000000
-mean        36.556939
-std         11.059958
+mean        36.566860
+std         11.059577
 min         16.000000
 25%         28.000000
 50%         34.000000
@@ -57,12 +83,12 @@ Arnau   Canal 1925-05-07
 
 === Nationality ===
 Nulos: 0
-Códigos inválidos: , NAN, NONE, FRA
+Códigos inválidos: , FRA
 Top 10 códigos:
 ES    19297
 FR     2627
 GB     2576
-       1073
+       1106
 DE      991
 NL      689
 IT      570
@@ -72,6 +98,3 @@ PL      373
 
 Posibles nacionalidades mal escritas (según distancia de Levenshtein):
   No se detectaron nacionalidades sospechosas.
-
-=== Featured ===
-Conteo: {False: 31683}, Proporción: 0.000
