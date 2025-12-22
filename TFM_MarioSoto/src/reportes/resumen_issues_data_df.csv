@@ -1,23 +1,41 @@
 campo,tipo,ejemplo,cardinalidad,% missing,carreras,num_carreras
-athlete_id,str,L6554352,59513,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
-data_Dorsal entregado,str,Sí,3,94.13368775210513,['01675eec-4b8b-4b92-80b7-5e22a1878f38'],1
-data_LICENCIA,str,TO617,4,99.99925646411509,['01675eec-4b8b-4b92-80b7-5e22a1878f38'],1
-data_Licencia,str,,1243,88.31496180084392,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",2
-data_MEDALLA,str,si,1,99.99981411602877,['01675eec-4b8b-4b92-80b7-5e22a1878f38'],1
-data_TALLA,str,L- Hombre,15,99.99516701674814,['01675eec-4b8b-4b92-80b7-5e22a1878f38'],1
-data_TIEMPO ESTIMADO,str,Entre 1h45 y 1h50,12,99.79961707901927,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",2
-data_Teléfono emergencia,str,671687217,50,99.98921872966893,['01675eec-4b8b-4b92-80b7-5e22a1878f38'],1
-data_birthdate,str,1996-11-10,1109,99.71169396062977,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
-data_club,str,Independiente,227,99.85909994981132,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
-data_document,str,03888423C,31500,88.25399185828205,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",3
-data_e-mail,str,GUILLERMOARRANZ@HOTMAIL.COM,190,99.964496161496,['01675eec-4b8b-4b92-80b7-5e22a1878f38'],1
-data_gender,str,male,3,99.93438295815751,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
-data_name,str,ALBERT,344,99.8936743684592,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
-data_nationality,str,España,302,72.70647062103835,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
-data_pais,str,Suiza,10,99.99776939234529,['01675eec-4b8b-4b92-80b7-5e22a1878f38'],1
-data_phone,str,645081156,238,99.95538784690596,['01675eec-4b8b-4b92-80b7-5e22a1878f38'],1
-data_statusNote,str,RT 55.10,5,99.8537093146458,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",3
-data_surname,str,BARBERA BARTRA,442,99.89386025243043,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
-event_id,str,independiente,11,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
-issue_id,str,af4215f0-e856-11ef-aee0-f3683f511a40,35599,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
-race_id,str,b228b93e-2a15-4123-baf9-ca0915165c6a,4,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
+athlete_id,int,8250,29691,0.0,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac', '8bbfdd2e-da3d-4934-a1c5-8fbd303d4974']",Todas
+data_Camiseta Finisher,str,XL-Hombre,10,99.94338641405596,['af5c5746-04e8-42ab-9610-b12f0d9125b1'],1
+data_Camiseta entregada,str,Sí,1,99.12051452533458,['af5c5746-04e8-42ab-9610-b12f0d9125b1'],1
+data_Código Postal,str,46015,1,99.99934170248902,['609139b1-d6bd-4553-ac89-2f648787a60d'],1
+data_Dorsal entregado,str,Sí,1,91.92598102786573,['af5c5746-04e8-42ab-9610-b12f0d9125b1'],1
+data_Email,str,rachid1casa2014@gmail.com,3,99.99802510746707,"['72a81045-fb27-43e6-a201-b1d42be42fac', '8bbfdd2e-da3d-4934-a1c5-8fbd303d4974']",2
+data_Emergency Phone,str,605092874,2,99.99868340497805,['8bbfdd2e-da3d-4934-a1c5-8fbd303d4974'],1
+data_Language,str,es,4,90.85953906008282,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d']",2
+data_Localidad,str,Malaga,4,99.99670851244511,['609139b1-d6bd-4553-ac89-2f648787a60d'],1
+data_Nacionalidad,str,Reino Unido,2,99.99868340497805,['8bbfdd2e-da3d-4934-a1c5-8fbd303d4974'],1
+data_Pais,str,PERÚ,4,99.99539191742316,"['609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac']",2
+data_País de residencia,str,Marruecos,4,99.99736680995609,"['609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac']",2
+data_Pers Contacto,str,Vanesa,1,99.99934170248902,['72a81045-fb27-43e6-a201-b1d42be42fac'],1
+data_Provincia,str,Barcelona,5,99.99670851244511,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d']",2
+data_TALLA,str,M,2,99.99868340497805,['609139b1-d6bd-4553-ac89-2f648787a60d'],1
+data_Talla,str,Hombre - S,1,99.99934170248902,['af5c5746-04e8-42ab-9610-b12f0d9125b1'],1
+data_Telf Emergencia,str,+3463847975,4,99.99736680995609,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '72a81045-fb27-43e6-a201-b1d42be42fac']",2
+data_Teléfono emergencia,str,630466419,3,99.99802510746707,"['609139b1-d6bd-4553-ac89-2f648787a60d', '8bbfdd2e-da3d-4934-a1c5-8fbd303d4974']",2
+data_birthdate,str,1988-02-07,8773,90.93853476140006,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac', '8bbfdd2e-da3d-4934-a1c5-8fbd303d4974']",Todas
+data_category,str,M45,11,99.96708512445115,"['72a81045-fb27-43e6-a201-b1d42be42fac', '8bbfdd2e-da3d-4934-a1c5-8fbd303d4974']",2
+data_club,str,ASD PODISTICA BARCELLONA,3328,96.03309919885193,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac', '8bbfdd2e-da3d-4934-a1c5-8fbd303d4974']",Todas
+data_comments,str,Compromiso Yomury,3,99.99670851244511,"['609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac']",2
+data_document,str,33987532H,26,99.9828842647146,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac', '8bbfdd2e-da3d-4934-a1c5-8fbd303d4974']",Todas
+data_dorsal,str,1919,187,99.87229028287044,"['72a81045-fb27-43e6-a201-b1d42be42fac', '8bbfdd2e-da3d-4934-a1c5-8fbd303d4974']",2
+data_e-mail,str,pulido_corte@hotmail.com,13429,81.92446694359049,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d']",2
+data_event,str,Maratón Silla de Ruedas,1,99.99934170248902,['8bbfdd2e-da3d-4934-a1c5-8fbd303d4974'],1
+data_gender,str,female,2,99.98222596720362,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac', '8bbfdd2e-da3d-4934-a1c5-8fbd303d4974']",Todas
+data_gunTime,str,2023-02-19T07:30:05.988Z,5,92.40193012830218,['72a81045-fb27-43e6-a201-b1d42be42fac'],1
+data_name,str,CELESTE AGATE,3619,91.87726701205344,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac', '8bbfdd2e-da3d-4934-a1c5-8fbd303d4974']",Todas
+data_nationality,str,MAR,11,99.97761788462678,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac', '8bbfdd2e-da3d-4934-a1c5-8fbd303d4974']",Todas
+data_phone,str,689723994,7,99.99539191742316,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac', '8bbfdd2e-da3d-4934-a1c5-8fbd303d4974']",Todas
+data_status,str,retired,3,98.1738827045495,"['72a81045-fb27-43e6-a201-b1d42be42fac', '8bbfdd2e-da3d-4934-a1c5-8fbd303d4974']",2
+data_statusNote,str,RT .55.10,6,99.7353644005872,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac', '8bbfdd2e-da3d-4934-a1c5-8fbd303d4974']",Todas
+data_surname,str,LOZANO GRIJOTA,10527,91.86475935934486,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac', '8bbfdd2e-da3d-4934-a1c5-8fbd303d4974']",Todas
+data_team,str,CLUBE RAQUEL CABAÇO,3665,96.09892894994964,"['72a81045-fb27-43e6-a201-b1d42be42fac', '8bbfdd2e-da3d-4934-a1c5-8fbd303d4974']",2
+data_user_id,str,923224,1,99.99934170248902,['af5c5746-04e8-42ab-9610-b12f0d9125b1'],1
+data_wave,str,Maratón Silla de Ruedas,1,99.99934170248902,['8bbfdd2e-da3d-4934-a1c5-8fbd303d4974'],1
+event_id,str,Maratón,3,0.0,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac', '8bbfdd2e-da3d-4934-a1c5-8fbd303d4974']",Todas
+issue_id,str,b9679bf0-eeae-11ef-8d6b-2d20f644acaf,16036,0.0,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac', '8bbfdd2e-da3d-4934-a1c5-8fbd303d4974']",Todas
+race_id,str,af5c5746-04e8-42ab-9610-b12f0d9125b1,4,0.0,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac', '8bbfdd2e-da3d-4934-a1c5-8fbd303d4974']",Todas

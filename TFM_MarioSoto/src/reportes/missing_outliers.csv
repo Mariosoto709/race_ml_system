@@ -1,392 +1,379 @@
 DF,Race,Event,Columna,Tipo,Missing
-athletes_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,team,Outlier,0.7650587758411025
-athletes_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Marato,team,Outlier,0.0
-athletes_events_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,team,Outlier,0.0
-athletes_time_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,incidence,Vacio,1.0
-athletes_time_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,isBackup,Vacio,1.0
-athletes_time_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,isBackup,Outlier,0.9944826107395282
-athletes_time_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Marato,isBackup,Outlier,0.9970587150927243
-athletes_time_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,offset,Vacio,1.0
-athletes_time_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,offset,Outlier,0.9944826107395282
-athletes_time_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Marato,offset,Outlier,0.9970587150927243
-issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_Dorsal entregado,Vacio,1.0
-issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_Dorsal entregado,Vacio,1.0
-issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,independiente,data_Dorsal entregado,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_Dorsal entregado,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_Dorsal entregado,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_Dorsal entregado,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_Dorsal entregado,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_Dorsal entregado,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_Dorsal entregado,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_Dorsal entregado,Vacio,1.0
-issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_Dorsal entregado,Vacio,1.0
-issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,independiente,data_Dorsal entregado,Vacio,1.0
-issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_Dorsal entregado,Outlier,0.7103536257422653
-issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_LICENCIA,Vacio,1.0
-issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_LICENCIA,Vacio,1.0
-issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,independiente,data_LICENCIA,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_LICENCIA,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_LICENCIA,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_LICENCIA,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_LICENCIA,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_LICENCIA,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_LICENCIA,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_LICENCIA,Vacio,1.0
-issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_LICENCIA,Vacio,1.0
-issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,independiente,data_LICENCIA,Vacio,1.0
-issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_LICENCIA,Outlier,0.9999632882696844
-issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_Licencia,Vacio,1.0
-issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_Licencia,Vacio,1.0
-issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_Licencia,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_Licencia,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_Licencia,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_Licencia,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_Licencia,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_Licencia,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_Licencia,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_Licencia,Vacio,1.0
-issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_Licencia,Vacio,1.0
-issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,independiente,data_Licencia,Outlier,0.7402997653435568
-issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,independiente,data_Licencia,Outlier,0.7402997653435568
-issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_MEDALLA,Vacio,1.0
-issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_MEDALLA,Vacio,1.0
-issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,independiente,data_MEDALLA,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_MEDALLA,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_MEDALLA,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_MEDALLA,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_MEDALLA,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_MEDALLA,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_MEDALLA,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_MEDALLA,Vacio,1.0
-issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_MEDALLA,Vacio,1.0
-issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,independiente,data_MEDALLA,Vacio,1.0
-issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_MEDALLA,Outlier,0.9999908220674211
-issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_TALLA,Vacio,1.0
-issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_TALLA,Vacio,1.0
-issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,independiente,data_TALLA,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_TALLA,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_TALLA,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_TALLA,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_TALLA,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_TALLA,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_TALLA,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_TALLA,Vacio,1.0
-issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_TALLA,Vacio,1.0
-issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,independiente,data_TALLA,Vacio,1.0
-issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_TALLA,Outlier,0.9997613737529484
-issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_TIEMPO ESTIMADO,Vacio,1.0
-issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_TIEMPO ESTIMADO,Vacio,1.0
-issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_TIEMPO ESTIMADO,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_TIEMPO ESTIMADO,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_TIEMPO ESTIMADO,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_TIEMPO ESTIMADO,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_TIEMPO ESTIMADO,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_TIEMPO ESTIMADO,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_TIEMPO ESTIMADO,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_TIEMPO ESTIMADO,Vacio,1.0
-issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_TIEMPO ESTIMADO,Vacio,1.0
-issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,independiente,data_TIEMPO ESTIMADO,Outlier,0.9955464851108834
-issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,independiente,data_TIEMPO ESTIMADO,Outlier,0.9955464851108834
-issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_Teléfono emergencia,Vacio,1.0
-issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_Teléfono emergencia,Vacio,1.0
-issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,independiente,data_Teléfono emergencia,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_Teléfono emergencia,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_Teléfono emergencia,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_Teléfono emergencia,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_Teléfono emergencia,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_Teléfono emergencia,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_Teléfono emergencia,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_Teléfono emergencia,Vacio,1.0
-issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_Teléfono emergencia,Vacio,1.0
-issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,independiente,data_Teléfono emergencia,Vacio,1.0
-issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_Teléfono emergencia,Outlier,0.9994676799104234
-issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_birthdate,Vacio,1.0
-issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_birthdate,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_birthdate,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_birthdate,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_birthdate,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_birthdate,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_birthdate,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_birthdate,Vacio,1.0
-issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_birthdate,Vacio,1.0
-issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_club,Vacio,1.0
-issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_club,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_club,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_club,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_club,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_club,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_club,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_club,Vacio,1.0
-issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_club,Vacio,1.0
-issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_club,Outlier,0.9980542782932716
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_club,Outlier,0.9800747198007472
-issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_document,Vacio,1.0
-issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_document,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_document,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_document,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_document,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_document,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_document,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_document,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_document,Vacio,1.0
-issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_document,Vacio,1.0
-issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_document,Outlier,0.9970447057095918
-issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,independiente,data_document,Outlier,0.7402749776911128
-issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,independiente,data_document,Outlier,0.7402749776911128
-issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_e-mail,Vacio,1.0
-issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_e-mail,Vacio,1.0
-issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,independiente,data_e-mail,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_e-mail,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_e-mail,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_e-mail,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_e-mail,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_e-mail,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_e-mail,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_e-mail,Vacio,1.0
-issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_e-mail,Vacio,1.0
-issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,independiente,data_e-mail,Vacio,1.0
-issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_e-mail,Outlier,0.9982470148774287
-issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_gender,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_gender,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_gender,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_gender,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_gender,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_gender,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_gender,Vacio,1.0
-issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_gender,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_gender,Outlier,0.8866749688667497
-issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_name,Vacio,1.0
-issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_name,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_name,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_name,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_name,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_name,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_name,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_name,Vacio,1.0
-issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_name,Vacio,1.0
-issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_name,Outlier,0.9970263498444341
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_name,Outlier,0.9950186799501868
-issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_nationality,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_nationality,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_nationality,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_nationality,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_nationality,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_nationality,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_nationality,Vacio,1.0
-issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_nationality,Vacio,1.0
-issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_pais,Vacio,1.0
-issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_pais,Vacio,1.0
-issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,independiente,data_pais,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_pais,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_pais,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_pais,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_pais,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_pais,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_pais,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_pais,Vacio,1.0
-issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_pais,Vacio,1.0
-issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,independiente,data_pais,Vacio,1.0
-issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_pais,Outlier,0.9998898648090531
-issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_phone,Vacio,1.0
-issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_phone,Vacio,1.0
-issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,independiente,data_phone,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_phone,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_phone,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_phone,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_phone,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_phone,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_phone,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_phone,Vacio,1.0
-issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_phone,Vacio,1.0
-issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,independiente,data_phone,Vacio,1.0
-issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_phone,Outlier,0.9977972961810623
-issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_statusNote,Vacio,1.0
-issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_statusNote,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_statusNote,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_statusNote,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_statusNote,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_statusNote,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_statusNote,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_statusNote,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_statusNote,Vacio,1.0
-issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_statusNote,Vacio,1.0
-issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_statusNote,Outlier,0.9984305735290069
-issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,independiente,data_statusNote,Outlier,0.9974551343490763
-issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,independiente,data_statusNote,Outlier,0.9974551343490763
-issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_surname,Vacio,1.0
-issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_surname,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_surname,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_surname,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_surname,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_surname,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_surname,Vacio,1.0
-issues_data_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_surname,Vacio,1.0
-issues_data_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_surname,Vacio,1.0
-issues_data_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_surname,Outlier,0.9969988160466973
-issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_events_attributes_ADVENTURE,Vacio,1.0
-issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_events_attributes_ADVENTURE,Vacio,1.0
-issues_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_events_attributes_ADVENTURE,Vacio,1.0
-issues_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,independiente,data_events_attributes_ADVENTURE,Vacio,1.0
-issues_events_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_events_attributes_ADVENTURE,Vacio,1.0
-issues_events_df,b228b93e-2a15-4123-baf9-ca0915165c6a,independiente,data_events_attributes_ADVENTURE,Vacio,1.0
-issues_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_events_attributes_D. Fisico/Intelectual,Vacio,1.0
-issues_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,independiente,data_events_attributes_D. Fisico/Intelectual,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_events_attributes_D. Fisico/Intelectual,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_events_attributes_D. Fisico/Intelectual,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_events_attributes_D. Fisico/Intelectual,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_events_attributes_D. Fisico/Intelectual,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_events_attributes_D. Fisico/Intelectual,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_events_attributes_D. Fisico/Intelectual,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_events_attributes_D. Fisico/Intelectual,Vacio,1.0
-issues_events_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_events_attributes_D. Fisico/Intelectual,Vacio,1.0
-issues_events_df,b228b93e-2a15-4123-baf9-ca0915165c6a,independiente,data_events_attributes_D. Fisico/Intelectual,Vacio,1.0
-issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_events_attributes_D. Fisico/Intelectual,Outlier,0.0
-issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_events_attributes_D. Fisico/Intelectual,Outlier,0.0
-issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_events_attributes_Discapacitado intelectual,Vacio,1.0
-issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_events_attributes_Discapacitado intelectual,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_events_attributes_Discapacitado intelectual,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_events_attributes_Discapacitado intelectual,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_events_attributes_Discapacitado intelectual,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_events_attributes_Discapacitado intelectual,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_events_attributes_Discapacitado intelectual,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_events_attributes_Discapacitado intelectual,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_events_attributes_Discapacitado intelectual,Vacio,1.0
-issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_events_attributes_Discapacitado visual,Vacio,1.0
-issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_events_attributes_Discapacitado visual,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_events_attributes_Discapacitado visual,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_events_attributes_Discapacitado visual,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_events_attributes_Discapacitado visual,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_events_attributes_Discapacitado visual,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_events_attributes_Discapacitado visual,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_events_attributes_Discapacitado visual,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_events_attributes_Discapacitado visual,Vacio,1.0
-issues_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_events_attributes_Españoles,Vacio,1.0
-issues_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,independiente,data_events_attributes_Españoles,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_events_attributes_Españoles,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_events_attributes_Españoles,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_events_attributes_Españoles,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_events_attributes_Españoles,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_events_attributes_Españoles,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_events_attributes_Españoles,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_events_attributes_Españoles,Vacio,1.0
-issues_events_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_events_attributes_Españoles,Vacio,1.0
-issues_events_df,b228b93e-2a15-4123-baf9-ca0915165c6a,independiente,data_events_attributes_Españoles,Vacio,1.0
-issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_events_attributes_Españoles,Outlier,0.0
-issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_events_attributes_Españoles,Outlier,0.0
-issues_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_events_attributes_Fed. AD Maratón,Vacio,1.0
-issues_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,independiente,data_events_attributes_Fed. AD Maratón,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_events_attributes_Fed. AD Maratón,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_events_attributes_Fed. AD Maratón,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_events_attributes_Fed. AD Maratón,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_events_attributes_Fed. AD Maratón,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_events_attributes_Fed. AD Maratón,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_events_attributes_Fed. AD Maratón,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_events_attributes_Fed. AD Maratón,Vacio,1.0
-issues_events_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_events_attributes_Fed. AD Maratón,Vacio,1.0
-issues_events_df,b228b93e-2a15-4123-baf9-ca0915165c6a,independiente,data_events_attributes_Fed. AD Maratón,Vacio,1.0
-issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_events_attributes_Fed. AD Maratón,Outlier,0.0
-issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_events_attributes_Fed. AD Maratón,Outlier,0.0
-issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_events_attributes_Sillas,Vacio,1.0
-issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_events_attributes_Sillas,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_events_attributes_Sillas,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_events_attributes_Sillas,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_events_attributes_Sillas,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_events_attributes_Sillas,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_events_attributes_Sillas,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_events_attributes_Sillas,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_events_attributes_Sillas,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_events_auto_category,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_events_auto_category,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_events_auto_category,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_events_auto_category,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_events_auto_category,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_events_auto_category,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_events_auto_category,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_events_dorsal,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_events_dorsal,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_events_dorsal,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_events_dorsal,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_events_dorsal,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_events_dorsal,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_events_dorsal,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_events_gunTime,Vacio,1.0
-issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_events_gunTime,Outlier,0.40581701294829753
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_events_gunTime,Outlier,1.0
-issues_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_events_gunTimeMode,Vacio,1.0
-issues_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,independiente,data_events_gunTimeMode,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_events_gunTimeMode,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_events_gunTimeMode,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_events_gunTimeMode,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_events_gunTimeMode,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_events_gunTimeMode,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_events_gunTimeMode,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_events_gunTimeMode,Vacio,1.0
-issues_events_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_events_gunTimeMode,Vacio,1.0
-issues_events_df,b228b93e-2a15-4123-baf9-ca0915165c6a,independiente,data_events_gunTimeMode,Vacio,1.0
-issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_events_gunTimeMode,Outlier,0.0
-issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_events_gunTimeMode,Outlier,0.0
-issues_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_events_team,Vacio,1.0
-issues_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,independiente,data_events_team,Vacio,1.0
-issues_events_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_events_team,Vacio,1.0
-issues_events_df,b228b93e-2a15-4123-baf9-ca0915165c6a,independiente,data_events_team,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_events_times_10K_time,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_events_times_10K_time,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_events_times_10K_time,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_events_times_10K_time,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_events_times_10K_time,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_events_times_10K_time,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_events_times_10K_time,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_events_times_15K_time,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_events_times_15K_time,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_events_times_15K_time,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_events_times_15K_time,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_events_times_15K_time,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_events_times_15K_time,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_events_times_15K_time,Vacio,1.0
-issues_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_events_times_19K_time,Vacio,1.0
-issues_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,independiente,data_events_times_19K_time,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_events_times_19K_time,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_events_times_19K_time,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_events_times_19K_time,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_events_times_19K_time,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_events_times_19K_time,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_events_times_19K_time,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_events_times_19K_time,Vacio,1.0
-issues_events_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_events_times_19K_time,Vacio,1.0
-issues_events_df,b228b93e-2a15-4123-baf9-ca0915165c6a,independiente,data_events_times_19K_time,Vacio,1.0
-issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_events_times_19K_time,Outlier,0.0
-issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_events_times_19K_time,Outlier,0.0
-issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_events_times_20K_time,Vacio,1.0
-issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_events_times_20K_time,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_events_times_20K_time,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_events_times_20K_time,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_events_times_20K_time,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_events_times_20K_time,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_events_times_20K_time,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_events_times_20K_time,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_events_times_20K_time,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 1,data_events_times_5K_time,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 2,data_events_times_5K_time,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 3,data_events_times_5K_time,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 4,data_events_times_5K_time,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 5,data_events_times_5K_time,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,Stage 6,data_events_times_5K_time,Vacio,1.0
-issues_events_df,78a14be0-36cc-4ce4-bb5a-b81744a7390e,independiente,data_events_times_5K_time,Vacio,1.0
-issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_events_times_CP3_time,Vacio,1.0
-issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_events_times_CP3_time,Vacio,1.0
-issues_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_events_times_CP3_time,Vacio,1.0
-issues_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,independiente,data_events_times_CP3_time,Vacio,1.0
-issues_events_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_events_times_CP3_time,Vacio,1.0
-issues_events_df,b228b93e-2a15-4123-baf9-ca0915165c6a,independiente,data_events_times_CP3_time,Vacio,1.0
-issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_events_times_CP4_time,Vacio,1.0
-issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_events_times_CP4_time,Vacio,1.0
-issues_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_events_times_CP4_time,Vacio,1.0
-issues_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,independiente,data_events_times_CP4_time,Vacio,1.0
-issues_events_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_events_times_CP4_time,Vacio,1.0
-issues_events_df,b228b93e-2a15-4123-baf9-ca0915165c6a,independiente,data_events_times_CP4_time,Vacio,1.0
-issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,Medio Maratón,data_events_times_EH2_time,Vacio,1.0
-issues_events_df,01675eec-4b8b-4b92-80b7-5e22a1878f38,independiente,data_events_times_EH2_time,Vacio,1.0
-issues_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,data_events_times_EH2_time,Vacio,1.0
-issues_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,independiente,data_events_times_EH2_time,Vacio,1.0
-issues_events_df,b228b93e-2a15-4123-baf9-ca0915165c6a,Mitja,data_events_times_EH2_time,Vacio,1.0
-issues_events_df,b228b93e-2a15-4123-baf9-ca0915165c6a,independiente,data_events_times_EH2_time,Vacio,1.0
+athletes_events_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón Silla de Ruedas,auto_category,Vacio,1.0
+athletes_events_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón Silla de Ruedas,auto_chip,Vacio,1.0
+athletes_events_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón Silla de Ruedas,startNetTime,Outlier,0.3157894736842105
+athletes_events_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón Silla de Ruedas,startRawTime,Outlier,0.3157894736842105
+athletes_events_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón Silla de Ruedas,startTime,Outlier,0.3157894736842105
+athletes_events_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón Silla de Ruedas,team,Vacio,1.0
+athletes_events_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón Silla de Ruedas,team,Outlier,1.0
+athletes_events_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón Silla de Ruedas,startNetTime_td,Outlier,0.3157894736842105
+athletes_events_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón Silla de Ruedas,startTime_td,Outlier,0.3157894736842105
+athletes_time_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón Silla de Ruedas,incidence,Vacio,1.0
+athletes_time_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón Silla de Ruedas,incidence,Outlier,0.9723756906077348
+athletes_time_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón Silla de Ruedas,isBackup,Vacio,1.0
+athletes_time_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón Silla de Ruedas,isBackup,Vacio,1.0
+athletes_time_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón Silla de Ruedas,isBackup,Outlier,0.9834254143646409
+athletes_time_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón Silla de Ruedas,offset,Vacio,1.0
+athletes_time_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón Silla de Ruedas,offset,Vacio,1.0
+athletes_time_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón Silla de Ruedas,offset,Outlier,0.9834254143646409
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón,data_Camiseta Finisher,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón Silla de Ruedas,data_Camiseta Finisher,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,independiente,data_Camiseta Finisher,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_Camiseta Finisher,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,independiente,data_Camiseta Finisher,Vacio,1.0
+issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974,independiente,data_Camiseta Finisher,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón Silla de Ruedas,data_Camiseta Finisher,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,independiente,data_Camiseta Finisher,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón,data_Camiseta Finisher,Outlier,0.9987627145467363
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón,data_Camiseta entregada,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón Silla de Ruedas,data_Camiseta entregada,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,independiente,data_Camiseta entregada,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_Camiseta entregada,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,independiente,data_Camiseta entregada,Vacio,1.0
+issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974,independiente,data_Camiseta entregada,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón,data_Camiseta entregada,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón Silla de Ruedas,data_Camiseta entregada,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,independiente,data_Camiseta entregada,Outlier,0.912662613584363
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón,data_Código Postal,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón Silla de Ruedas,data_Código Postal,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_Código Postal,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,independiente,data_Código Postal,Vacio,1.0
+issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974,independiente,data_Código Postal,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón,data_Código Postal,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón Silla de Ruedas,data_Código Postal,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,independiente,data_Código Postal,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,independiente,data_Código Postal,Outlier,0.9974025974025974
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón,data_Dorsal entregado,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón Silla de Ruedas,data_Dorsal entregado,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,independiente,data_Dorsal entregado,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_Dorsal entregado,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,independiente,data_Dorsal entregado,Vacio,1.0
+issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974,independiente,data_Dorsal entregado,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón,data_Dorsal entregado,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón Silla de Ruedas,data_Dorsal entregado,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,independiente,data_Dorsal entregado,Outlier,0.1982087991109368
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón,data_Email,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón Silla de Ruedas,data_Email,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,independiente,data_Email,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_Email,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón,data_Email,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón Silla de Ruedas,data_Email,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,independiente,data_Email,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,independiente,data_Email,Outlier,0.9999021334899197
+issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974,independiente,data_Email,Outlier,0.9994655264564404
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón,data_Emergency Phone,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón Silla de Ruedas,data_Emergency Phone,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,independiente,data_Emergency Phone,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_Emergency Phone,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,independiente,data_Emergency Phone,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón,data_Emergency Phone,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón Silla de Ruedas,data_Emergency Phone,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,independiente,data_Emergency Phone,Vacio,1.0
+issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974,independiente,data_Emergency Phone,Outlier,0.9989310529128808
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón,data_Language,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón Silla de Ruedas,data_Language,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_Language,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,independiente,data_Language,Vacio,1.0
+issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974,independiente,data_Language,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón Silla de Ruedas,data_Language,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,independiente,data_Language,Outlier,0.9558441558441558
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón,data_Language,Outlier,0.8024947127627433
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón,data_Localidad,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón Silla de Ruedas,data_Localidad,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_Localidad,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,independiente,data_Localidad,Vacio,1.0
+issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974,independiente,data_Localidad,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón,data_Localidad,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón Silla de Ruedas,data_Localidad,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,independiente,data_Localidad,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,independiente,data_Localidad,Outlier,0.987012987012987
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón,data_Nacionalidad,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón Silla de Ruedas,data_Nacionalidad,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,independiente,data_Nacionalidad,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_Nacionalidad,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,independiente,data_Nacionalidad,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón,data_Nacionalidad,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón Silla de Ruedas,data_Nacionalidad,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,independiente,data_Nacionalidad,Vacio,1.0
+issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974,independiente,data_Nacionalidad,Outlier,0.9989310529128808
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón,data_Pais,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón Silla de Ruedas,data_Pais,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_Pais,Vacio,1.0
+issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974,independiente,data_Pais,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón,data_Pais,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón Silla de Ruedas,data_Pais,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,independiente,data_Pais,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,independiente,data_Pais,Outlier,0.987012987012987
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,independiente,data_Pais,Outlier,0.9999021334899197
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón,data_País de residencia,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón Silla de Ruedas,data_País de residencia,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_País de residencia,Vacio,1.0
+issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974,independiente,data_País de residencia,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón,data_País de residencia,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón Silla de Ruedas,data_País de residencia,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,independiente,data_País de residencia,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,independiente,data_País de residencia,Outlier,0.9922077922077922
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,independiente,data_País de residencia,Outlier,0.9999510667449599
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón,data_Pers Contacto,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón Silla de Ruedas,data_Pers Contacto,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,independiente,data_Pers Contacto,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_Pers Contacto,Vacio,1.0
+issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974,independiente,data_Pers Contacto,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón,data_Pers Contacto,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón Silla de Ruedas,data_Pers Contacto,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,independiente,data_Pers Contacto,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,independiente,data_Pers Contacto,Outlier,0.9999510667449599
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón,data_Provincia,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón Silla de Ruedas,data_Provincia,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_Provincia,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,independiente,data_Provincia,Vacio,1.0
+issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974,independiente,data_Provincia,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón,data_Provincia,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón Silla de Ruedas,data_Provincia,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,independiente,data_Provincia,Outlier,0.9896103896103896
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,independiente,data_Provincia,Outlier,0.9999346277047787
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón,data_TALLA,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón Silla de Ruedas,data_TALLA,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_TALLA,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,independiente,data_TALLA,Vacio,1.0
+issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974,independiente,data_TALLA,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón,data_TALLA,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón Silla de Ruedas,data_TALLA,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,independiente,data_TALLA,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,independiente,data_TALLA,Outlier,0.9948051948051948
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón,data_Talla,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón Silla de Ruedas,data_Talla,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,independiente,data_Talla,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_Talla,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,independiente,data_Talla,Vacio,1.0
+issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974,independiente,data_Talla,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón,data_Talla,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón Silla de Ruedas,data_Talla,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,independiente,data_Talla,Outlier,0.9999346277047787
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón,data_Telf Emergencia,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón Silla de Ruedas,data_Telf Emergencia,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,independiente,data_Telf Emergencia,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_Telf Emergencia,Vacio,1.0
+issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974,independiente,data_Telf Emergencia,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón,data_Telf Emergencia,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón Silla de Ruedas,data_Telf Emergencia,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,independiente,data_Telf Emergencia,Outlier,0.9999021334899197
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,independiente,data_Telf Emergencia,Outlier,0.9998692554095574
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón,data_Teléfono emergencia,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón Silla de Ruedas,data_Teléfono emergencia,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_Teléfono emergencia,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,independiente,data_Teléfono emergencia,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón,data_Teléfono emergencia,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón Silla de Ruedas,data_Teléfono emergencia,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,independiente,data_Teléfono emergencia,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,independiente,data_Teléfono emergencia,Outlier,0.9948051948051948
+issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974,independiente,data_Teléfono emergencia,Outlier,0.9994655264564404
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón,data_birthdate,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón Silla de Ruedas,data_birthdate,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_birthdate,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón Silla de Ruedas,data_birthdate,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,independiente,data_birthdate,Outlier,0.9714285714285714
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón,data_birthdate,Outlier,0.8025090998028975
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón,data_category,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón Silla de Ruedas,data_category,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,independiente,data_category,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_category,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón,data_category,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón Silla de Ruedas,data_category,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,independiente,data_category,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,independiente,data_category,Outlier,0.9981405363084752
+issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974,independiente,data_category,Outlier,0.9935863174772849
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón Silla de Ruedas,data_club,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_club,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón,data_club,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón Silla de Ruedas,data_club,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón,data_club,Outlier,0.8667870036101083
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón,data_comments,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón Silla de Ruedas,data_comments,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_comments,Vacio,1.0
+issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974,independiente,data_comments,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón,data_comments,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón Silla de Ruedas,data_comments,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,independiente,data_comments,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,independiente,data_comments,Outlier,0.9922077922077922
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,independiente,data_comments,Outlier,0.9999021334899197
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón,data_document,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón Silla de Ruedas,data_document,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_document,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón,data_document,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón Silla de Ruedas,data_document,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,independiente,data_document,Outlier,0.9766233766233766
+issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974,independiente,data_document,Outlier,0.9957242116515232
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón,data_dorsal,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón Silla de Ruedas,data_dorsal,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,independiente,data_dorsal,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_dorsal,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón,data_dorsal,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón Silla de Ruedas,data_dorsal,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,independiente,data_dorsal,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,independiente,data_dorsal,Outlier,0.9920728126834997
+issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974,independiente,data_dorsal,Outlier,0.982896846606093
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón,data_e-mail,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón Silla de Ruedas,data_e-mail,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_e-mail,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,independiente,data_e-mail,Vacio,1.0
+issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974,independiente,data_e-mail,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón Silla de Ruedas,data_e-mail,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,independiente,data_e-mail,Outlier,0.9974025974025974
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón,data_e-mail,Outlier,0.6049894255254866
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón,data_event,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón Silla de Ruedas,data_event,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,independiente,data_event,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_event,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,independiente,data_event,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón,data_event,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón Silla de Ruedas,data_event,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,independiente,data_event,Vacio,1.0
+issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974,independiente,data_event,Outlier,0.9994655264564404
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón Silla de Ruedas,data_gender,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_gender,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón,data_gender,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón Silla de Ruedas,data_gender,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,independiente,data_gender,Outlier,0.9766233766233766
+issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974,independiente,data_gender,Outlier,0.9983965793693212
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón,data_gunTime,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón Silla de Ruedas,data_gunTime,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,independiente,data_gunTime,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_gunTime,Vacio,1.0
+issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974,independiente,data_gunTime,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón,data_gunTime,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón Silla de Ruedas,data_gunTime,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,independiente,data_gunTime,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,independiente,data_gunTime,Outlier,0.4352123703268741
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón Silla de Ruedas,data_name,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_name,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón,data_name,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón Silla de Ruedas,data_name,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón,data_name,Outlier,0.7229241877256318
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,independiente,data_name,Outlier,0.9376623376623376
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón,data_nationality,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón Silla de Ruedas,data_nationality,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_nationality,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón,data_nationality,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón Silla de Ruedas,data_nationality,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,independiente,data_nationality,Outlier,0.9272727272727272
+issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974,independiente,data_nationality,Outlier,0.9983965793693212
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón,data_phone,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón Silla de Ruedas,data_phone,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_phone,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón,data_phone,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón Silla de Ruedas,data_phone,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,independiente,data_phone,Outlier,0.9948051948051948
+issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974,independiente,data_phone,Outlier,0.9994655264564404
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón,data_status,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón Silla de Ruedas,data_status,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,independiente,data_status,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_status,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón,data_status,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón Silla de Ruedas,data_status,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,independiente,data_status,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,independiente,data_status,Outlier,0.9307105108631826
+issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974,independiente,data_status,Outlier,0.2741849278460716
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón,data_statusNote,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón Silla de Ruedas,data_statusNote,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_statusNote,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón,data_statusNote,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón Silla de Ruedas,data_statusNote,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón Silla de Ruedas,data_surname,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_surname,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón,data_surname,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón Silla de Ruedas,data_surname,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón,data_surname,Outlier,0.7229241877256318
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,independiente,data_surname,Outlier,0.9298701298701298
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón,data_team,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón Silla de Ruedas,data_team,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,independiente,data_team,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_team,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón,data_team,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón Silla de Ruedas,data_team,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,independiente,data_team,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,independiente,data_team,Outlier,0.7100704638872578
+issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974,independiente,data_team,Outlier,0.9994655264564404
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón,data_user_id,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón Silla de Ruedas,data_user_id,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,independiente,data_user_id,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_user_id,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,independiente,data_user_id,Vacio,1.0
+issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974,independiente,data_user_id,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón,data_user_id,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón Silla de Ruedas,data_user_id,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,independiente,data_user_id,Outlier,0.9999346277047787
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón,data_wave,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón Silla de Ruedas,data_wave,Vacio,1.0
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,independiente,data_wave,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_wave,Vacio,1.0
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,independiente,data_wave,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón,data_wave,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón Silla de Ruedas,data_wave,Vacio,1.0
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,independiente,data_wave,Vacio,1.0
+issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974,independiente,data_wave,Outlier,0.9994655264564404
+issues_events_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_events_attributes_Andaluz,Vacio,1.0
+issues_events_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón,data_events_attributes_Andaluz,Vacio,1.0
+issues_events_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón Silla de Ruedas,data_events_attributes_Andaluz,Vacio,1.0
+issues_events_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,independiente,data_events_attributes_Andaluz,Vacio,1.0
+issues_events_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_events_attributes_Atletas con Discapacidad,Vacio,1.0
+issues_events_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_events_attributes_Atletas con Discapacidad,Outlier,1.0
+issues_events_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón,data_events_attributes_Clasif. Andaluzes,Vacio,1.0
+issues_events_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón Silla de Ruedas,data_events_attributes_Clasif. Andaluzes,Vacio,1.0
+issues_events_df,609139b1-d6bd-4553-ac89-2f648787a60d,independiente,data_events_attributes_Clasif. Andaluzes,Vacio,1.0
+issues_events_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_events_attributes_Clasif. Andaluzes,Vacio,1.0
+issues_events_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón,data_events_attributes_Clasif. Españoles,Vacio,1.0
+issues_events_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón Silla de Ruedas,data_events_attributes_Clasif. Españoles,Vacio,1.0
+issues_events_df,609139b1-d6bd-4553-ac89-2f648787a60d,independiente,data_events_attributes_Clasif. Españoles,Vacio,1.0
+issues_events_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_events_attributes_Clasif. Españoles,Vacio,1.0
+issues_events_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón,data_events_attributes_Clasif. Sevillanos,Vacio,1.0
+issues_events_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón Silla de Ruedas,data_events_attributes_Clasif. Sevillanos,Vacio,1.0
+issues_events_df,609139b1-d6bd-4553-ac89-2f648787a60d,independiente,data_events_attributes_Clasif. Sevillanos,Vacio,1.0
+issues_events_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_events_attributes_Clasif. Sevillanos,Vacio,1.0
+issues_events_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_events_attributes_Cto España,Vacio,1.0
+issues_events_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón,data_events_attributes_Cto España,Vacio,1.0
+issues_events_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón Silla de Ruedas,data_events_attributes_Cto España,Vacio,1.0
+issues_events_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,independiente,data_events_attributes_Cto España,Vacio,1.0
+issues_events_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_events_attributes_Discapacitado,Vacio,1.0
+issues_events_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón,data_events_attributes_Discapacitado,Vacio,1.0
+issues_events_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón Silla de Ruedas,data_events_attributes_Discapacitado,Vacio,1.0
+issues_events_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,independiente,data_events_attributes_Discapacitado,Vacio,1.0
+issues_events_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_events_attributes_Españoles,Vacio,1.0
+issues_events_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón,data_events_attributes_Españoles,Vacio,1.0
+issues_events_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón Silla de Ruedas,data_events_attributes_Españoles,Vacio,1.0
+issues_events_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,independiente,data_events_attributes_Españoles,Vacio,1.0
+issues_events_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_events_attributes_Sevillano,Vacio,1.0
+issues_events_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón,data_events_attributes_Sevillano,Vacio,1.0
+issues_events_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón Silla de Ruedas,data_events_attributes_Sevillano,Vacio,1.0
+issues_events_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,independiente,data_events_attributes_Sevillano,Vacio,1.0
+issues_events_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_events_auto_category,Vacio,1.0
+issues_events_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón,data_events_auto_category,Vacio,1.0
+issues_events_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón Silla de Ruedas,data_events_auto_category,Vacio,1.0
+issues_events_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,independiente,data_events_auto_category,Vacio,1.0
+issues_events_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_events_auto_chip,Vacio,1.0
+issues_events_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_events_auto_chip,Outlier,1.0
+issues_events_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_events_category,Vacio,1.0
+issues_events_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón,data_events_category,Vacio,1.0
+issues_events_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón Silla de Ruedas,data_events_category,Vacio,1.0
+issues_events_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,independiente,data_events_category,Vacio,1.0
+issues_events_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_events_dorsal,Vacio,1.0
+issues_events_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_events_dorsal,Outlier,1.0
+issues_events_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_events_gunTime,Vacio,1.0
+issues_events_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_events_gunTime,Outlier,1.0
+issues_events_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón,data_events_gunTimeModeConfig_wave,Vacio,1.0
+issues_events_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón Silla de Ruedas,data_events_gunTimeModeConfig_wave,Vacio,1.0
+issues_events_df,609139b1-d6bd-4553-ac89-2f648787a60d,independiente,data_events_gunTimeModeConfig_wave,Vacio,1.0
+issues_events_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_events_gunTimeModeConfig_wave,Vacio,1.0
+issues_events_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_events_team,Vacio,1.0
+issues_events_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_events_team,Outlier,1.0
+issues_events_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_events_times_10K v4Con_time,Vacio,1.0
+issues_events_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón,data_events_times_10K v4Con_time,Vacio,1.0
+issues_events_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón Silla de Ruedas,data_events_times_10K v4Con_time,Vacio,1.0
+issues_events_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,independiente,data_events_times_10K v4Con_time,Vacio,1.0
+issues_events_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_events_times_Asics 2_time,Vacio,1.0
+issues_events_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_events_times_Asics 2_time,Outlier,1.0
+issues_events_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón,data_events_times_Asics_time,Vacio,1.0
+issues_events_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón Silla de Ruedas,data_events_times_Asics_time,Vacio,1.0
+issues_events_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,independiente,data_events_times_Asics_time,Vacio,1.0
+issues_events_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_events_times_Spotter_time,Vacio,1.0
+issues_events_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,data_events_times_Spotter_time,Outlier,1.0

@@ -1,5 +1,5 @@
 race_id	max_digitos	sugerencia
-01675eec-4b8b-4b92-80b7-5e22a1878f38	13	ms
-49603c2f-1b2b-457f-b82e-fed8bded1d3d	13	ms
-78a14be0-36cc-4ce4-bb5a-b81744a7390e	13	ms
-b228b93e-2a15-4123-baf9-ca0915165c6a	13	ms
+609139b1-d6bd-4553-ac89-2f648787a60d	13	ms
+72a81045-fb27-43e6-a201-b1d42be42fac	13	ms
+8bbfdd2e-da3d-4934-a1c5-8fbd303d4974	13	ms
+af5c5746-04e8-42ab-9610-b12f0d9125b1	13	ms

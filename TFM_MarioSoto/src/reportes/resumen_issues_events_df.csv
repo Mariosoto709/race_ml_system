@@ -1,31 +1,37 @@
 campo,tipo,ejemplo,cardinalidad,% missing,carreras,num_carreras
-athlete_id,str,L6554352,59512,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
-data_events_attributes_ADVENTURE,str,,2,98.86714701427091,['78a14be0-36cc-4ce4-bb5a-b81744a7390e'],1
-data_events_attributes_D. Fisico/Intelectual,str,,2,67.9754145738659,['01675eec-4b8b-4b92-80b7-5e22a1878f38'],1
-data_events_attributes_Discapacitado intelectual,str,,3,33.15743841186319,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",2
-data_events_attributes_Discapacitado visual,str,,3,33.15743841186319,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",2
-data_events_attributes_Españoles,str,,3,67.9754145738659,['01675eec-4b8b-4b92-80b7-5e22a1878f38'],1
-data_events_attributes_Fed. AD Maratón,str,,2,67.9754145738659,['01675eec-4b8b-4b92-80b7-5e22a1878f38'],1
-data_events_attributes_Sillas,str,,2,33.15743841186319,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",2
-data_events_auto_category,str,,3,1.1328529857290919,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",3
-data_events_auto_chip,str,,3,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
-data_events_category,str,,44,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
-data_events_dorsal,str,,172,1.1328529857290919,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",3
-data_events_gunTime,str,2025-02-16T07:40:00.000Z,44,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
-data_events_gunTimeMode,str,,3,67.9754145738659,['01675eec-4b8b-4b92-80b7-5e22a1878f38'],1
-data_events_gunTimeModeConfig_wave,str,8:40,13,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
-data_events_status,str,,4,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
-data_events_team,str,TEAM BIKE AND BICI LLEIDA,205,66.8425615881368,"['78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38']",2
-data_events_times_10K_time,str,,9,1.1328529857290919,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",3
-data_events_times_15K_time,str,,19,1.1328529857290919,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",3
-data_events_times_19K_time,str,,40,67.9754145738659,['01675eec-4b8b-4b92-80b7-5e22a1878f38'],1
-data_events_times_20K_time,str,,11,33.15743841186319,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",2
-data_events_times_5K_time,str,,10,1.1328529857290919,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",3
-data_events_times_CP3_time,str,,4,98.86714701427091,['78a14be0-36cc-4ce4-bb5a-b81744a7390e'],1
-data_events_times_CP4_time,str,,2,98.86714701427091,['78a14be0-36cc-4ce4-bb5a-b81744a7390e'],1
-data_events_times_EH2_time,str,,2,98.86714701427091,['78a14be0-36cc-4ce4-bb5a-b81744a7390e'],1
-data_events_times_Meta_time,str,,94,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
-data_events_times_Salida_time,str,,12,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
-event_id,str,independiente,11,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
-issue_id,str,af4215f0-e856-11ef-aee0-f3683f511a40,4331,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
-race_id,str,b228b93e-2a15-4123-baf9-ca0915165c6a,4,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
+athlete_id,int,8250,28780,0.0,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac']",Todas
+data_events_attributes_Andaluz,str,,2,57.22596853100621,['609139b1-d6bd-4553-ac89-2f648787a60d'],1
+data_events_attributes_Atletas con Discapacidad,str,,3,0.0634668782229274,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d']",2
+data_events_attributes_Clasif. Andaluzes,str,,3,42.837498347216716,['af5c5746-04e8-42ab-9610-b12f0d9125b1'],1
+data_events_attributes_Clasif. Españoles,str,,3,42.837498347216716,['af5c5746-04e8-42ab-9610-b12f0d9125b1'],1
+data_events_attributes_Clasif. Sevillanos,str,,2,42.837498347216716,['af5c5746-04e8-42ab-9610-b12f0d9125b1'],1
+data_events_attributes_Cto España,str,,3,57.22596853100621,['609139b1-d6bd-4553-ac89-2f648787a60d'],1
+data_events_attributes_Discapacitado,str,,3,57.22596853100621,['609139b1-d6bd-4553-ac89-2f648787a60d'],1
+data_events_attributes_Españoles,str,,3,57.22596853100621,['609139b1-d6bd-4553-ac89-2f648787a60d'],1
+data_events_attributes_Sevillano,str,,2,57.22596853100621,['609139b1-d6bd-4553-ac89-2f648787a60d'],1
+data_events_auto_category,str,,2,57.22596853100621,['609139b1-d6bd-4553-ac89-2f648787a60d'],1
+data_events_auto_chip,str,,2,0.0634668782229274,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d']",2
+data_events_category,str,,4,57.22596853100621,['609139b1-d6bd-4553-ac89-2f648787a60d'],1
+data_events_dorsal,str,,65,0.0634668782229274,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d']",2
+data_events_gunTime,str,,9,0.06478910485257174,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d']",2
+data_events_gunTimeModeConfig_wave,str,,3,42.837498347216716,['af5c5746-04e8-42ab-9610-b12f0d9125b1'],1
+data_events_status,str,,4,0.0,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac']",Todas
+data_events_team,str,CLUB MARATON BADAJOZ,6862,0.0634668782229274,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d']",2
+data_events_times_10K v4Con_time,str,,2,57.22596853100621,['609139b1-d6bd-4553-ac89-2f648787a60d'],1
+data_events_times_10K_time,str,,35,0.0,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac']",Todas
+data_events_times_15K_time,str,,35,0.0,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac']",Todas
+data_events_times_20K_time,str,,31,0.0,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac']",Todas
+data_events_times_25K_time,str,,50,0.0,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac']",Todas
+data_events_times_30K_time,str,,46,0.0,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac']",Todas
+data_events_times_35K_time,str,,66,0.0,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac']",Todas
+data_events_times_40K_time,str,,62,0.0,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac']",Todas
+data_events_times_5K_time,str,,44,0.0,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac']",Todas
+data_events_times_Asics 2_time,str,,25,0.0634668782229274,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d']",2
+data_events_times_Asics_time,str,,31,57.162501652783284,"['609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac']",2
+data_events_times_Media_time,str,,31,0.0,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac']",Todas
+data_events_times_Meta_time,str,,118,0.0,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac']",Todas
+data_events_times_Salida_time,str,,39,0.0,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac']",Todas
+data_events_times_Spotter_time,str,,4,0.0634668782229274,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d']",2
+event_id,str,Maratón,3,0.0,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac']",Todas
+issue_id,str,bbf0c190-eedf-11ef-aefd-4527d5007596,1290,0.0,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac']",Todas
+race_id,str,af5c5746-04e8-42ab-9610-b12f0d9125b1,3,0.0,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac']",Todas

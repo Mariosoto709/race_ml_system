@@ -1,22 +1,22 @@
 campo,tipo,ejemplo,cardinalidad,% missing,carreras,num_carreras
-athlete_id,int,31,106899,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
-auto_category,bool_,True,2,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
-auto_chip,bool_,True,2,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
-category,str,Senior M,72,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
-distance,int64,5000,30,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
-dorsal,int,31,59286,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
-event_id,str,Mitja,14,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
-gunTime,str,2025-02-16T07:31:06.000Z,30,19.173309498185002,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
-gunTimeMode,str,wave,1,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
-gunTimeModeConfig_wave,str,8:30,23,19.173309498185002,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
-last_split_seen,str,5K,25,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
-maxConsecutiveSplitsMissing,int64,0,11,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
-race_id,str,b228b93e-2a15-4123-baf9-ca0915165c6a,4,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
-realStatus,str,running,3,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
-splitsMissing,int64,0,11,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
-splitsSeen,int64,2,12,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
-startNetTime,float64,2560.0,65600,31.053793254409808,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
-startRawTime,float64,1739691068560.0,74900,31.053793254409808,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
-startTime,float64,2560.0,65047,31.053793254409808,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
-status,str,retired,5,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
-team,str,,3247,17.690301161963482,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
+athlete_id,str,200,27143,0.0,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac']",Todas
+auto_category,bool,True,2,30.495797875151965,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac']",Todas
+auto_chip,bool,True,2,30.495797875151965,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac']",Todas
+category,str,SENIOR M,34,0.0,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac']",Todas
+distance,int64,42195,17,0.0,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac']",Todas
+dorsal,str,200,26859,0.0,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac']",Todas
+event_id,str,Maratón,2,0.0,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac']",Todas
+gunTime,str,2025-02-23T07:30:10.000Z,6,0.0,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac']",Todas
+gunTimeMode,str,wave,1,0.0,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac']",Todas
+gunTimeModeConfig_wave,str,Maratón,3,0.0,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac']",Todas
+last_split_seen,str,Meta,16,0.0,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac']",Todas
+maxConsecutiveSplitsMissing,int64,0,16,0.0,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac']",Todas
+race_id,str,af5c5746-04e8-42ab-9610-b12f0d9125b1,3,0.0,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac']",Todas
+realStatus,str,finished,3,0.0,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac']",Todas
+splitsMissing,int64,0,16,0.0,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac']",Todas
+splitsSeen,int64,14,16,0.0,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac']",Todas
+startNetTime,float64,10.0,28173,19.284845922088905,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac']",Todas
+startRawTime,float64,1740295810010.0,29256,19.284845922088905,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac']",Todas
+startTime,float64,10.0,28127,19.284845922088905,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac']",Todas
+status,str,finished,5,0.0,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac']",Todas
+team,str,MARRUECOS,9458,16.70807125112321,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac']",Todas

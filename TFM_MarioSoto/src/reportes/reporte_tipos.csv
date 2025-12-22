@@ -1,16 +1,31 @@
 DF,Columna,Tipo_antes,Tipo_despues
 athletes_df,athlete_id,object,object
 athletes_df,birthdate,object,datetime64[ns]
+athletes_df,category,object,object
 athletes_df,club,object,object
+athletes_df,distance,float64,float64
+athletes_df,dorsal,object,object
 athletes_df,fullName,object,object
 athletes_df,gender,object,object
+athletes_df,last_split_seen,object,object
+athletes_df,maxConsecutiveSplitsMissing,float64,float64
 athletes_df,name,object,object
 athletes_df,nationality,object,object
 athletes_df,race_id,object,object
+athletes_df,realStatus,object,object
+athletes_df,splitsMissing,float64,float64
+athletes_df,splitsSeen,float64,float64
+athletes_df,startNetTime,float64,float64
+athletes_df,startRawTime,float64,datetime64[ns]
+athletes_df,startTime,float64,float64
+athletes_df,status,object,object
 athletes_df,surname,object,object
+athletes_df,team,object,object
+athletes_df,startNetTime_td,N/A,timedelta64[ns]
+athletes_df,startTime_td,N/A,timedelta64[ns]
 athletes_events_df,athlete_id,object,object
-athletes_events_df,auto_category,bool,bool
-athletes_events_df,auto_chip,bool,bool
+athletes_events_df,auto_category,object,object
+athletes_events_df,auto_chip,object,object
 athletes_events_df,category,object,object
 athletes_events_df,distance,int64,int64
 athletes_events_df,dorsal,object,object
@@ -38,7 +53,7 @@ athletes_time_df,distance,int64,int64
 athletes_time_df,event_id,object,object
 athletes_time_df,incidence,object,object
 athletes_time_df,isBackup,object,object
-athletes_time_df,netTime,float64,float64
+athletes_time_df,netTime,int64,int64
 athletes_time_df,offset,float64,float64
 athletes_time_df,order,int64,int64
 athletes_time_df,race_id,object,object
@@ -56,55 +71,79 @@ issues_df,time,int64,datetime64[ns]
 issues_df,type,object,object
 issues_df,event_std,object,object
 issues_data_df,athlete_id,object,object
+issues_data_df,data_Camiseta Finisher,object,object
+issues_data_df,data_Camiseta entregada,object,object
+issues_data_df,data_Código Postal,object,object
 issues_data_df,data_Dorsal entregado,object,object
-issues_data_df,data_LICENCIA,object,object
-issues_data_df,data_Licencia,object,object
-issues_data_df,data_MEDALLA,object,object
+issues_data_df,data_Email,object,object
+issues_data_df,data_Emergency Phone,object,object
+issues_data_df,data_Language,object,object
+issues_data_df,data_Localidad,object,object
+issues_data_df,data_Nacionalidad,object,object
+issues_data_df,data_Pais,object,object
+issues_data_df,data_País de residencia,object,object
+issues_data_df,data_Pers Contacto,object,object
+issues_data_df,data_Provincia,object,object
 issues_data_df,data_TALLA,object,object
-issues_data_df,data_TIEMPO ESTIMADO,object,object
+issues_data_df,data_Talla,object,object
+issues_data_df,data_Telf Emergencia,object,object
 issues_data_df,data_Teléfono emergencia,object,object
 issues_data_df,data_birthdate,object,datetime64[ns]
+issues_data_df,data_category,object,object
 issues_data_df,data_club,object,object
+issues_data_df,data_comments,object,object
 issues_data_df,data_document,object,object
+issues_data_df,data_dorsal,object,object
 issues_data_df,data_e-mail,object,object
+issues_data_df,data_event,object,object
 issues_data_df,data_gender,object,object
+issues_data_df,data_gunTime,object,object
 issues_data_df,data_name,object,object
 issues_data_df,data_nationality,object,object
-issues_data_df,data_pais,object,object
 issues_data_df,data_phone,object,object
+issues_data_df,data_status,object,object
 issues_data_df,data_statusNote,object,object
 issues_data_df,data_surname,object,object
+issues_data_df,data_team,object,object
+issues_data_df,data_user_id,object,object
+issues_data_df,data_wave,object,object
 issues_data_df,event_id,object,object
 issues_data_df,issue_id,object,object
 issues_data_df,race_id,object,object
 issues_data_df,event_std,object,object
 issues_events_df,athlete_id,object,object
-issues_events_df,data_events_attributes_ADVENTURE,object,object
-issues_events_df,data_events_attributes_D. Fisico/Intelectual,object,object
-issues_events_df,data_events_attributes_Discapacitado intelectual,object,object
-issues_events_df,data_events_attributes_Discapacitado visual,object,object
+issues_events_df,data_events_attributes_Andaluz,object,object
+issues_events_df,data_events_attributes_Atletas con Discapacidad,object,object
+issues_events_df,data_events_attributes_Clasif. Andaluzes,object,object
+issues_events_df,data_events_attributes_Clasif. Españoles,object,object
+issues_events_df,data_events_attributes_Clasif. Sevillanos,object,object
+issues_events_df,data_events_attributes_Cto España,object,object
+issues_events_df,data_events_attributes_Discapacitado,object,object
 issues_events_df,data_events_attributes_Españoles,object,object
-issues_events_df,data_events_attributes_Fed. AD Maratón,object,object
-issues_events_df,data_events_attributes_Sillas,object,object
+issues_events_df,data_events_attributes_Sevillano,object,object
 issues_events_df,data_events_auto_category,object,object
 issues_events_df,data_events_auto_chip,object,object
 issues_events_df,data_events_category,object,object
 issues_events_df,data_events_dorsal,object,object
-issues_events_df,data_events_gunTime,object,"datetime64[ns, UTC]"
-issues_events_df,data_events_gunTimeMode,object,object
+issues_events_df,data_events_gunTime,object,object
 issues_events_df,data_events_gunTimeModeConfig_wave,object,object
 issues_events_df,data_events_status,object,object
 issues_events_df,data_events_team,object,object
+issues_events_df,data_events_times_10K v4Con_time,object,object
 issues_events_df,data_events_times_10K_time,object,object
 issues_events_df,data_events_times_15K_time,object,object
-issues_events_df,data_events_times_19K_time,object,object
 issues_events_df,data_events_times_20K_time,object,object
+issues_events_df,data_events_times_25K_time,object,object
+issues_events_df,data_events_times_30K_time,object,object
+issues_events_df,data_events_times_35K_time,object,object
+issues_events_df,data_events_times_40K_time,object,object
 issues_events_df,data_events_times_5K_time,object,object
-issues_events_df,data_events_times_CP3_time,object,object
-issues_events_df,data_events_times_CP4_time,object,object
-issues_events_df,data_events_times_EH2_time,object,object
+issues_events_df,data_events_times_Asics 2_time,object,object
+issues_events_df,data_events_times_Asics_time,object,object
+issues_events_df,data_events_times_Media_time,object,object
 issues_events_df,data_events_times_Meta_time,object,object
 issues_events_df,data_events_times_Salida_time,object,object
+issues_events_df,data_events_times_Spotter_time,object,object
 issues_events_df,event_id,object,object
 issues_events_df,issue_id,object,object
 issues_events_df,race_id,object,object

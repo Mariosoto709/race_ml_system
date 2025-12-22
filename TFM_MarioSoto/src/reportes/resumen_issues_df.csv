@@ -1,7 +1,7 @@
 campo,tipo,ejemplo,cardinalidad,% missing,carreras,num_carreras
-athlete_id,str,L6554352,59513,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
-event_id,str,independiente,11,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
-issue_id,str,af4215f0-e856-11ef-aee0-f3683f511a40,35599,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
-race_id,str,b228b93e-2a15-4123-baf9-ca0915165c6a,4,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
-time,int64,1739264447695,37974,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
-type,str,changeRanking,6,0.0,"['b228b93e-2a15-4123-baf9-ca0915165c6a', '78a14be0-36cc-4ce4-bb5a-b81744a7390e', '01675eec-4b8b-4b92-80b7-5e22a1878f38', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']",Todas
+athlete_id,int,8250,29691,0.0,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac', '8bbfdd2e-da3d-4934-a1c5-8fbd303d4974']",Todas
+event_id,str,Maratón,3,0.0,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac', '8bbfdd2e-da3d-4934-a1c5-8fbd303d4974']",Todas
+issue_id,str,b9679bf0-eeae-11ef-8d6b-2d20f644acaf,16036,0.0,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac', '8bbfdd2e-da3d-4934-a1c5-8fbd303d4974']",Todas
+race_id,str,af5c5746-04e8-42ab-9610-b12f0d9125b1,4,0.0,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac', '8bbfdd2e-da3d-4934-a1c5-8fbd303d4974']",Todas
+time,int64,1739961967407,16048,0.0,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac', '8bbfdd2e-da3d-4934-a1c5-8fbd303d4974']",Todas
+type,str,changeRanking,5,0.0,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac', '8bbfdd2e-da3d-4934-a1c5-8fbd303d4974']",Todas
