@@ -1,28 +1,28 @@
 DF,Columna,Tipo,Ejemplo
 athletes_df,athlete_id,object,200
 athletes_df,birthdate,datetime64[ns],1991-03-03 00:00:00
-athletes_df,category,object,M40
+athletes_df,category,object,M50
 athletes_df,club,object,MARRUECOS
-athletes_df,distance,float64,42197.0
-athletes_df,dorsal,object,1
+athletes_df,distance,float64,0.0
+athletes_df,dorsal,object,6409
 athletes_df,fullName,object,EL MAHJOUB DAZZA
 athletes_df,gender,object,male
-athletes_df,last_split_seen,object,Meta
+athletes_df,last_split_seen,object,notstarted
 athletes_df,maxConsecutiveSplitsMissing,float64,0.0
 athletes_df,name,object,EL MAHJOUB
 athletes_df,nationality,object,MAR
 athletes_df,race_id,object,af5c5746-04e8-42ab-9610-b12f0d9125b1
-athletes_df,realStatus,object,finished
+athletes_df,realStatus,object,notstarted
 athletes_df,splitsMissing,float64,0.0
-athletes_df,splitsSeen,float64,12.0
-athletes_df,startNetTime,float64,1650.0
-athletes_df,startRawTime,datetime64[ns],2022-02-20 07:30:10.650000
-athletes_df,startTime,float64,1650.0
-athletes_df,status,object,finished
+athletes_df,splitsSeen,float64,0.0
+athletes_df,startNetTime,float64,19980.0
+athletes_df,startRawTime,datetime64[ns],2022-05-08 06:02:19.980000
+athletes_df,startTime,float64,19980.0
+athletes_df,status,object,notstarted
 athletes_df,surname,object,DAZZA
 athletes_df,team,object,
-athletes_df,startNetTime_td,timedelta64[ns],0 days 00:00:01.650000
-athletes_df,startTime_td,timedelta64[ns],0 days 00:00:01.650000
+athletes_df,startNetTime_td,timedelta64[ns],0 days 00:00:19.980000
+athletes_df,startTime_td,timedelta64[ns],0 days 00:00:19.980000
 athletes_events_df,athlete_id,object,200
 athletes_events_df,auto_category,object,True
 athletes_events_df,auto_chip,object,True
@@ -30,7 +30,7 @@ athletes_events_df,category,object,SENIOR M
 athletes_events_df,distance,int64,42195
 athletes_events_df,dorsal,object,200
 athletes_events_df,event_id,object,Maratón
-athletes_events_df,gunTime,"datetime64[ns, UTC]",2025-02-23 07:30:10+00:00
+athletes_events_df,gunTime,object,2025-02-23T07:30:10.000Z
 athletes_events_df,gunTimeMode,object,wave
 athletes_events_df,gunTimeModeConfig_wave,object,Maratón
 athletes_events_df,last_split_seen,object,Meta
@@ -75,19 +75,32 @@ issues_data_df,data_Camiseta Finisher,object,XL-Hombre
 issues_data_df,data_Camiseta entregada,object,Sí
 issues_data_df,data_Código Postal,object,46015
 issues_data_df,data_Dorsal entregado,object,Sí
+issues_data_df,data_EPC,object,00693D5100000000
 issues_data_df,data_Email,object,rachid1casa2014@gmail.com
 issues_data_df,data_Emergency Phone,object,605092874
+issues_data_df,data_Federado,object,S’
+issues_data_df,data_LOCALIZADOR,object,123457
 issues_data_df,data_Language,object,es
+issues_data_df,data_Licencia,object,
 issues_data_df,data_Localidad,object,Malaga
+issues_data_df,data_Medal,object,Yes
+issues_data_df,data_Message,object,
 issues_data_df,data_Nacionalidad,object,Reino Unido
+issues_data_df,data_PAIS,object,
+issues_data_df,data_PAÍS,object,España
+issues_data_df,data_PAíS,object,
 issues_data_df,data_Pais,object,PERÚ
 issues_data_df,data_País de residencia,object,Marruecos
 issues_data_df,data_Pers Contacto,object,Vanesa
+issues_data_df,data_Pic,object,
 issues_data_df,data_Provincia,object,Barcelona
 issues_data_df,data_TALLA,object,M
+issues_data_df,data_TIEMPO ESTIMADO,object,Entre 1h45 y 1h50
 issues_data_df,data_Talla,object,Hombre - S
 issues_data_df,data_Telf Emergencia,object,+3463847975
 issues_data_df,data_Teléfono emergencia,object,630466419
+issues_data_df,data_UNIVERSIDAD,object,UOC
+issues_data_df,data_ZURICH,object,ZURICH_pago
 issues_data_df,data_birthdate,datetime64[ns],1988-02-07 00:00:00
 issues_data_df,data_category,object,M45
 issues_data_df,data_club,object,ASD PODISTICA BARCELLONA
@@ -95,9 +108,10 @@ issues_data_df,data_comments,object,Compromiso Yomury
 issues_data_df,data_document,object,33987532H
 issues_data_df,data_dorsal,object,1919
 issues_data_df,data_e-mail,object,pulido_corte@hotmail.com
-issues_data_df,data_event,object,Maratón Silla de Ruedas
+issues_data_df,data_event,object,10K
 issues_data_df,data_gender,object,female
 issues_data_df,data_gunTime,object,2023-02-19T07:30:05.988Z
+issues_data_df,data_medical reason,object,Broken head
 issues_data_df,data_name,object,CELESTE AGATE
 issues_data_df,data_nationality,object,MAR
 issues_data_df,data_phone,object,689723994
@@ -106,7 +120,7 @@ issues_data_df,data_statusNote,object,RT .55.10
 issues_data_df,data_surname,object,LOZANO GRIJOTA
 issues_data_df,data_team,object,CLUBE RAQUEL CABAÇO
 issues_data_df,data_user_id,object,923224
-issues_data_df,data_wave,object,Maratón Silla de Ruedas
+issues_data_df,data_wave,object,Marató 2
 issues_data_df,event_id,object,Maratón
 issues_data_df,issue_id,object,b9679bf0-eeae-11ef-8d6b-2d20f644acaf
 issues_data_df,race_id,object,af5c5746-04e8-42ab-9610-b12f0d9125b1
@@ -114,13 +128,19 @@ issues_data_df,event_std,object,maraton
 issues_events_df,athlete_id,object,8250
 issues_events_df,data_events_attributes_Andaluz,object,
 issues_events_df,data_events_attributes_Atletas con Discapacidad,object,
+issues_events_df,data_events_attributes_Campionat Catalunya General,object,
+issues_events_df,data_events_attributes_Campionat Catalunya Master,object,
 issues_events_df,data_events_attributes_Clasif. Andaluzes,object,
 issues_events_df,data_events_attributes_Clasif. Españoles,object,
 issues_events_df,data_events_attributes_Clasif. Sevillanos,object,
 issues_events_df,data_events_attributes_Cto España,object,
 issues_events_df,data_events_attributes_Discapacitado,object,
+issues_events_df,data_events_attributes_Discapacitado intelectual,object,
+issues_events_df,data_events_attributes_Discapacitado visual,object,
+issues_events_df,data_events_attributes_Elite,object,
 issues_events_df,data_events_attributes_Españoles,object,
 issues_events_df,data_events_attributes_Sevillano,object,
+issues_events_df,data_events_attributes_Sillas,object,
 issues_events_df,data_events_auto_category,object,
 issues_events_df,data_events_auto_chip,object,
 issues_events_df,data_events_category,object,
@@ -142,6 +162,7 @@ issues_events_df,data_events_times_Asics 2_time,object,
 issues_events_df,data_events_times_Asics_time,object,
 issues_events_df,data_events_times_Media_time,object,
 issues_events_df,data_events_times_Meta_time,object,
+issues_events_df,data_events_times_PREMETA_time,object,
 issues_events_df,data_events_times_Salida_time,object,
 issues_events_df,data_events_times_Spotter_time,object,
 issues_events_df,event_id,object,Maratón

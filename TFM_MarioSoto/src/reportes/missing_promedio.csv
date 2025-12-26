@@ -1,42 +1,42 @@
 DF,Columna,Missing_promedio
 athletes_events_df,athlete_id,0.0
-athletes_events_df,auto_category,0.30495797875151964
-athletes_events_df,auto_chip,0.30495797875151964
-athletes_events_df,category,0.0
+athletes_events_df,auto_category,0.2590705714866789
+athletes_events_df,auto_chip,0.2590705714866789
+athletes_events_df,category,0.00018303843807199183
 athletes_events_df,distance,0.0
 athletes_events_df,dorsal,0.0
 athletes_events_df,event_id,0.0
-athletes_events_df,gunTime,0.0
+athletes_events_df,gunTime,1.016880211512916e-05
 athletes_events_df,gunTimeMode,0.0
-athletes_events_df,gunTimeModeConfig_wave,0.0
+athletes_events_df,gunTimeModeConfig_wave,1.016880211512916e-05
 athletes_events_df,last_split_seen,0.0
 athletes_events_df,maxConsecutiveSplitsMissing,0.0
 athletes_events_df,race_id,0.0
 athletes_events_df,realStatus,0.0
 athletes_events_df,splitsMissing,0.0
 athletes_events_df,splitsSeen,0.0
-athletes_events_df,startNetTime,0.192848459220889
-athletes_events_df,startRawTime,0.192848459220889
-athletes_events_df,startTime,0.192848459220889
+athletes_events_df,startNetTime,0.1708562131380923
+athletes_events_df,startRawTime,0.1708562131380923
+athletes_events_df,startTime,0.1708562131380923
 athletes_events_df,status,0.0
-athletes_events_df,team,0.16708071251123213
-athletes_events_df,event_std,0.0
-athletes_events_df,startNetTime_td,0.192848459220889
-athletes_events_df,startTime_td,0.192848459220889
+athletes_events_df,team,0.06428716697173076
+athletes_events_df,event_std,0.0005999593247915103
+athletes_events_df,startNetTime_td,0.1708562131380923
+athletes_events_df,startTime_td,0.1708562131380923
 athletes_time_df,athlete_id,0.0
 athletes_time_df,average,0.0
 athletes_time_df,distance,0.0
 athletes_time_df,event_id,0.0
-athletes_time_df,incidence,0.9986453678617924
-athletes_time_df,isBackup,0.9988388867386792
+athletes_time_df,incidence,0.9980286564067654
+athletes_time_df,isBackup,0.9982292350457481
 athletes_time_df,netTime,0.0
-athletes_time_df,offset,0.9988388867386792
+athletes_time_df,offset,0.9982292350457481
 athletes_time_df,order,0.0
 athletes_time_df,race_id,0.0
 athletes_time_df,rawTime,0.0
 athletes_time_df,split,0.0
 athletes_time_df,time,0.0
-athletes_time_df,event_std,0.0
+athletes_time_df,event_std,0.0006149052215279616
 athletes_time_df,netTime_td,0.0
 athletes_time_df,time_td,0.0
 issues_df,athlete_id,0.0
@@ -45,85 +45,106 @@ issues_df,issue_id,0.0
 issues_df,race_id,0.0
 issues_df,time,0.0
 issues_df,type,0.0
-issues_df,event_std,0.0
+issues_df,event_std,2.6813522265523027e-05
 issues_data_df,athlete_id,0.0
-issues_data_df,data_Camiseta Finisher,0.9994338641405597
-issues_data_df,data_Camiseta entregada,0.9912051452533458
-issues_data_df,data_Código Postal,0.9999934170248902
-issues_data_df,data_Dorsal entregado,0.9192598102786573
-issues_data_df,data_Email,0.9999802510746707
-issues_data_df,data_Emergency Phone,0.9999868340497805
-issues_data_df,data_Language,0.9085953906008282
-issues_data_df,data_Localidad,0.9999670851244511
-issues_data_df,data_Nacionalidad,0.9999868340497805
-issues_data_df,data_Pais,0.9999539191742316
-issues_data_df,data_País de residencia,0.9999736680995609
-issues_data_df,data_Pers Contacto,0.9999934170248902
-issues_data_df,data_Provincia,0.9999670851244511
-issues_data_df,data_TALLA,0.9999868340497805
-issues_data_df,data_Talla,0.9999934170248902
-issues_data_df,data_Telf Emergencia,0.9999736680995609
-issues_data_df,data_Teléfono emergencia,0.9999802510746707
-issues_data_df,data_birthdate,0.9093985135642202
-issues_data_df,data_category,0.9996708512445115
-issues_data_df,data_club,0.9603309919885192
-issues_data_df,data_comments,0.9999670851244511
-issues_data_df,data_document,0.999828842647146
-issues_data_df,data_dorsal,0.9987229028287044
-issues_data_df,data_e-mail,0.8192446694359049
-issues_data_df,data_event,0.9999934170248902
-issues_data_df,data_gender,0.9998222596720362
-issues_data_df,data_gunTime,0.9240193012830218
-issues_data_df,data_name,0.9187726701205343
-issues_data_df,data_nationality,0.9997761788462678
-issues_data_df,data_phone,0.9999539191742316
-issues_data_df,data_status,0.981738827045495
-issues_data_df,data_statusNote,0.997353644005872
-issues_data_df,data_surname,0.9186475935934486
-issues_data_df,data_team,0.9609892894994964
-issues_data_df,data_user_id,0.9999934170248902
-issues_data_df,data_wave,0.9999934170248902
+issues_data_df,data_Camiseta Finisher,0.9998226182373203
+issues_data_df,data_Camiseta entregada,0.9972443949425572
+issues_data_df,data_Código Postal,0.9999979374213642
+issues_data_df,data_Dorsal entregado,0.9747024730317844
+issues_data_df,data_EPC,0.9999711238990987
+issues_data_df,data_Email,0.9999938122640926
+issues_data_df,data_Emergency Phone,0.9999958748427283
+issues_data_df,data_Federado,0.9934554379885733
+issues_data_df,data_LOCALIZADOR,0.9999979374213642
+issues_data_df,data_Language,0.9713610956417713
+issues_data_df,data_Licencia,0.9351710908978405
+issues_data_df,data_Localidad,0.9999896871068209
+issues_data_df,data_Medal,0.9999979374213642
+issues_data_df,data_Message,0.9999649361631913
+issues_data_df,data_Nacionalidad,0.9999958748427283
+issues_data_df,data_PAIS,0.9999917496854568
+issues_data_df,data_PAÍS,0.9999773116350061
+issues_data_df,data_PAíS,0.9999958748427283
+issues_data_df,data_Pais,0.9999855619495494
+issues_data_df,data_País de residencia,0.9999917496854568
+issues_data_df,data_Pers Contacto,0.9999979374213642
+issues_data_df,data_Pic,0.9999690613204628
+issues_data_df,data_Provincia,0.9999896871068209
+issues_data_df,data_TALLA,0.9999958748427283
+issues_data_df,data_TIEMPO ESTIMADO,0.9988882701152981
+issues_data_df,data_Talla,0.9999979374213642
+issues_data_df,data_Telf Emergencia,0.9999917496854568
+issues_data_df,data_Teléfono emergencia,0.9999938122640926
+issues_data_df,data_UNIVERSIDAD,0.9998432440236784
+issues_data_df,data_ZURICH,0.9985623826908401
+issues_data_df,data_birthdate,0.9706990078996762
+issues_data_df,data_category,0.9997380525132521
+issues_data_df,data_club,0.9874904605738094
+issues_data_df,data_comments,0.9187983416867768
+issues_data_df,data_document,0.894503227935565
+issues_data_df,data_dorsal,0.9995936720087454
+issues_data_df,data_e-mail,0.9029474248705732
+issues_data_df,data_event,0.9999154342759318
+issues_data_df,data_gender,0.9997215518841656
+issues_data_df,data_gunTime,0.9225151083885073
+issues_data_df,data_medical reason,0.9999855619495494
+issues_data_df,data_name,0.9742672689396283
+issues_data_df,data_nationality,0.8722294412474476
+issues_data_df,data_phone,0.9999855619495494
+issues_data_df,data_status,0.990563702741167
+issues_data_df,data_statusNote,0.9972938968298166
+issues_data_df,data_surname,0.9742239547882763
+issues_data_df,data_team,0.987777159004187
+issues_data_df,data_user_id,0.9999979374213642
+issues_data_df,data_wave,0.997388775447064
 issues_data_df,event_id,0.0
 issues_data_df,issue_id,0.0
 issues_data_df,race_id,0.0
-issues_data_df,event_std,0.0
+issues_data_df,event_std,2.6813522265523027e-05
 issues_events_df,athlete_id,0.0
-issues_events_df,data_events_attributes_Andaluz,0.5722596853100621
-issues_events_df,data_events_attributes_Atletas con Discapacidad,0.0006346687822292862
-issues_events_df,data_events_attributes_Clasif. Andaluzes,0.4283749834721672
-issues_events_df,data_events_attributes_Clasif. Españoles,0.4283749834721672
-issues_events_df,data_events_attributes_Clasif. Sevillanos,0.4283749834721672
-issues_events_df,data_events_attributes_Cto España,0.5722596853100621
-issues_events_df,data_events_attributes_Discapacitado,0.5722596853100621
-issues_events_df,data_events_attributes_Españoles,0.5722596853100621
-issues_events_df,data_events_attributes_Sevillano,0.5722596853100621
-issues_events_df,data_events_auto_category,0.5722596853100621
-issues_events_df,data_events_auto_chip,0.0006346687822292862
-issues_events_df,data_events_category,0.5722596853100621
-issues_events_df,data_events_dorsal,0.0006346687822292862
-issues_events_df,data_events_gunTime,0.000647891048525695
-issues_events_df,data_events_gunTimeModeConfig_wave,0.4283749834721672
+issues_events_df,data_events_attributes_Andaluz,0.8821566606075398
+issues_events_df,data_events_attributes_Atletas con Discapacidad,0.7246727889347473
+issues_events_df,data_events_attributes_Campionat Catalunya General,0.7641603252257602
+issues_events_df,data_events_attributes_Campionat Catalunya Master,0.7641603252257602
+issues_events_df,data_events_attributes_Clasif. Andaluzes,0.8425161283272075
+issues_events_df,data_events_attributes_Clasif. Españoles,0.8425161283272075
+issues_events_df,data_events_attributes_Clasif. Sevillanos,0.8425161283272075
+issues_events_df,data_events_attributes_Cto España,0.8821566606075398
+issues_events_df,data_events_attributes_Discapacitado,0.8821566606075398
+issues_events_df,data_events_attributes_Discapacitado intelectual,0.5113417383987149
+issues_events_df,data_events_attributes_Discapacitado visual,0.27550206362447494
+issues_events_df,data_events_attributes_Elite,0.7641603252257602
+issues_events_df,data_events_attributes_Españoles,0.8821566606075398
+issues_events_df,data_events_attributes_Sevillano,0.8821566606075398
+issues_events_df,data_events_attributes_Sillas,0.5113417383987149
+issues_events_df,data_events_auto_category,0.15765872423201477
+issues_events_df,data_events_auto_chip,0.0001748525592222272
+issues_events_df,data_events_category,0.15765872423201477
+issues_events_df,data_events_dorsal,0.0001748525592222272
+issues_events_df,data_events_gunTime,0.0001784953208726625
+issues_events_df,data_events_gunTimeModeConfig_wave,0.1180181919516824
 issues_events_df,data_events_status,0.0
-issues_events_df,data_events_team,0.0006346687822292862
-issues_events_df,data_events_times_10K v4Con_time,0.5722596853100621
+issues_events_df,data_events_team,0.7246727889347473
+issues_events_df,data_events_times_10K v4Con_time,0.8821566606075398
 issues_events_df,data_events_times_10K_time,0.0
 issues_events_df,data_events_times_15K_time,0.0
 issues_events_df,data_events_times_20K_time,0.0
-issues_events_df,data_events_times_25K_time,0.0
-issues_events_df,data_events_times_30K_time,0.0
-issues_events_df,data_events_times_35K_time,0.0
-issues_events_df,data_events_times_40K_time,0.0
+issues_events_df,data_events_times_25K_time,0.4886582616012851
+issues_events_df,data_events_times_30K_time,0.4886582616012851
+issues_events_df,data_events_times_35K_time,0.4886582616012851
+issues_events_df,data_events_times_40K_time,0.4886582616012851
 issues_events_df,data_events_times_5K_time,0.0
-issues_events_df,data_events_times_Asics 2_time,0.0006346687822292862
-issues_events_df,data_events_times_Asics_time,0.5716250165278329
-issues_events_df,data_events_times_Media_time,0.0
+issues_events_df,data_events_times_Asics 2_time,0.7246727889347473
+issues_events_df,data_events_times_Asics_time,0.8819818080483176
+issues_events_df,data_events_times_Media_time,0.4886582616012851
 issues_events_df,data_events_times_Meta_time,0.0
+issues_events_df,data_events_times_PREMETA_time,0.7641603252257602
 issues_events_df,data_events_times_Salida_time,0.0
-issues_events_df,data_events_times_Spotter_time,0.0006346687822292862
+issues_events_df,data_events_times_Spotter_time,0.7246727889347473
 issues_events_df,event_id,0.0
 issues_events_df,issue_id,0.0
 issues_events_df,race_id,0.0
-issues_events_df,event_std,0.0
+issues_events_df,event_std,4.735590145599211e-05
 issues_times_df,athlete_id,0.0
 issues_times_df,event_id,0.0
 issues_times_df,issue_id,0.0

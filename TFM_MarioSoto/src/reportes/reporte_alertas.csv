@@ -1,45 +1,82 @@
-DF,RaceEvent,Columna,Alerta,Race,Event
-athletes_time_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],,
-athletes_time_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón Silla de Ruedas,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],,
-athletes_time_df,72a81045-fb27-43e6-a201-b1d42be42fac-Maratón,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],,
-athletes_time_df,72a81045-fb27-43e6-a201-b1d42be42fac-Maratón Silla de Ruedas,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],,
-athletes_time_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],,
-athletes_time_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón Silla de Ruedas,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],,
-issues_data_df,,,VACÍO,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón
-issues_data_df,,,VACÍO,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón Silla de Ruedas
-issues_data_df,,,VACÍO,609139b1-d6bd-4553-ac89-2f648787a60d,independiente
-issues_data_df,,,VACÍO,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón
-issues_data_df,,,VACÍO,72a81045-fb27-43e6-a201-b1d42be42fac,independiente
-issues_data_df,,,VACÍO,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974,independiente
-issues_data_df,,,VACÍO,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón
-issues_data_df,,,VACÍO,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón Silla de Ruedas
-issues_data_df,,,VACÍO,af5c5746-04e8-42ab-9610-b12f0d9125b1,independiente
-athletes_time_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],,
-athletes_time_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón Silla de Ruedas,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],,
-athletes_time_df,72a81045-fb27-43e6-a201-b1d42be42fac-Maratón,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],,
-athletes_time_df,72a81045-fb27-43e6-a201-b1d42be42fac-Maratón Silla de Ruedas,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],,
-athletes_time_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],,
-athletes_time_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón Silla de Ruedas,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],,
-issues_events_df,,,VACÍO,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón
-issues_events_df,,,VACÍO,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón Silla de Ruedas
-issues_events_df,,,VACÍO,609139b1-d6bd-4553-ac89-2f648787a60d,independiente
-issues_events_df,,,VACÍO,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón
-issues_events_df,,,VACÍO,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón
-issues_events_df,,,VACÍO,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón Silla de Ruedas
-issues_events_df,,,VACÍO,af5c5746-04e8-42ab-9610-b12f0d9125b1,independiente
-athletes_time_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],,
-athletes_time_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón Silla de Ruedas,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],,
-athletes_time_df,72a81045-fb27-43e6-a201-b1d42be42fac-Maratón,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],,
-athletes_time_df,72a81045-fb27-43e6-a201-b1d42be42fac-Maratón Silla de Ruedas,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],,
-athletes_time_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],,
-athletes_time_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón Silla de Ruedas,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],,
-issues_times_df,,split,SPLITS <2,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón Silla de Ruedas
-issues_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón,time,OUTLIER TIPO {'datetime64[ns]'} vs dominante int64,,
-issues_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón Silla de Ruedas,time,OUTLIER TIPO {'datetime64[ns]'} vs dominante int64,,
-issues_df,609139b1-d6bd-4553-ac89-2f648787a60d-independiente,time,OUTLIER TIPO {'datetime64[ns]'} vs dominante int64,,
-issues_df,72a81045-fb27-43e6-a201-b1d42be42fac-Maratón,time,OUTLIER TIPO {'datetime64[ns]'} vs dominante int64,,
-issues_df,72a81045-fb27-43e6-a201-b1d42be42fac-independiente,time,OUTLIER TIPO {'datetime64[ns]'} vs dominante int64,,
-issues_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,time,OUTLIER TIPO {'datetime64[ns]'} vs dominante int64,,
-issues_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón,time,OUTLIER TIPO {'datetime64[ns]'} vs dominante int64,,
-issues_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón Silla de Ruedas,time,OUTLIER TIPO {'datetime64[ns]'} vs dominante int64,,
-issues_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-independiente,time,OUTLIER TIPO {'datetime64[ns]'} vs dominante int64,,
+DF,Race,Event,Columna,Alerta,RaceEvent
+athletes_events_df,c9ddd2cc-1f02-4469-82cb-a0627e1b82fc,3b18fc30-9b18-4377-9074-ef32ab07b317_13940,gunTime,POCO DATO (0.0%),
+athletes_events_df,c9ddd2cc-1f02-4469-82cb-a0627e1b82fc,3b18fc30-9b18-4377-9074-ef32ab07b317_13940,gunTimeModeConfig_wave,POCO DATO (0.0%),
+athletes_events_df,c9ddd2cc-1f02-4469-82cb-a0627e1b82fc,3b18fc30-9b18-4377-9074-ef32ab07b317_13940,startRawTime,POCO DATO (0.0%),
+athletes_events_df,c9ddd2cc-1f02-4469-82cb-a0627e1b82fc,3b18fc30-9b18-4377-9074-ef32ab07b317_13940,startTime,POCO DATO (0.0%),
+athletes_events_df,c9ddd2cc-1f02-4469-82cb-a0627e1b82fc,3b18fc30-9b18-4377-9074-ef32ab07b317_13940,startNetTime,POCO DATO (0.0%),
+athletes_time_df,,,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],49603c2f-1b2b-457f-b82e-fed8bded1d3d-Marato
+athletes_time_df,,,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],609139b1-d6bd-4553-ac89-2f648787a60d-Maratón
+athletes_time_df,,,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],609139b1-d6bd-4553-ac89-2f648787a60d-Maratón Silla de Ruedas
+athletes_time_df,,,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],72a81045-fb27-43e6-a201-b1d42be42fac-Maratón
+athletes_time_df,,,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],72a81045-fb27-43e6-a201-b1d42be42fac-Maratón Silla de Ruedas
+athletes_time_df,,,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón
+athletes_time_df,,,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón Silla de Ruedas
+athletes_time_df,,,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],c9ddd2cc-1f02-4469-82cb-a0627e1b82fc-Marató
+athletes_time_df,,,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],d221bcb0-4242-4ad9-aa5d-706446341917-Campionat de Catalunya
+athletes_time_df,,,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],d221bcb0-4242-4ad9-aa5d-706446341917-Marato
+issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,,VACÍO,
+issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,independiente,,VACÍO,
+issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c,independiente,,VACÍO,
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón,,VACÍO,
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón Silla de Ruedas,,VACÍO,
+issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d,independiente,,VACÍO,
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,,VACÍO,
+issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac,independiente,,VACÍO,
+issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974,independiente,,VACÍO,
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón,,VACÍO,
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón Silla de Ruedas,,VACÍO,
+issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,independiente,,VACÍO,
+issues_data_df,c9ddd2cc-1f02-4469-82cb-a0627e1b82fc,independiente,,VACÍO,
+issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917,Campionat de Catalunya,,VACÍO,
+issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917,Marato,,VACÍO,
+issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917,independiente,,VACÍO,
+athletes_time_df,,,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],49603c2f-1b2b-457f-b82e-fed8bded1d3d-Marato
+athletes_time_df,,,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],609139b1-d6bd-4553-ac89-2f648787a60d-Maratón
+athletes_time_df,,,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],609139b1-d6bd-4553-ac89-2f648787a60d-Maratón Silla de Ruedas
+athletes_time_df,,,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],72a81045-fb27-43e6-a201-b1d42be42fac-Maratón
+athletes_time_df,,,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],72a81045-fb27-43e6-a201-b1d42be42fac-Maratón Silla de Ruedas
+athletes_time_df,,,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón
+athletes_time_df,,,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón Silla de Ruedas
+athletes_time_df,,,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],c9ddd2cc-1f02-4469-82cb-a0627e1b82fc-Marató
+athletes_time_df,,,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],d221bcb0-4242-4ad9-aa5d-706446341917-Campionat de Catalunya
+athletes_time_df,,,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],d221bcb0-4242-4ad9-aa5d-706446341917-Marato
+issues_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,Mitja,,VACÍO,
+issues_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d,independiente,,VACÍO,
+issues_events_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón,,VACÍO,
+issues_events_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón Silla de Ruedas,,VACÍO,
+issues_events_df,609139b1-d6bd-4553-ac89-2f648787a60d,independiente,,VACÍO,
+issues_events_df,72a81045-fb27-43e6-a201-b1d42be42fac,Maratón,,VACÍO,
+issues_events_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón,,VACÍO,
+issues_events_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,Maratón Silla de Ruedas,,VACÍO,
+issues_events_df,af5c5746-04e8-42ab-9610-b12f0d9125b1,independiente,,VACÍO,
+issues_events_df,d221bcb0-4242-4ad9-aa5d-706446341917,Campionat de Catalunya,,VACÍO,
+issues_events_df,d221bcb0-4242-4ad9-aa5d-706446341917,Marato,,VACÍO,
+issues_events_df,d221bcb0-4242-4ad9-aa5d-706446341917,independiente,,VACÍO,
+athletes_time_df,,,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],49603c2f-1b2b-457f-b82e-fed8bded1d3d-Marato
+athletes_time_df,,,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],609139b1-d6bd-4553-ac89-2f648787a60d-Maratón
+athletes_time_df,,,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],609139b1-d6bd-4553-ac89-2f648787a60d-Maratón Silla de Ruedas
+athletes_time_df,,,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],72a81045-fb27-43e6-a201-b1d42be42fac-Maratón
+athletes_time_df,,,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],72a81045-fb27-43e6-a201-b1d42be42fac-Maratón Silla de Ruedas
+athletes_time_df,,,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón
+athletes_time_df,,,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón Silla de Ruedas
+athletes_time_df,,,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],c9ddd2cc-1f02-4469-82cb-a0627e1b82fc-Marató
+athletes_time_df,,,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],d221bcb0-4242-4ad9-aa5d-706446341917-Campionat de Catalunya
+athletes_time_df,,,time,OUTLIER TIPO {'int64'} vs dominante datetime64[ns],d221bcb0-4242-4ad9-aa5d-706446341917-Marato
+issues_times_df,609139b1-d6bd-4553-ac89-2f648787a60d,Maratón Silla de Ruedas,split,SPLITS <2,
+issues_times_df,d221bcb0-4242-4ad9-aa5d-706446341917,independiente,split,SPLITS <2,
+issues_df,,,time,OUTLIER TIPO {'datetime64[ns]'} vs dominante int64,49603c2f-1b2b-457f-b82e-fed8bded1d3d-Mitja
+issues_df,,,time,OUTLIER TIPO {'datetime64[ns]'} vs dominante int64,49603c2f-1b2b-457f-b82e-fed8bded1d3d-independiente
+issues_df,,,time,OUTLIER TIPO {'datetime64[ns]'} vs dominante int64,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente
+issues_df,,,time,OUTLIER TIPO {'datetime64[ns]'} vs dominante int64,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón
+issues_df,,,time,OUTLIER TIPO {'datetime64[ns]'} vs dominante int64,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón Silla de Ruedas
+issues_df,,,time,OUTLIER TIPO {'datetime64[ns]'} vs dominante int64,609139b1-d6bd-4553-ac89-2f648787a60d-independiente
+issues_df,,,time,OUTLIER TIPO {'datetime64[ns]'} vs dominante int64,72a81045-fb27-43e6-a201-b1d42be42fac-Maratón
+issues_df,,,time,OUTLIER TIPO {'datetime64[ns]'} vs dominante int64,72a81045-fb27-43e6-a201-b1d42be42fac-independiente
+issues_df,,,time,OUTLIER TIPO {'datetime64[ns]'} vs dominante int64,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente
+issues_df,,,time,OUTLIER TIPO {'datetime64[ns]'} vs dominante int64,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón
+issues_df,,,time,OUTLIER TIPO {'datetime64[ns]'} vs dominante int64,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón Silla de Ruedas
+issues_df,,,time,OUTLIER TIPO {'datetime64[ns]'} vs dominante int64,af5c5746-04e8-42ab-9610-b12f0d9125b1-independiente
+issues_df,,,time,OUTLIER TIPO {'datetime64[ns]'} vs dominante int64,c9ddd2cc-1f02-4469-82cb-a0627e1b82fc-independiente
+issues_df,,,time,OUTLIER TIPO {'datetime64[ns]'} vs dominante int64,d221bcb0-4242-4ad9-aa5d-706446341917-Campionat de Catalunya
+issues_df,,,time,OUTLIER TIPO {'datetime64[ns]'} vs dominante int64,d221bcb0-4242-4ad9-aa5d-706446341917-Marato
+issues_df,,,time,OUTLIER TIPO {'datetime64[ns]'} vs dominante int64,d221bcb0-4242-4ad9-aa5d-706446341917-independiente

@@ -30,5 +30,17 @@
     {
         "race_id": "8bbfdd2e-da3d-4934-a1c5-8fbd303d4974",
         "race_name": "zurich-maraton-de-sevilla-2022"
+    },
+    {
+        "race_id": "5ac73786-d053-4b78-955a-c63fbf3e098c",
+        "race_name": "zurich-marato-barcelona-2022"
+    },
+    {
+        "race_id": "c9ddd2cc-1f02-4469-82cb-a0627e1b82fc",
+        "race_name": "zurich-marato-barcelona-2023"
+    },
+    {
+        "race_id": "d221bcb0-4242-4ad9-aa5d-706446341917",
+        "race_name": "zurich-marato-barcelona-2024"
     }
 ]

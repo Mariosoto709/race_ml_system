@@ -30,7 +30,7 @@ athletes_events_df,category,object,object
 athletes_events_df,distance,int64,int64
 athletes_events_df,dorsal,object,object
 athletes_events_df,event_id,object,object
-athletes_events_df,gunTime,object,"datetime64[ns, UTC]"
+athletes_events_df,gunTime,object,object
 athletes_events_df,gunTimeMode,object,object
 athletes_events_df,gunTimeModeConfig_wave,object,object
 athletes_events_df,last_split_seen,object,object
@@ -75,19 +75,32 @@ issues_data_df,data_Camiseta Finisher,object,object
 issues_data_df,data_Camiseta entregada,object,object
 issues_data_df,data_Código Postal,object,object
 issues_data_df,data_Dorsal entregado,object,object
+issues_data_df,data_EPC,object,object
 issues_data_df,data_Email,object,object
 issues_data_df,data_Emergency Phone,object,object
+issues_data_df,data_Federado,object,object
+issues_data_df,data_LOCALIZADOR,object,object
 issues_data_df,data_Language,object,object
+issues_data_df,data_Licencia,object,object
 issues_data_df,data_Localidad,object,object
+issues_data_df,data_Medal,object,object
+issues_data_df,data_Message,object,object
 issues_data_df,data_Nacionalidad,object,object
+issues_data_df,data_PAIS,object,object
+issues_data_df,data_PAÍS,object,object
+issues_data_df,data_PAíS,object,object
 issues_data_df,data_Pais,object,object
 issues_data_df,data_País de residencia,object,object
 issues_data_df,data_Pers Contacto,object,object
+issues_data_df,data_Pic,object,object
 issues_data_df,data_Provincia,object,object
 issues_data_df,data_TALLA,object,object
+issues_data_df,data_TIEMPO ESTIMADO,object,object
 issues_data_df,data_Talla,object,object
 issues_data_df,data_Telf Emergencia,object,object
 issues_data_df,data_Teléfono emergencia,object,object
+issues_data_df,data_UNIVERSIDAD,object,object
+issues_data_df,data_ZURICH,object,object
 issues_data_df,data_birthdate,object,datetime64[ns]
 issues_data_df,data_category,object,object
 issues_data_df,data_club,object,object
@@ -98,6 +111,7 @@ issues_data_df,data_e-mail,object,object
 issues_data_df,data_event,object,object
 issues_data_df,data_gender,object,object
 issues_data_df,data_gunTime,object,object
+issues_data_df,data_medical reason,object,object
 issues_data_df,data_name,object,object
 issues_data_df,data_nationality,object,object
 issues_data_df,data_phone,object,object
@@ -114,13 +128,19 @@ issues_data_df,event_std,object,object
 issues_events_df,athlete_id,object,object
 issues_events_df,data_events_attributes_Andaluz,object,object
 issues_events_df,data_events_attributes_Atletas con Discapacidad,object,object
+issues_events_df,data_events_attributes_Campionat Catalunya General,object,object
+issues_events_df,data_events_attributes_Campionat Catalunya Master,object,object
 issues_events_df,data_events_attributes_Clasif. Andaluzes,object,object
 issues_events_df,data_events_attributes_Clasif. Españoles,object,object
 issues_events_df,data_events_attributes_Clasif. Sevillanos,object,object
 issues_events_df,data_events_attributes_Cto España,object,object
 issues_events_df,data_events_attributes_Discapacitado,object,object
+issues_events_df,data_events_attributes_Discapacitado intelectual,object,object
+issues_events_df,data_events_attributes_Discapacitado visual,object,object
+issues_events_df,data_events_attributes_Elite,object,object
 issues_events_df,data_events_attributes_Españoles,object,object
 issues_events_df,data_events_attributes_Sevillano,object,object
+issues_events_df,data_events_attributes_Sillas,object,object
 issues_events_df,data_events_auto_category,object,object
 issues_events_df,data_events_auto_chip,object,object
 issues_events_df,data_events_category,object,object
@@ -142,6 +162,7 @@ issues_events_df,data_events_times_Asics 2_time,object,object
 issues_events_df,data_events_times_Asics_time,object,object
 issues_events_df,data_events_times_Media_time,object,object
 issues_events_df,data_events_times_Meta_time,object,object
+issues_events_df,data_events_times_PREMETA_time,object,object
 issues_events_df,data_events_times_Salida_time,object,object
 issues_events_df,data_events_times_Spotter_time,object,object
 issues_events_df,event_id,object,object
