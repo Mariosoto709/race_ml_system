@@ -1,28 +1,13 @@
 tabla,columna,categoria,tipos_detectados,accion_razon
 athletes_df,athlete_id,modificada,"num,str",athlete_id → convertir todos a str
 athletes_df,birthdate,tipo otro,"nulo,otro",columna protegida (tipo 'otro')
-athletes_df,category,modificada,"nulo,str,vacio",nulo → ''
-athletes_df,club,modificada,"nulo,num,str,vacio","num → str, nulo → ''"
-athletes_df,distance,sin regla aplicable,"nulo,num",no hay regla para esta combinación de tipos
-athletes_df,dorsal,modificada,"nulo,num,str","num → str, nulo → ''"
-athletes_df,fullName,modificada,"nulo,str",nulo → ''
+athletes_df,club,modificada,"nulo,str,vacio",nulo → ''
+athletes_df,fullName,no modificada,str,solo un tipo
 athletes_df,gender,modificada,"nulo,str",nulo → ''
-athletes_df,last_split_seen,modificada,"nulo,str",nulo → ''
-athletes_df,maxConsecutiveSplitsMissing,sin regla aplicable,"nulo,num",no hay regla para esta combinación de tipos
 athletes_df,name,sin regla aplicable,"str,vacio",no hay regla para esta combinación de tipos
 athletes_df,nationality,modificada,"nulo,str,vacio",nulo → ''
 athletes_df,race_id,clave protegida,str,columna protegida (clave)
-athletes_df,realStatus,modificada,"nulo,str",nulo → ''
-athletes_df,splitsMissing,sin regla aplicable,"nulo,num",no hay regla para esta combinación de tipos
-athletes_df,splitsSeen,sin regla aplicable,"nulo,num",no hay regla para esta combinación de tipos
-athletes_df,startNetTime,sin regla aplicable,"nulo,num",no hay regla para esta combinación de tipos
-athletes_df,startRawTime,tipo otro,"nulo,otro",columna protegida (tipo 'otro')
-athletes_df,startTime,sin regla aplicable,"nulo,num",no hay regla para esta combinación de tipos
-athletes_df,status,modificada,"nulo,str",nulo → ''
 athletes_df,surname,modificada,"nulo,str",nulo → ''
-athletes_df,team,modificada,"nulo,str,vacio",nulo → ''
-athletes_df,startNetTime_td,tipo otro,"nulo,otro",columna protegida (tipo 'otro')
-athletes_df,startTime_td,tipo otro,"nulo,otro",columna protegida (tipo 'otro')
 athletes_events_df,athlete_id,modificada,"num,str",athlete_id → convertir todos a str
 athletes_events_df,auto_category,sin regla aplicable,"nulo,num",no hay regla para esta combinación de tipos
 athletes_events_df,auto_chip,sin regla aplicable,"nulo,num",no hay regla para esta combinación de tipos
@@ -77,7 +62,6 @@ issues_data_df,data_Código Postal,modificada,"nulo,str",nulo → ''
 issues_data_df,data_Dorsal entregado,modificada,"nulo,str",nulo → ''
 issues_data_df,data_EPC,modificada,"nulo,str,vacio",nulo → ''
 issues_data_df,data_Email,modificada,"nulo,str",nulo → ''
-issues_data_df,data_Emergency Phone,modificada,"nulo,str",nulo → ''
 issues_data_df,data_Federado,modificada,"nulo,str",nulo → ''
 issues_data_df,data_LOCALIZADOR,modificada,"nulo,str",nulo → ''
 issues_data_df,data_Language,modificada,"nulo,str",nulo → ''
@@ -85,7 +69,6 @@ issues_data_df,data_Licencia,modificada,"nulo,str,vacio",nulo → ''
 issues_data_df,data_Localidad,modificada,"nulo,str",nulo → ''
 issues_data_df,data_Medal,modificada,"nulo,str",nulo → ''
 issues_data_df,data_Message,modificada,"nulo,str,vacio",nulo → ''
-issues_data_df,data_Nacionalidad,modificada,"nulo,str",nulo → ''
 issues_data_df,data_PAIS,sin regla aplicable,"nulo,vacio",no hay regla para esta combinación de tipos
 issues_data_df,data_PAÍS,modificada,"nulo,str",nulo → ''
 issues_data_df,data_PAíS,sin regla aplicable,"nulo,vacio",no hay regla para esta combinación de tipos
@@ -102,7 +85,7 @@ issues_data_df,data_Teléfono emergencia,modificada,"nulo,str",nulo → ''
 issues_data_df,data_UNIVERSIDAD,modificada,"nulo,str",nulo → ''
 issues_data_df,data_ZURICH,modificada,"nulo,str",nulo → ''
 issues_data_df,data_birthdate,tipo otro,"nulo,otro",columna protegida (tipo 'otro')
-issues_data_df,data_category,modificada,"nulo,str,vacio",nulo → ''
+issues_data_df,data_category,modificada,"nulo,str",nulo → ''
 issues_data_df,data_club,modificada,"nulo,str,vacio",nulo → ''
 issues_data_df,data_comments,modificada,"nulo,str,vacio",nulo → ''
 issues_data_df,data_document,modificada,"nulo,str,vacio",nulo → ''
@@ -120,7 +103,6 @@ issues_data_df,data_statusNote,modificada,"nulo,str,vacio",nulo → ''
 issues_data_df,data_surname,modificada,"nulo,str",nulo → ''
 issues_data_df,data_team,modificada,"nulo,str",nulo → ''
 issues_data_df,data_user_id,modificada,"nulo,str",nulo → ''
-issues_data_df,data_wave,modificada,"nulo,str",nulo → ''
 issues_data_df,event_id,clave protegida,str,columna protegida (clave)
 issues_data_df,issue_id,clave protegida,str,columna protegida (clave)
 issues_data_df,race_id,clave protegida,str,columna protegida (clave)

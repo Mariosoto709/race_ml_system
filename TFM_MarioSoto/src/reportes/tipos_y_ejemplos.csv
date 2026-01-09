@@ -1,28 +1,13 @@
 DF,Columna,Tipo,Ejemplo
 athletes_df,athlete_id,object,200
 athletes_df,birthdate,datetime64[ns],1991-03-03 00:00:00
-athletes_df,category,object,M50
 athletes_df,club,object,MARRUECOS
-athletes_df,distance,float64,0.0
-athletes_df,dorsal,object,6409
 athletes_df,fullName,object,EL MAHJOUB DAZZA
 athletes_df,gender,object,male
-athletes_df,last_split_seen,object,notstarted
-athletes_df,maxConsecutiveSplitsMissing,float64,0.0
 athletes_df,name,object,EL MAHJOUB
 athletes_df,nationality,object,MAR
 athletes_df,race_id,object,af5c5746-04e8-42ab-9610-b12f0d9125b1
-athletes_df,realStatus,object,notstarted
-athletes_df,splitsMissing,float64,0.0
-athletes_df,splitsSeen,float64,0.0
-athletes_df,startNetTime,float64,19980.0
-athletes_df,startRawTime,datetime64[ns],2022-05-08 06:02:19.980000
-athletes_df,startTime,float64,19980.0
-athletes_df,status,object,notstarted
 athletes_df,surname,object,DAZZA
-athletes_df,team,object,
-athletes_df,startNetTime_td,timedelta64[ns],0 days 00:00:19.980000
-athletes_df,startTime_td,timedelta64[ns],0 days 00:00:19.980000
 athletes_events_df,athlete_id,object,200
 athletes_events_df,auto_category,object,True
 athletes_events_df,auto_chip,object,True
@@ -77,7 +62,6 @@ issues_data_df,data_Código Postal,object,46015
 issues_data_df,data_Dorsal entregado,object,Sí
 issues_data_df,data_EPC,object,00693D5100000000
 issues_data_df,data_Email,object,rachid1casa2014@gmail.com
-issues_data_df,data_Emergency Phone,object,605092874
 issues_data_df,data_Federado,object,S’
 issues_data_df,data_LOCALIZADOR,object,123457
 issues_data_df,data_Language,object,es
@@ -85,7 +69,6 @@ issues_data_df,data_Licencia,object,
 issues_data_df,data_Localidad,object,Malaga
 issues_data_df,data_Medal,object,Yes
 issues_data_df,data_Message,object,
-issues_data_df,data_Nacionalidad,object,Reino Unido
 issues_data_df,data_PAIS,object,
 issues_data_df,data_PAÍS,object,España
 issues_data_df,data_PAíS,object,
@@ -108,7 +91,7 @@ issues_data_df,data_comments,object,Compromiso Yomury
 issues_data_df,data_document,object,33987532H
 issues_data_df,data_dorsal,object,1919
 issues_data_df,data_e-mail,object,pulido_corte@hotmail.com
-issues_data_df,data_event,object,10K
+issues_data_df,data_event,object,Marató
 issues_data_df,data_gender,object,female
 issues_data_df,data_gunTime,object,2023-02-19T07:30:05.988Z
 issues_data_df,data_medical reason,object,Broken head
@@ -120,7 +103,6 @@ issues_data_df,data_statusNote,object,RT .55.10
 issues_data_df,data_surname,object,LOZANO GRIJOTA
 issues_data_df,data_team,object,CLUBE RAQUEL CABAÇO
 issues_data_df,data_user_id,object,923224
-issues_data_df,data_wave,object,Marató 2
 issues_data_df,event_id,object,Maratón
 issues_data_df,issue_id,object,b9679bf0-eeae-11ef-8d6b-2d20f644acaf
 issues_data_df,race_id,object,af5c5746-04e8-42ab-9610-b12f0d9125b1

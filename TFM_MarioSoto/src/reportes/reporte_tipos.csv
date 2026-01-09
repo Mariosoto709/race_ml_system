@@ -1,28 +1,13 @@
 DF,Columna,Tipo_antes,Tipo_despues
 athletes_df,athlete_id,object,object
 athletes_df,birthdate,object,datetime64[ns]
-athletes_df,category,object,object
 athletes_df,club,object,object
-athletes_df,distance,float64,float64
-athletes_df,dorsal,object,object
 athletes_df,fullName,object,object
 athletes_df,gender,object,object
-athletes_df,last_split_seen,object,object
-athletes_df,maxConsecutiveSplitsMissing,float64,float64
 athletes_df,name,object,object
 athletes_df,nationality,object,object
 athletes_df,race_id,object,object
-athletes_df,realStatus,object,object
-athletes_df,splitsMissing,float64,float64
-athletes_df,splitsSeen,float64,float64
-athletes_df,startNetTime,float64,float64
-athletes_df,startRawTime,float64,datetime64[ns]
-athletes_df,startTime,float64,float64
-athletes_df,status,object,object
 athletes_df,surname,object,object
-athletes_df,team,object,object
-athletes_df,startNetTime_td,N/A,timedelta64[ns]
-athletes_df,startTime_td,N/A,timedelta64[ns]
 athletes_events_df,athlete_id,object,object
 athletes_events_df,auto_category,object,object
 athletes_events_df,auto_chip,object,object
@@ -77,7 +62,6 @@ issues_data_df,data_Código Postal,object,object
 issues_data_df,data_Dorsal entregado,object,object
 issues_data_df,data_EPC,object,object
 issues_data_df,data_Email,object,object
-issues_data_df,data_Emergency Phone,object,object
 issues_data_df,data_Federado,object,object
 issues_data_df,data_LOCALIZADOR,object,object
 issues_data_df,data_Language,object,object
@@ -85,7 +69,6 @@ issues_data_df,data_Licencia,object,object
 issues_data_df,data_Localidad,object,object
 issues_data_df,data_Medal,object,object
 issues_data_df,data_Message,object,object
-issues_data_df,data_Nacionalidad,object,object
 issues_data_df,data_PAIS,object,object
 issues_data_df,data_PAÍS,object,object
 issues_data_df,data_PAíS,object,object
@@ -120,7 +103,6 @@ issues_data_df,data_statusNote,object,object
 issues_data_df,data_surname,object,object
 issues_data_df,data_team,object,object
 issues_data_df,data_user_id,object,object
-issues_data_df,data_wave,object,object
 issues_data_df,event_id,object,object
 issues_data_df,issue_id,object,object
 issues_data_df,race_id,object,object

@@ -1,28 +1,13 @@
 DF,Race_Event,Columna,Tipos_distintos,Nulos,Strings_vacios,Ejemplos,Ejemplos_por_tipo
 athletes_df,GLOBAL,athlete_id,"['str', 'int']",0,0,"['200', '201', '202', '203', '204', '205', '206', '207', '208', '209']","{'str': ['200', '201', '202'], 'int': [1, 2, 3]}"
-athletes_df,GLOBAL,birthdate,['Timestamp'],136,0,"[Timestamp('1991-03-03 00:00:00'), Timestamp('1996-01-23 00:00:00'), Timestamp('1997-04-21 00:00:00'), Timestamp('1991-11-30 00:00:00'), Timestamp('1993-11-16 00:00:00'), Timestamp('1993-02-06 00:00:00'), Timestamp('1994-11-17 00:00:00'), Timestamp('2000-02-15 00:00:00'), Timestamp('2002-08-20 00:00:00'), Timestamp('1983-11-17 00:00:00')]","{'Timestamp': [Timestamp('1991-03-03 00:00:00'), Timestamp('1996-01-23 00:00:00'), Timestamp('1997-04-21 00:00:00')]}"
-athletes_df,GLOBAL,category,['str'],98334,5,"['M50', 'M35', 'M45', 'W50', 'M60', 'M40', 'W55', 'SENM', 'M55', 'W45']","{'str': ['M50', 'M35', 'M45']}"
-athletes_df,GLOBAL,club,"['str', 'int']",65244,106,"['MARRUECOS', 'NINGUNO', 'SICILIA RUNNING TEAM', 'CLERMONT ATHLE', 'CLUBE DESPORTIVO AREIAS SÃO JOÃO', 'SPARTA', 'GOWANUS DREDGERS ATHLETIC CLUB', 'ASICS RUNNING', 'ASICS', 'TROTASIERRA']","{'str': ['MARRUECOS', 'NINGUNO', 'SICILIA RUNNING TEAM'], 'int': [34648824665]}"
-athletes_df,GLOBAL,distance,['float'],98304,0,"[0.0, 42195.0, 21097.0, 10000.0, 18200.0, 25000.0, 35000.0, 28000.0, 30000.0, 40000.0]","{'float': [0.0, 42195.0, 21097.0]}"
-athletes_df,GLOBAL,dorsal,"['str', 'int']",98304,0,"['6409', '2143', '1610', '2145', '2146', '2147', '2148', '2149', '2150', '2151']","{'str': ['6409', '2143', '1610'], 'int': [1, 2, 3]}"
-athletes_df,GLOBAL,fullName,['str'],20989,0,"['EL MAHJOUB DAZZA', 'LUIS MASABANDA', 'RICCARDO MUGNOSSO', 'BRICE MORISSEAU', 'JOÃO FERNANDES', 'HENRIK HOLM', 'RYAN ARCHER', 'DIEGO MENENDEZ RODRIGUEZ NORIEGA', 'MIGUEL BENITEZ BERMEJO', 'RUBEN ALVAREZ MIGUEL']","{'str': ['EL MAHJOUB DAZZA', 'LUIS MASABANDA', 'RICCARDO MUGNOSSO']}"
-athletes_df,GLOBAL,gender,['str'],71,0,"['male', 'female', 'mixed']","{'str': ['male', 'female', 'mixed']}"
-athletes_df,GLOBAL,last_split_seen,['str'],98304,0,"['notstarted', 'Meta', 'Media', '10K', '18.2K', 'Meta 10k', 'Salida', '25K', '35K', '28K']","{'str': ['notstarted', 'Meta', 'Media']}"
-athletes_df,GLOBAL,maxConsecutiveSplitsMissing,['float'],98304,0,"[0.0, 12.0, 1.0, 8.0, 3.0, 7.0, 2.0, 4.0, 9.0, 10.0]","{'float': [0.0, 12.0, 1.0]}"
+athletes_df,GLOBAL,birthdate,['Timestamp'],105,0,"[Timestamp('1991-03-03 00:00:00'), Timestamp('1996-01-23 00:00:00'), Timestamp('1997-04-21 00:00:00'), Timestamp('1991-11-30 00:00:00'), Timestamp('1993-11-16 00:00:00'), Timestamp('1993-02-06 00:00:00'), Timestamp('1994-11-17 00:00:00'), Timestamp('2000-02-15 00:00:00'), Timestamp('2002-08-20 00:00:00'), Timestamp('1983-11-17 00:00:00')]","{'Timestamp': [Timestamp('1991-03-03 00:00:00'), Timestamp('1996-01-23 00:00:00'), Timestamp('1997-04-21 00:00:00')]}"
+athletes_df,GLOBAL,club,['str'],59465,105,"['MARRUECOS', 'NINGUNO', 'SICILIA RUNNING TEAM', 'CLERMONT ATHLE', 'CLUBE DESPORTIVO AREIAS SÃO JOÃO', 'SPARTA', 'GOWANUS DREDGERS ATHLETIC CLUB', 'ASICS RUNNING', 'ASICS', 'TROTASIERRA']","{'str': ['MARRUECOS', 'NINGUNO', 'SICILIA RUNNING TEAM']}"
+athletes_df,GLOBAL,fullName,['str'],0,0,"['EL MAHJOUB DAZZA', 'LUIS MASABANDA', 'RICCARDO MUGNOSSO', 'BRICE MORISSEAU', 'JOÃO FERNANDES', 'HENRIK HOLM', 'RYAN ARCHER', 'DIEGO MENENDEZ RODRIGUEZ NORIEGA', 'MIGUEL BENITEZ BERMEJO', 'RUBEN ALVAREZ MIGUEL']","{'str': ['EL MAHJOUB DAZZA', 'LUIS MASABANDA', 'RICCARDO MUGNOSSO']}"
+athletes_df,GLOBAL,gender,['str'],43,0,"['male', 'female', 'mixed']","{'str': ['male', 'female', 'mixed']}"
 athletes_df,GLOBAL,name,['str'],0,10,"['EL MAHJOUB', 'LUIS', 'RICCARDO', 'BRICE', 'JOÃO', 'HENRIK', 'RYAN', 'DIEGO', 'MIGUEL', 'RUBEN']","{'str': ['EL MAHJOUB', 'LUIS', 'RICCARDO']}"
-athletes_df,GLOBAL,nationality,['str'],180,651,"['MAR', 'ECU', 'ITA', 'FRA', 'POR', 'DEN', 'USA', 'ESP', 'IRL', 'CHI']","{'str': ['MAR', 'ECU', 'ITA']}"
-athletes_df,GLOBAL,race_id,['str'],0,0,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac', '5ac73786-d053-4b78-955a-c63fbf3e098c', 'c9ddd2cc-1f02-4469-82cb-a0627e1b82fc', 'd221bcb0-4242-4ad9-aa5d-706446341917', '49603c2f-1b2b-457f-b82e-fed8bded1d3d', '8bbfdd2e-da3d-4934-a1c5-8fbd303d4974']","{'str': ['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac']}"
-athletes_df,GLOBAL,realStatus,['str'],98304,0,"['notstarted', 'finished', 'running']","{'str': ['notstarted', 'finished', 'running']}"
-athletes_df,GLOBAL,splitsMissing,['float'],98304,0,"[0.0, 12.0, 1.0, 2.0, 8.0, 6.0, 3.0, 7.0, 4.0, 5.0]","{'float': [0.0, 12.0, 1.0]}"
-athletes_df,GLOBAL,splitsSeen,['float'],98304,0,"[0.0, 13.0, 1.0, 7.0, 3.0, 5.0, 12.0, 11.0, 8.0, 10.0]","{'float': [0.0, 13.0, 1.0]}"
-athletes_df,GLOBAL,startNetTime,['float'],103043,0,"[19980.0, 60730.0, 78310.0, 50670.0, 3000.0, 212240.0, 211590.0, 81780.0, 34630.0, 5870.0]","{'float': [19980.0, 60730.0, 78310.0]}"
-athletes_df,GLOBAL,startRawTime,['Timestamp'],103043,0,"[Timestamp('2022-05-08 06:02:19.980000'), Timestamp('2022-05-08 06:10:00.730000'), Timestamp('2022-05-08 06:10:18.310000'), Timestamp('2022-05-08 06:09:50.670000'), Timestamp('2022-05-08 06:09:03'), Timestamp('2022-05-08 06:12:32.240000'), Timestamp('2022-05-08 06:12:31.590000'), Timestamp('2022-05-08 06:10:21.780000'), Timestamp('2022-05-08 06:02:34.630000'), Timestamp('2022-05-08 06:02:05.870000')]","{'Timestamp': [Timestamp('2022-05-08 06:02:19.980000'), Timestamp('2022-05-08 06:10:00.730000'), Timestamp('2022-05-08 06:10:18.310000')]}"
-athletes_df,GLOBAL,startTime,['float'],103043,0,"[19980.0, 60730.0, 78310.0, 50670.0, 3000.0, 212240.0, 211590.0, 81780.0, 34630.0, 5870.0]","{'float': [19980.0, 60730.0, 78310.0]}"
-athletes_df,GLOBAL,status,['str'],98304,0,"['notstarted', 'finished', 'quarantine', 'retired', 'disqualified', 'running']","{'str': ['notstarted', 'finished', 'quarantine']}"
-athletes_df,GLOBAL,surname,['str'],99,0,"['DAZZA', 'MASABANDA', 'MUGNOSSO', 'MORISSEAU', 'FERNANDES', 'HOLM', 'ARCHER', 'MENENDEZ RODRIGUEZ NORIEGA', 'BENITEZ BERMEJO', 'ALVAREZ MIGUEL']","{'str': ['DAZZA', 'MASABANDA', 'MUGNOSSO']}"
-athletes_df,GLOBAL,team,['str'],98304,20987,"['', 'Los Lentos', 'LA RIVATIERE']","{'str': ['', 'Los Lentos', 'LA RIVATIERE']}"
-athletes_df,GLOBAL,startNetTime_td,['Timedelta'],103043,0,"[Timedelta('0 days 00:00:19.980000'), Timedelta('0 days 00:01:00.730000'), Timedelta('0 days 00:01:18.310000'), Timedelta('0 days 00:00:50.670000'), Timedelta('0 days 00:00:03'), Timedelta('0 days 00:03:32.240000'), Timedelta('0 days 00:03:31.590000'), Timedelta('0 days 00:01:21.780000'), Timedelta('0 days 00:00:34.630000'), Timedelta('0 days 00:00:05.870000')]","{'Timedelta': [Timedelta('0 days 00:00:19.980000'), Timedelta('0 days 00:01:00.730000'), Timedelta('0 days 00:01:18.310000')]}"
-athletes_df,GLOBAL,startTime_td,['Timedelta'],103043,0,"[Timedelta('0 days 00:00:19.980000'), Timedelta('0 days 00:01:00.730000'), Timedelta('0 days 00:01:18.310000'), Timedelta('0 days 00:00:50.670000'), Timedelta('0 days 00:00:03'), Timedelta('0 days 00:03:32.240000'), Timedelta('0 days 00:03:31.590000'), Timedelta('0 days 00:01:21.780000'), Timedelta('0 days 00:00:34.630000'), Timedelta('0 days 00:00:05.870000')]","{'Timedelta': [Timedelta('0 days 00:00:19.980000'), Timedelta('0 days 00:01:00.730000'), Timedelta('0 days 00:01:18.310000')]}"
+athletes_df,GLOBAL,nationality,['str'],128,640,"['MAR', 'ECU', 'ITA', 'FRA', 'POR', 'DEN', 'USA', 'ESP', 'IRL', 'CHI']","{'str': ['MAR', 'ECU', 'ITA']}"
+athletes_df,GLOBAL,race_id,['str'],0,0,"['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac', 'c9ddd2cc-1f02-4469-82cb-a0627e1b82fc', 'd221bcb0-4242-4ad9-aa5d-706446341917', '49603c2f-1b2b-457f-b82e-fed8bded1d3d']","{'str': ['af5c5746-04e8-42ab-9610-b12f0d9125b1', '609139b1-d6bd-4553-ac89-2f648787a60d', '72a81045-fb27-43e6-a201-b1d42be42fac']}"
+athletes_df,GLOBAL,surname,['str'],63,0,"['DAZZA', 'MASABANDA', 'MUGNOSSO', 'MORISSEAU', 'FERNANDES', 'HOLM', 'ARCHER', 'MENENDEZ RODRIGUEZ NORIEGA', 'BENITEZ BERMEJO', 'ALVAREZ MIGUEL']","{'str': ['DAZZA', 'MASABANDA', 'MUGNOSSO']}"
 athletes_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-Marato,athlete_id,['str'],0,0,"['114500001', '114500002', '114500003', '114500004', '114500005', '114500006', '114500007', '114500008', 'L7526257', 'F8AZZF37']","{'str': ['114500001', '114500002', '114500003']}"
 athletes_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-Marato,auto_category,['bool'],0,0,"[True, False]","{'bool': [True, False]}"
 athletes_events_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-Marato,auto_chip,['bool'],0,0,"[False, True]","{'bool': [False, True]}"
@@ -461,13 +446,6 @@ issues_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-independiente,race_id,['str'],0,0
 issues_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-independiente,time,['Timestamp'],0,0,"[Timestamp('2025-02-11 09:00:47.695000'), Timestamp('2025-02-15 22:47:08.006000'), Timestamp('2025-02-15 22:59:49.649000'), Timestamp('2025-02-16 10:14:23.376000'), Timestamp('2025-02-11 08:58:27.844000'), Timestamp('2025-02-11 09:31:39.454000'), Timestamp('2025-02-15 22:47:07.911000'), Timestamp('2025-02-15 22:59:49.654000'), Timestamp('2025-02-11 09:36:04.294000'), Timestamp('2025-02-15 22:47:08.026000')]","{'Timestamp': [Timestamp('2025-02-11 09:00:47.695000'), Timestamp('2025-02-15 22:47:08.006000'), Timestamp('2025-02-15 22:59:49.649000')]}"
 issues_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-independiente,type,['str'],0,0,"['changeRanking', 'importAthletes', 'changeStatus', 'importSwap', 'athleteSwap']","{'str': ['changeRanking', 'importAthletes', 'changeStatus']}"
 issues_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-independiente,event_std,['str'],0,0,['independiente'],{'str': ['independiente']}
-issues_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,athlete_id,"['str', 'int']",0,0,"[15753719, 15318667, 15005069, 15544837, 16113892, 15399770, 14989412, 15868036, 16152879, '16008993']","{'str': ['16008993', '16101625', '15334577'], 'int': [15753719, 15318667, 15005069]}"
-issues_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,event_id,['str'],0,0,['independiente'],{'str': ['independiente']}
-issues_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,issue_id,['str'],0,0,"['5bdfcd20-ce97-11ec-806d-1f9ef623515c', 'c223b8e0-ce96-11ec-806d-1f9ef623515c', 'e88db4e0-ce96-11ec-806d-1f9ef623515c', 'c8c21140-ceca-11ec-b6f8-d919e2b376f2', 'fd3274e0-cea9-11ec-8361-4dce6abe1050', '0bf23910-ce97-11ec-806d-1f9ef623515c', 'ead32c30-d756-11ec-8736-e50395a42dde', '010b7f20-d757-11ec-8736-e50395a42dde', '4fd97260-d757-11ec-8736-e50395a42dde', '7823f1e0-ceca-11ec-b6f8-d919e2b376f2']","{'str': ['5bdfcd20-ce97-11ec-806d-1f9ef623515c', 'c223b8e0-ce96-11ec-806d-1f9ef623515c', 'e88db4e0-ce96-11ec-806d-1f9ef623515c']}"
-issues_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,race_id,['str'],0,0,['5ac73786-d053-4b78-955a-c63fbf3e098c'],{'str': ['5ac73786-d053-4b78-955a-c63fbf3e098c']}
-issues_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,time,['Timestamp'],0,0,"[Timestamp('2022-05-08 06:23:21.843000'), Timestamp('2022-05-08 06:23:21.842000'), Timestamp('2022-05-08 06:19:03.919000'), Timestamp('2022-05-08 06:20:08.366000'), Timestamp('2022-05-08 12:31:28.852000'), Timestamp('2022-05-08 08:36:43.438000'), Timestamp('2022-05-08 06:21:07.745000'), Timestamp('2022-05-19 09:34:44.852000'), Timestamp('2022-05-19 09:35:22.130000'), Timestamp('2022-05-19 09:37:34.342000')]","{'Timestamp': [Timestamp('2022-05-08 06:23:21.843000'), Timestamp('2022-05-08 06:23:21.842000'), Timestamp('2022-05-08 06:19:03.919000')]}"
-issues_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,type,['str'],0,0,"['changeRanking', 'changeStatus', 'athleteSwap', 'athleteTime']","{'str': ['changeRanking', 'changeStatus', 'athleteSwap']}"
-issues_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,event_std,['str'],0,0,['independiente'],{'str': ['independiente']}
 issues_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón,athlete_id,"['str', 'int']",0,0,"[8250, 904, 7240, 8354, 6972, 1249, 12322, 1443, 9141, 7312]","{'str': ['3f78cb40-26d0-524f-8597-c0728734e8fb', '4bd8b912-72db-5244-82fd-0198a74b6918', '6b6ad7e3-6149-5a79-badb-5b8479a77b56'], 'int': [8250, 904, 7240]}"
 issues_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón,event_id,['str'],0,0,['Maratón'],{'str': ['Maratón']}
 issues_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón,issue_id,['str'],0,0,"['e419ddf0-cdb1-11ee-a1fd-537e845a4030', '92924bb0-ce2f-11ee-8008-917783ce6496', 'f3acfaa0-ce41-11ee-bd89-f93a4314e6fb', 'ee1a27e0-cce6-11ee-bf1d-9b6170712c3f', '8e9951b0-ce67-11ee-ae80-695a7ed66b6d', 'dd358ef0-ce59-11ee-83f0-ad47679acfd8', '829d5950-ce36-11ee-a91c-3bfaa31c6ceb', '40cb3680-ce4c-11ee-a471-31ea3d047657', '5ca11240-ce41-11ee-bd89-f93a4314e6fb', '46f77340-cf1c-11ee-ab91-194f7a5565c2']","{'str': ['e419ddf0-cdb1-11ee-a1fd-537e845a4030', '92924bb0-ce2f-11ee-8008-917783ce6496', 'f3acfaa0-ce41-11ee-bd89-f93a4314e6fb']}"
@@ -503,13 +481,6 @@ issues_df,72a81045-fb27-43e6-a201-b1d42be42fac-independiente,race_id,['str'],0,0
 issues_df,72a81045-fb27-43e6-a201-b1d42be42fac-independiente,time,['Timestamp'],0,0,"[Timestamp('2023-02-19 06:15:22.782000'), Timestamp('2023-02-19 07:30:07.884000'), Timestamp('2023-02-19 06:15:22.771000'), Timestamp('2023-02-19 06:15:22.768000'), Timestamp('2023-02-19 06:15:22.775000'), Timestamp('2023-02-17 17:06:43.668000'), Timestamp('2023-02-19 06:15:22.774000'), Timestamp('2023-02-19 06:15:22.781000'), Timestamp('2023-02-19 06:15:22.777000'), Timestamp('2023-02-19 06:15:22.780000')]","{'Timestamp': [Timestamp('2023-02-19 06:15:22.782000'), Timestamp('2023-02-19 07:30:07.884000'), Timestamp('2023-02-19 06:15:22.771000')]}"
 issues_df,72a81045-fb27-43e6-a201-b1d42be42fac-independiente,type,['str'],0,0,"['changeRanking', 'changeStatus', 'athleteSwap', 'athleteTime']","{'str': ['changeRanking', 'changeStatus', 'athleteSwap']}"
 issues_df,72a81045-fb27-43e6-a201-b1d42be42fac-independiente,event_std,['str'],0,0,['independiente'],{'str': ['independiente']}
-issues_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,athlete_id,"['str', 'int']",0,0,"[1269, 4247, 4019, 8476, 2110, 7346, 5848, 4915, 8804, 5014]","{'str': ['c60cac86-40d3-5a50-b356-fc5eb0f46af9', '1cd1deb6-650c-52d1-9699-d24afe4a0a49', '8d7e5cc7-0d27-536d-a5ed-397fc1a1a08a'], 'int': [1269, 4247, 4019]}"
-issues_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,event_id,['str'],0,0,['independiente'],{'str': ['independiente']}
-issues_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,issue_id,['str'],0,0,"['2b2b1810-9256-11ec-ab3e-1f2d1eb9663d', '1aafa3d0-90ed-11ec-b566-21716ccf5a1a', 'b0db3f80-9107-11ec-8200-edad9d58d0b0', 'c7dcf3e0-922e-11ec-bd24-cb1c756a584c', 'f605eb70-93cb-11ec-b999-cfb651696c46', 'e6070260-922f-11ec-bd24-cb1c756a584c', '31f6c4b0-93cc-11ec-b999-cfb651696c46', 'f3e6afb0-9230-11ec-bd24-cb1c756a584c', 'c3ad4860-94a9-11ec-a4db-ad133e8926c7', 'c43253b0-9234-11ec-90e1-a54d31285d70']","{'str': ['2b2b1810-9256-11ec-ab3e-1f2d1eb9663d', '1aafa3d0-90ed-11ec-b566-21716ccf5a1a', 'b0db3f80-9107-11ec-8200-edad9d58d0b0']}"
-issues_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,race_id,['str'],0,0,['8bbfdd2e-da3d-4934-a1c5-8fbd303d4974'],{'str': ['8bbfdd2e-da3d-4934-a1c5-8fbd303d4974']}
-issues_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,time,['Timestamp'],0,0,"[Timestamp('2022-02-20 14:05:33.074000'), Timestamp('2022-02-18 19:00:57.101000'), Timestamp('2022-02-18 22:11:15.960000'), Timestamp('2022-02-20 09:23:36.094000'), Timestamp('2022-02-22 10:41:15.687000'), Timestamp('2022-02-20 14:05:33.073000'), Timestamp('2022-02-20 09:31:36.198000'), Timestamp('2022-02-22 10:42:56.251000'), Timestamp('2022-02-20 09:39:08.971000'), Timestamp('2022-02-23 13:08:59.494000')]","{'Timestamp': [Timestamp('2022-02-20 14:05:33.074000'), Timestamp('2022-02-18 19:00:57.101000'), Timestamp('2022-02-18 22:11:15.960000')]}"
-issues_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,type,['str'],0,0,"['changeStatus', 'changeRanking', 'athleteSwap', 'athleteTime']","{'str': ['changeStatus', 'changeRanking', 'athleteSwap']}"
-issues_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,event_std,['str'],0,0,['independiente'],{'str': ['independiente']}
 issues_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón,athlete_id,"['str', 'int']",0,0,"[8250, '8250', 904, '904', 6776, '6776', 7240, '7240', 8354, '8354']","{'str': ['8250', '904', '6776'], 'int': [8250, 904, 6776]}"
 issues_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón,event_id,['str'],0,0,['Maratón'],{'str': ['Maratón']}
 issues_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón,issue_id,['str'],0,0,"['b9679bf0-eeae-11ef-8d6b-2d20f644acaf', 'c13b2120-eeaf-11ef-8d6b-2d20f644acaf', 'bbf0c190-eedf-11ef-aefd-4527d5007596', '05cca970-f1b8-11ef-b5fd-bf8734a7469a', '099faa70-f1b8-11ef-9681-733b5a1624ca', '7b89e260-f1c5-11ef-b5ab-7579202c6cfd', '0c9d8f30-f05a-11ef-bbbc-35143f66ea59', '59f391b0-f1c9-11ef-b5ab-7579202c6cfd', '12a34300-f1ec-11ef-bc25-9fbe5786f204', 'ea0ab3c0-f1d6-11ef-8383-3976fbc3433a']","{'str': ['b9679bf0-eeae-11ef-8d6b-2d20f644acaf', 'c13b2120-eeaf-11ef-8d6b-2d20f644acaf', 'bbf0c190-eedf-11ef-aefd-4527d5007596']}"
@@ -566,7 +537,6 @@ issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-Mitja,data_Código Postal,[]
 issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-Mitja,data_Dorsal entregado,[],53983,0,[],{}
 issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-Mitja,data_EPC,[],53983,0,[],{}
 issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-Mitja,data_Email,[],53983,0,[],{}
-issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-Mitja,data_Emergency Phone,[],53983,0,[],{}
 issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-Mitja,data_Federado,[],53983,0,[],{}
 issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-Mitja,data_LOCALIZADOR,[],53983,0,[],{}
 issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-Mitja,data_Language,[],53983,0,[],{}
@@ -574,7 +544,6 @@ issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-Mitja,data_Licencia,[],53983
 issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-Mitja,data_Localidad,[],53983,0,[],{}
 issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-Mitja,data_Medal,[],53983,0,[],{}
 issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-Mitja,data_Message,[],53983,0,[],{}
-issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-Mitja,data_Nacionalidad,[],53983,0,[],{}
 issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-Mitja,data_PAIS,[],53983,0,[],{}
 issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-Mitja,data_PAÍS,[],53983,0,[],{}
 issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-Mitja,data_PAíS,[],53983,0,[],{}
@@ -609,7 +578,6 @@ issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-Mitja,data_statusNote,[],539
 issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-Mitja,data_surname,[],53983,0,[],{}
 issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-Mitja,data_team,[],53983,0,[],{}
 issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-Mitja,data_user_id,[],53983,0,[],{}
-issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-Mitja,data_wave,[],53983,0,[],{}
 issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-Mitja,event_id,['str'],0,0,['Mitja'],{'str': ['Mitja']}
 issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-Mitja,issue_id,['str'],0,0,"['edf66160-ec3a-11ef-af17-efadb2d90a76', '137e4220-ec38-11ef-9ec6-616957f1a263', '2517b890-ec38-11ef-af17-efadb2d90a76', 'f27fab50-ec40-11ef-a9ce-21a37501454e', '17922da0-ec41-11ef-a9ce-21a37501454e', '3927efd0-ec42-11ef-a9ce-21a37501454e', 'aeebe7e0-ec41-11ef-a9ce-21a37501454e', '60c03f60-ec52-11ef-9fcb-9397285a81ad', '9e169e10-ec3c-11ef-a9ce-21a37501454e', 'a9ed7880-ec3c-11ef-a9ce-21a37501454e']","{'str': ['edf66160-ec3a-11ef-af17-efadb2d90a76', '137e4220-ec38-11ef-9ec6-616957f1a263', '2517b890-ec38-11ef-af17-efadb2d90a76']}"
 issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-Mitja,race_id,['str'],0,0,['49603c2f-1b2b-457f-b82e-fed8bded1d3d'],{'str': ['49603c2f-1b2b-457f-b82e-fed8bded1d3d']}
@@ -621,7 +589,6 @@ issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-independiente,data_Código P
 issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-independiente,data_Dorsal entregado,[],121028,0,[],{}
 issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-independiente,data_EPC,[],121028,0,[],{}
 issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-independiente,data_Email,[],121028,0,[],{}
-issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-independiente,data_Emergency Phone,[],121028,0,[],{}
 issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-independiente,data_Federado,[],121028,0,[],{}
 issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-independiente,data_LOCALIZADOR,[],121028,0,[],{}
 issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-independiente,data_Language,[],121028,0,[],{}
@@ -629,7 +596,6 @@ issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-independiente,data_Licencia,
 issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-independiente,data_Localidad,[],121028,0,[],{}
 issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-independiente,data_Medal,[],121028,0,[],{}
 issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-independiente,data_Message,[],121028,0,[],{}
-issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-independiente,data_Nacionalidad,[],121028,0,[],{}
 issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-independiente,data_PAIS,[],121028,0,[],{}
 issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-independiente,data_PAÍS,[],121028,0,[],{}
 issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-independiente,data_PAíS,[],121028,0,[],{}
@@ -664,66 +630,10 @@ issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-independiente,data_statusNot
 issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-independiente,data_surname,['str'],120907,0,"['BARBERA BARTRA', 'Garcia Carabasa', 'Hutter', 'Gonzalez Martinez', 'Lucas Isidoro', 'Abolafio', 'AGOTE', 'HAYCOCK', 'Puchol', 'Plans Morillo']","{'str': ['BARBERA BARTRA', 'Garcia Carabasa', 'Hutter']}"
 issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-independiente,data_team,[],121028,0,[],{}
 issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-independiente,data_user_id,[],121028,0,[],{}
-issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-independiente,data_wave,[],121028,0,[],{}
 issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-independiente,event_id,['str'],0,0,['independiente'],{'str': ['independiente']}
 issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-independiente,issue_id,['str'],0,0,"['af4215f0-e856-11ef-aee0-f3683f511a40', 'c7e98b10-ebee-11ef-97b0-07dcca7a2d93', '8da78860-ebf0-11ef-87e3-356c9bdcf2f6', 'cb464900-ec4e-11ef-9fcb-9397285a81ad', '5be68440-e856-11ef-aee0-f3683f511a40', 'fefe15e0-e85a-11ef-ad12-9f7dca0e8af5', 'c7ec4a30-ebee-11ef-94fe-1bab35233bd7', '8db54400-ebf0-11ef-b2f0-c5e895a4b63a', '9cd97660-e85b-11ef-ad12-9f7dca0e8af5', 'c803c9d0-ebee-11ef-88fc-d5d568a944c8']","{'str': ['af4215f0-e856-11ef-aee0-f3683f511a40', 'c7e98b10-ebee-11ef-97b0-07dcca7a2d93', '8da78860-ebf0-11ef-87e3-356c9bdcf2f6']}"
 issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-independiente,race_id,['str'],0,0,['49603c2f-1b2b-457f-b82e-fed8bded1d3d'],{'str': ['49603c2f-1b2b-457f-b82e-fed8bded1d3d']}
 issues_data_df,49603c2f-1b2b-457f-b82e-fed8bded1d3d-independiente,event_std,['str'],0,0,['independiente'],{'str': ['independiente']}
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,athlete_id,"['str', 'int']",0,0,"[15753719, 15318667, 15005069, 15544837, 16113892, 15399770, 14989412, 15868036, 16152879, '16008993']","{'str': ['16008993', '16101625', '15334577'], 'int': [15753719, 15318667, 15005069]}"
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,data_Camiseta Finisher,[],1987,0,[],{}
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,data_Camiseta entregada,[],1987,0,[],{}
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,data_Código Postal,[],1987,0,[],{}
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,data_Dorsal entregado,[],1987,0,[],{}
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,data_EPC,[],1987,0,[],{}
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,data_Email,[],1987,0,[],{}
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,data_Emergency Phone,[],1987,0,[],{}
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,data_Federado,[],1987,0,[],{}
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,data_LOCALIZADOR,[],1987,0,[],{}
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,data_Language,[],1987,0,[],{}
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,data_Licencia,[],1987,0,[],{}
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,data_Localidad,[],1987,0,[],{}
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,data_Medal,[],1987,0,[],{}
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,data_Message,[],1987,0,[],{}
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,data_Nacionalidad,[],1987,0,[],{}
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,data_PAIS,[],1987,0,[],{}
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,data_PAÍS,[],1987,0,[],{}
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,data_PAíS,[],1987,0,[],{}
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,data_Pais,[],1987,0,[],{}
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,data_País de residencia,[],1987,0,[],{}
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,data_Pers Contacto,[],1987,0,[],{}
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,data_Pic,[],1987,0,[],{}
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,data_Provincia,[],1987,0,[],{}
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,data_TALLA,[],1987,0,[],{}
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,data_TIEMPO ESTIMADO,[],1987,0,[],{}
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,data_Talla,[],1987,0,[],{}
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,data_Telf Emergencia,[],1987,0,[],{}
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,data_Teléfono emergencia,[],1987,0,[],{}
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,data_UNIVERSIDAD,[],1987,0,[],{}
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,data_ZURICH,[],1987,0,[],{}
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,data_birthdate,['Timestamp'],1986,0,[Timestamp('1983-12-23 00:00:00')],{'Timestamp': [Timestamp('1983-12-23 00:00:00')]}
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,data_category,['str'],1975,6,"['', 'W45', 'Cadires Masculino', 'M35']","{'str': ['', 'W45', 'Cadires Masculino']}"
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,data_club,[],1987,0,[],{}
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,data_comments,[],1987,0,[],{}
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,data_document,[],1987,0,[],{}
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,data_dorsal,['str'],1986,0,['12095'],{'str': ['12095']}
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,data_e-mail,[],1987,0,[],{}
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,data_event,['str'],1970,0,"['10K', 'Cadires']","{'str': ['10K', 'Cadires']}"
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,data_gender,['str'],1979,0,"['male', 'female']","{'str': ['male', 'female']}"
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,data_gunTime,[],1987,0,[],{}
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,data_medical reason,[],1987,0,[],{}
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,data_name,[],1987,0,[],{}
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,data_nationality,['str'],1986,0,['Mauritius'],{'str': ['Mauritius']}
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,data_phone,[],1987,0,[],{}
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,data_status,['str'],1402,0,"['retired', 'quarantine', 'disqualified']","{'str': ['retired', 'quarantine', 'disqualified']}"
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,data_statusNote,[],1987,0,[],{}
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,data_surname,[],1987,0,[],{}
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,data_team,[],1987,0,[],{}
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,data_user_id,[],1987,0,[],{}
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,data_wave,['str'],722,0,"['Marató 2', 'Marató', 'Salida 10k', 'Cadires']","{'str': ['Marató 2', 'Marató', 'Salida 10k']}"
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,event_id,['str'],0,0,['independiente'],{'str': ['independiente']}
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,issue_id,['str'],0,0,"['5bdfcd20-ce97-11ec-806d-1f9ef623515c', 'c223b8e0-ce96-11ec-806d-1f9ef623515c', 'e88db4e0-ce96-11ec-806d-1f9ef623515c', 'c8c21140-ceca-11ec-b6f8-d919e2b376f2', 'fd3274e0-cea9-11ec-8361-4dce6abe1050', '0bf23910-ce97-11ec-806d-1f9ef623515c', 'ead32c30-d756-11ec-8736-e50395a42dde', '010b7f20-d757-11ec-8736-e50395a42dde', '4fd97260-d757-11ec-8736-e50395a42dde', '7823f1e0-ceca-11ec-b6f8-d919e2b376f2']","{'str': ['5bdfcd20-ce97-11ec-806d-1f9ef623515c', 'c223b8e0-ce96-11ec-806d-1f9ef623515c', 'e88db4e0-ce96-11ec-806d-1f9ef623515c']}"
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,race_id,['str'],0,0,['5ac73786-d053-4b78-955a-c63fbf3e098c'],{'str': ['5ac73786-d053-4b78-955a-c63fbf3e098c']}
-issues_data_df,5ac73786-d053-4b78-955a-c63fbf3e098c-independiente,event_std,['str'],0,0,['independiente'],{'str': ['independiente']}
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón,athlete_id,"['str', 'int']",0,0,"[8250, 904, 7240, 8354, 6972, 1249, 12322, 1443, 9141, 7312]","{'str': ['3f78cb40-26d0-524f-8597-c0728734e8fb', '4bd8b912-72db-5244-82fd-0198a74b6918', '6b6ad7e3-6149-5a79-badb-5b8479a77b56'], 'int': [8250, 904, 7240]}"
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón,data_Camiseta Finisher,[],44320,0,[],{}
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón,data_Camiseta entregada,[],44320,0,[],{}
@@ -731,7 +641,6 @@ issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón,data_Código Postal
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón,data_Dorsal entregado,[],44320,0,[],{}
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón,data_EPC,[],44320,0,[],{}
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón,data_Email,[],44320,0,[],{}
-issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón,data_Emergency Phone,[],44320,0,[],{}
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón,data_Federado,[],44320,0,[],{}
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón,data_LOCALIZADOR,[],44320,0,[],{}
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón,data_Language,[],44320,0,[],{}
@@ -739,7 +648,6 @@ issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón,data_Licencia,[],44
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón,data_Localidad,[],44320,0,[],{}
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón,data_Medal,[],44320,0,[],{}
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón,data_Message,[],44320,0,[],{}
-issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón,data_Nacionalidad,[],44320,0,[],{}
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón,data_PAIS,[],44320,0,[],{}
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón,data_PAÍS,[],44320,0,[],{}
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón,data_PAíS,[],44320,0,[],{}
@@ -774,7 +682,6 @@ issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón,data_statusNote,[],
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón,data_surname,['str'],32040,0,"['GARCIA MEJIAS', 'ALMEIDA', 'AUSTIN', 'BENNETT', 'MIGUEL PUERTO', 'MARTIN PADILLA', 'MCALEAVEY', 'POWELL', 'SANZ MONTERO', 'RODRIGUEZ GARCIA']","{'str': ['GARCIA MEJIAS', 'ALMEIDA', 'AUSTIN']}"
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón,data_team,[],44320,0,[],{}
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón,data_user_id,[],44320,0,[],{}
-issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón,data_wave,[],44320,0,[],{}
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón,event_id,['str'],0,0,['Maratón'],{'str': ['Maratón']}
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón,issue_id,['str'],0,0,"['e419ddf0-cdb1-11ee-a1fd-537e845a4030', '92924bb0-ce2f-11ee-8008-917783ce6496', 'f3acfaa0-ce41-11ee-bd89-f93a4314e6fb', 'ee1a27e0-cce6-11ee-bf1d-9b6170712c3f', '8e9951b0-ce67-11ee-ae80-695a7ed66b6d', 'dd358ef0-ce59-11ee-83f0-ad47679acfd8', '829d5950-ce36-11ee-a91c-3bfaa31c6ceb', '40cb3680-ce4c-11ee-a471-31ea3d047657', '5ca11240-ce41-11ee-bd89-f93a4314e6fb', '46f77340-cf1c-11ee-ab91-194f7a5565c2']","{'str': ['e419ddf0-cdb1-11ee-a1fd-537e845a4030', '92924bb0-ce2f-11ee-8008-917783ce6496', 'f3acfaa0-ce41-11ee-bd89-f93a4314e6fb']}"
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón,race_id,['str'],0,0,['609139b1-d6bd-4553-ac89-2f648787a60d'],{'str': ['609139b1-d6bd-4553-ac89-2f648787a60d']}
@@ -786,7 +693,6 @@ issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón Silla de Ruedas,dat
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón Silla de Ruedas,data_Dorsal entregado,[],15,0,[],{}
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón Silla de Ruedas,data_EPC,[],15,0,[],{}
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón Silla de Ruedas,data_Email,[],15,0,[],{}
-issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón Silla de Ruedas,data_Emergency Phone,[],15,0,[],{}
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón Silla de Ruedas,data_Federado,[],15,0,[],{}
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón Silla de Ruedas,data_LOCALIZADOR,[],15,0,[],{}
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón Silla de Ruedas,data_Language,[],15,0,[],{}
@@ -794,7 +700,6 @@ issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón Silla de Ruedas,dat
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón Silla de Ruedas,data_Localidad,[],15,0,[],{}
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón Silla de Ruedas,data_Medal,[],15,0,[],{}
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón Silla de Ruedas,data_Message,[],15,0,[],{}
-issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón Silla de Ruedas,data_Nacionalidad,[],15,0,[],{}
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón Silla de Ruedas,data_PAIS,[],15,0,[],{}
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón Silla de Ruedas,data_PAÍS,[],15,0,[],{}
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón Silla de Ruedas,data_PAíS,[],15,0,[],{}
@@ -829,7 +734,6 @@ issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón Silla de Ruedas,dat
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón Silla de Ruedas,data_surname,[],15,0,[],{}
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón Silla de Ruedas,data_team,[],15,0,[],{}
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón Silla de Ruedas,data_user_id,[],15,0,[],{}
-issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón Silla de Ruedas,data_wave,[],15,0,[],{}
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón Silla de Ruedas,event_id,['str'],0,0,['Maratón Silla de Ruedas'],{'str': ['Maratón Silla de Ruedas']}
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón Silla de Ruedas,issue_id,['str'],0,0,"['7149a2a0-ce2f-11ee-a4bc-fb43f15126f3', '903c2c40-ce67-11ee-b399-754fd902f9ac', '0047d010-ce3c-11ee-bd89-f93a4314e6fb', 'cf32b480-f0ce-11ee-aee6-73f61c279634']","{'str': ['7149a2a0-ce2f-11ee-a4bc-fb43f15126f3', '903c2c40-ce67-11ee-b399-754fd902f9ac', '0047d010-ce3c-11ee-bd89-f93a4314e6fb']}"
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-Maratón Silla de Ruedas,race_id,['str'],0,0,['609139b1-d6bd-4553-ac89-2f648787a60d'],{'str': ['609139b1-d6bd-4553-ac89-2f648787a60d']}
@@ -841,7 +745,6 @@ issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-independiente,data_Código P
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-independiente,data_Dorsal entregado,[],385,0,[],{}
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-independiente,data_EPC,[],385,0,[],{}
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-independiente,data_Email,[],385,0,[],{}
-issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-independiente,data_Emergency Phone,[],385,0,[],{}
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-independiente,data_Federado,[],385,0,[],{}
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-independiente,data_LOCALIZADOR,[],385,0,[],{}
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-independiente,data_Language,['str'],368,0,"['ES', 'EN']","{'str': ['ES', 'EN']}"
@@ -849,7 +752,6 @@ issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-independiente,data_Licencia,
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-independiente,data_Localidad,['str'],380,0,"['Malaga', 'Madrid', 'VALENCIA', 'Valencia']","{'str': ['Malaga', 'Madrid', 'VALENCIA']}"
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-independiente,data_Medal,[],385,0,[],{}
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-independiente,data_Message,[],385,0,[],{}
-issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-independiente,data_Nacionalidad,[],385,0,[],{}
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-independiente,data_PAIS,[],385,0,[],{}
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-independiente,data_PAÍS,[],385,0,[],{}
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-independiente,data_PAíS,[],385,0,[],{}
@@ -884,7 +786,6 @@ issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-independiente,data_statusNot
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-independiente,data_surname,['str'],358,0,"['PAREDES MEDINA', 'GARCIA NAVARRO', 'Thoralf', 'Ven Santen', 'Van Santen', 'Pires', 'SANTANA PEÑA', 'JIMENEZ MANZANO', 'MARTIN-VILLA', 'MARTIN VILLA']","{'str': ['PAREDES MEDINA', 'GARCIA NAVARRO', 'Thoralf']}"
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-independiente,data_team,[],385,0,[],{}
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-independiente,data_user_id,[],385,0,[],{}
-issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-independiente,data_wave,[],385,0,[],{}
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-independiente,event_id,['str'],0,0,['independiente'],{'str': ['independiente']}
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-independiente,issue_id,['str'],0,0,"['adf5afb0-cce9-11ee-a235-431f9746a5b1', '0fc61f40-ccea-11ee-a235-431f9746a5b1', '2c8e55c0-cd99-11ee-a81a-739d09f518bd', 'a0f87e80-ccb9-11ee-bae3-ed02110cc0ce', 'df5eae20-d096-11ee-9cc1-8348dba7d84c', '5653c170-ce4c-11ee-a471-31ea3d047657', '27237140-ce4a-11ee-a672-ef1696a2511d', 'c2450eb0-cea7-11ee-a86b-ad1cda081dfb', '95160e70-cd81-11ee-ad6d-c19eda286a77', 'd6e23ec0-d095-11ee-af2c-3ffb99949752']","{'str': ['adf5afb0-cce9-11ee-a235-431f9746a5b1', '0fc61f40-ccea-11ee-a235-431f9746a5b1', '2c8e55c0-cd99-11ee-a81a-739d09f518bd']}"
 issues_data_df,609139b1-d6bd-4553-ac89-2f648787a60d-independiente,race_id,['str'],0,0,['609139b1-d6bd-4553-ac89-2f648787a60d'],{'str': ['609139b1-d6bd-4553-ac89-2f648787a60d']}
@@ -896,7 +797,6 @@ issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac-Maratón,data_Código Postal
 issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac-Maratón,data_Dorsal entregado,[],48,0,[],{}
 issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac-Maratón,data_EPC,[],48,0,[],{}
 issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac-Maratón,data_Email,[],48,0,[],{}
-issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac-Maratón,data_Emergency Phone,[],48,0,[],{}
 issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac-Maratón,data_Federado,[],48,0,[],{}
 issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac-Maratón,data_LOCALIZADOR,[],48,0,[],{}
 issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac-Maratón,data_Language,[],48,0,[],{}
@@ -904,7 +804,6 @@ issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac-Maratón,data_Licencia,[],48
 issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac-Maratón,data_Localidad,[],48,0,[],{}
 issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac-Maratón,data_Medal,[],48,0,[],{}
 issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac-Maratón,data_Message,[],48,0,[],{}
-issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac-Maratón,data_Nacionalidad,[],48,0,[],{}
 issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac-Maratón,data_PAIS,[],48,0,[],{}
 issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac-Maratón,data_PAÍS,[],48,0,[],{}
 issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac-Maratón,data_PAíS,[],48,0,[],{}
@@ -939,7 +838,6 @@ issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac-Maratón,data_statusNote,[],
 issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac-Maratón,data_surname,[],48,0,[],{}
 issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac-Maratón,data_team,[],48,0,[],{}
 issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac-Maratón,data_user_id,[],48,0,[],{}
-issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac-Maratón,data_wave,[],48,0,[],{}
 issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac-Maratón,event_id,['str'],0,0,['Maratón'],{'str': ['Maratón']}
 issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac-Maratón,issue_id,['str'],0,0,"['f41eae90-d0ba-11ee-837d-a3d1e8fcf7e7', '816f9470-d0b7-11ee-a61e-c5d970642c85', '9472d410-d0b7-11ee-a61e-c5d970642c85', 'eb8ea210-d0b7-11ee-a61e-c5d970642c85', '01141fc0-d0b8-11ee-a61e-c5d970642c85', '275d7460-d0b8-11ee-a61e-c5d970642c85', '61614ab0-d0b8-11ee-a61e-c5d970642c85', '660e7f10-d0b8-11ee-a61e-c5d970642c85', '70c172f0-d0b8-11ee-a61e-c5d970642c85', '7e04fcc0-d0b8-11ee-a61e-c5d970642c85']","{'str': ['f41eae90-d0ba-11ee-837d-a3d1e8fcf7e7', '816f9470-d0b7-11ee-a61e-c5d970642c85', '9472d410-d0b7-11ee-a61e-c5d970642c85']}"
 issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac-Maratón,race_id,['str'],0,0,['72a81045-fb27-43e6-a201-b1d42be42fac'],{'str': ['72a81045-fb27-43e6-a201-b1d42be42fac']}
@@ -951,7 +849,6 @@ issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac-independiente,data_Código P
 issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac-independiente,data_Dorsal entregado,[],20436,0,[],{}
 issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac-independiente,data_EPC,[],20436,0,[],{}
 issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac-independiente,data_Email,['str'],20434,0,"['rachid1casa2014@gmail.com', 'wiki35@hotmail.com']","{'str': ['rachid1casa2014@gmail.com', 'wiki35@hotmail.com']}"
-issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac-independiente,data_Emergency Phone,[],20436,0,[],{}
 issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac-independiente,data_Federado,[],20436,0,[],{}
 issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac-independiente,data_LOCALIZADOR,[],20436,0,[],{}
 issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac-independiente,data_Language,[],20436,0,[],{}
@@ -959,7 +856,6 @@ issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac-independiente,data_Licencia,
 issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac-independiente,data_Localidad,[],20436,0,[],{}
 issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac-independiente,data_Medal,[],20436,0,[],{}
 issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac-independiente,data_Message,[],20436,0,[],{}
-issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac-independiente,data_Nacionalidad,[],20436,0,[],{}
 issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac-independiente,data_PAIS,[],20436,0,[],{}
 issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac-independiente,data_PAÍS,[],20436,0,[],{}
 issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac-independiente,data_PAíS,[],20436,0,[],{}
@@ -994,66 +890,10 @@ issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac-independiente,data_statusNot
 issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac-independiente,data_surname,['str'],20415,0,"['IZQUIERDO ELIZO ', 'Drief', 'TIZÓN VÁZQUEZ', 'LAGÜENS GALLEGO', 'RIVERA MOREJON', 'VLASSENROOT', 'XAVIER FONSECA DA SILVA', 'MUÑOZ BARROSO', 'ALKANOGLU', 'TOYOS FERNANDEZ']","{'str': ['IZQUIERDO ELIZO ', 'Drief', 'TIZÓN VÁZQUEZ']}"
 issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac-independiente,data_team,['str'],14511,0,"['CLUBE RAQUEL CABAÇO', 'BC TEAM', 'CAN CALCOHOTELS', 'OPENRUNNERS', 'FAGERHULT', 'CDA CAMAS', 'LAAC TWENTE', 'EQUIPE 10K', '3NORTH', 'LOS INDEPENDIENTES']","{'str': ['CLUBE RAQUEL CABAÇO', 'BC TEAM', 'CAN CALCOHOTELS']}"
 issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac-independiente,data_user_id,[],20436,0,[],{}
-issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac-independiente,data_wave,[],20436,0,[],{}
 issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac-independiente,event_id,['str'],0,0,['independiente'],{'str': ['independiente']}
 issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac-independiente,issue_id,['str'],0,0,"['cae101f0-b01c-11ed-8e66-894f10a55130', '3c378cc0-b027-11ed-bc27-97c41084d2d0', '7415c140-aee5-11ed-b5a0-61ee48222c61', '6cfeb210-b104-11ed-83ca-530d6ed73df8', '51caef80-b05b-11ed-adcf-5927552bed88', 'b43e1540-b03b-11ed-ba68-537e49dea274', '4b5e8750-b04d-11ed-ad25-87f69812e44a', '6dee9180-aead-11ed-979c-c5fb6d268fb5', 'aab67030-aeb5-11ed-bcd8-ff8731bd779e', 'b422b8d0-aeed-11ed-965b-3b0cabbbf768']","{'str': ['cae101f0-b01c-11ed-8e66-894f10a55130', '3c378cc0-b027-11ed-bc27-97c41084d2d0', '7415c140-aee5-11ed-b5a0-61ee48222c61']}"
 issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac-independiente,race_id,['str'],0,0,['72a81045-fb27-43e6-a201-b1d42be42fac'],{'str': ['72a81045-fb27-43e6-a201-b1d42be42fac']}
 issues_data_df,72a81045-fb27-43e6-a201-b1d42be42fac-independiente,event_std,['str'],0,0,['independiente'],{'str': ['independiente']}
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,athlete_id,"['str', 'int']",0,0,"[1269, 4247, 4019, 8476, 2110, 7346, 5848, 4915, 8804, 5014]","{'str': ['c60cac86-40d3-5a50-b356-fc5eb0f46af9', '1cd1deb6-650c-52d1-9699-d24afe4a0a49', '8d7e5cc7-0d27-536d-a5ed-397fc1a1a08a'], 'int': [1269, 4247, 4019]}"
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,data_Camiseta Finisher,[],1871,0,[],{}
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,data_Camiseta entregada,[],1871,0,[],{}
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,data_Código Postal,[],1871,0,[],{}
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,data_Dorsal entregado,[],1871,0,[],{}
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,data_EPC,[],1871,0,[],{}
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,data_Email,['str'],1870,0,['mark_toogood@yahoo.com'],{'str': ['mark_toogood@yahoo.com']}
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,data_Emergency Phone,['str'],1869,0,"['605092874', '655662660']","{'str': ['605092874', '655662660']}"
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,data_Federado,[],1871,0,[],{}
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,data_LOCALIZADOR,[],1871,0,[],{}
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,data_Language,[],1871,0,[],{}
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,data_Licencia,[],1871,0,[],{}
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,data_Localidad,[],1871,0,[],{}
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,data_Medal,[],1871,0,[],{}
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,data_Message,[],1871,0,[],{}
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,data_Nacionalidad,['str'],1869,0,"['Reino Unido', 'ESPAÑA']","{'str': ['Reino Unido', 'ESPAÑA']}"
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,data_PAIS,[],1871,0,[],{}
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,data_PAÍS,[],1871,0,[],{}
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,data_PAíS,[],1871,0,[],{}
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,data_Pais,[],1871,0,[],{}
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,data_País de residencia,[],1871,0,[],{}
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,data_Pers Contacto,[],1871,0,[],{}
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,data_Pic,[],1871,0,[],{}
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,data_Provincia,[],1871,0,[],{}
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,data_TALLA,[],1871,0,[],{}
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,data_TIEMPO ESTIMADO,[],1871,0,[],{}
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,data_Talla,[],1871,0,[],{}
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,data_Telf Emergencia,[],1871,0,[],{}
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,data_Teléfono emergencia,['str'],1870,0,['665581568'],{'str': ['665581568']}
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,data_UNIVERSIDAD,[],1871,0,[],{}
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,data_ZURICH,[],1871,0,[],{}
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,data_birthdate,['Timestamp'],1865,0,"[Timestamp('1965-07-01 00:00:00'), Timestamp('1980-07-01 00:00:00'), Timestamp('1980-01-01 00:00:00'), Timestamp('2022-01-01 00:00:00'), Timestamp('1968-01-28 00:00:00'), Timestamp('1978-01-01 00:00:00')]","{'Timestamp': [Timestamp('1965-07-01 00:00:00'), Timestamp('1980-07-01 00:00:00'), Timestamp('1980-01-01 00:00:00')]}"
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,data_category,['str'],1859,0,"['M50', 'M45', 'M40', 'Masculino']","{'str': ['M50', 'M45', 'M40']}"
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,data_club,['str'],1812,1,"['CDA CAMAS', 'ACCPL', 'LOS LENTOS', 'A.A.XAFATOLLS', 'ASICS', 'CLUB ATLETISMO BEIMAN', 'CA MARATON MARCHENA', '100 MARATHON CLUB', 'AATL', '']","{'str': ['CDA CAMAS', 'ACCPL', 'LOS LENTOS']}"
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,data_comments,[],1871,0,[],{}
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,data_document,['str'],1863,1,"['08996833S', '52674139E', '33971458K', '23987532H', '03846765S', 'EP6594091', '', '17762006A']","{'str': ['08996833S', '52674139E', '33971458K']}"
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,data_dorsal,['str'],1839,0,"['550', '5795', '10099', '11998', '10100', '10098', '6', '253', '12000', '10755']","{'str': ['550', '5795', '10099']}"
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,data_e-mail,[],1871,0,[],{}
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,data_event,['str'],1870,0,['Maratón Silla de Ruedas'],{'str': ['Maratón Silla de Ruedas']}
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,data_gender,['str'],1868,0,['male'],{'str': ['male']}
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,data_gunTime,[],1871,0,[],{}
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,data_medical reason,[],1871,0,[],{}
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,data_name,['str'],1865,0,"['JESÚS MARíA', 'FERNANDO', 'FRAN', 'EDUARDO', 'ANDRES', 'Dorsal']","{'str': ['JESÚS MARíA', 'FERNANDO', 'FRAN']}"
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,data_nationality,['str'],1868,1,"['GBR', 'ESP', '']","{'str': ['GBR', 'ESP', '']}"
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,data_phone,['str'],1870,0,['+44 00447791085332'],{'str': ['+44 00447791085332']}
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,data_status,['str'],513,0,"['retired', 'quarantine', 'disqualified']","{'str': ['retired', 'quarantine', 'disqualified']}"
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,data_statusNote,['str'],1837,0,"['SU PADRE CORRIO CON SU DORSAL', 'RFEA - Por falta de puntos de control', 'INDICADO JUECES']","{'str': ['SU PADRE CORRIO CON SU DORSAL', 'RFEA - Por falta de puntos de control', 'INDICADO JUECES']}"
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,data_surname,['str'],1855,0,"['RODRÍGUEZ LOPEZ', 'BORDIGNON', 'DIEGO SÁNCHEZ', 'GARCÍA GARCíA', 'CARRILLO SERRADELL', 'GARCÍA GONZALEZ', 'ALVAREZ PONCE', 'APARICIO CARRASCOSA', 'LOZANO GRIJOTA', 'CHIMDESA KUMSA']","{'str': ['RODRÍGUEZ LOPEZ', 'BORDIGNON', 'DIEGO SÁNCHEZ']}"
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,data_team,['str'],1870,0,['Los Lentos'],{'str': ['Los Lentos']}
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,data_user_id,[],1871,0,[],{}
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,data_wave,['str'],1870,0,['Maratón Silla de Ruedas'],{'str': ['Maratón Silla de Ruedas']}
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,event_id,['str'],0,0,['independiente'],{'str': ['independiente']}
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,issue_id,['str'],0,0,"['2b2b1810-9256-11ec-ab3e-1f2d1eb9663d', '1aafa3d0-90ed-11ec-b566-21716ccf5a1a', 'b0db3f80-9107-11ec-8200-edad9d58d0b0', 'c7dcf3e0-922e-11ec-bd24-cb1c756a584c', 'f605eb70-93cb-11ec-b999-cfb651696c46', 'e6070260-922f-11ec-bd24-cb1c756a584c', '31f6c4b0-93cc-11ec-b999-cfb651696c46', 'f3e6afb0-9230-11ec-bd24-cb1c756a584c', 'c3ad4860-94a9-11ec-a4db-ad133e8926c7', 'c43253b0-9234-11ec-90e1-a54d31285d70']","{'str': ['2b2b1810-9256-11ec-ab3e-1f2d1eb9663d', '1aafa3d0-90ed-11ec-b566-21716ccf5a1a', 'b0db3f80-9107-11ec-8200-edad9d58d0b0']}"
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,race_id,['str'],0,0,['8bbfdd2e-da3d-4934-a1c5-8fbd303d4974'],{'str': ['8bbfdd2e-da3d-4934-a1c5-8fbd303d4974']}
-issues_data_df,8bbfdd2e-da3d-4934-a1c5-8fbd303d4974-independiente,event_std,['str'],0,0,['independiente'],{'str': ['independiente']}
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón,athlete_id,"['str', 'int']",0,0,"[8250, '8250', 904, '904', 6776, '6776', 7240, '7240', 8354, '8354']","{'str': ['8250', '904', '6776'], 'int': [8250, 904, 6776]}"
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón,data_Camiseta Finisher,['str'],69421,0,"['XL-Hombre', 'M-Hombre', 'L-Hombre', 'S-Mujer', 'S-Hombre', 'M-Mujer', 'XS-Hombre', 'XS-Mujer', 'XXL-Hombre', 'XL-Mujer']","{'str': ['XL-Hombre', 'M-Hombre', 'L-Hombre']}"
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón,data_Camiseta entregada,[],69507,0,[],{}
@@ -1061,7 +901,6 @@ issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón,data_Código Postal
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón,data_Dorsal entregado,[],69507,0,[],{}
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón,data_EPC,[],69507,0,[],{}
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón,data_Email,[],69507,0,[],{}
-issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón,data_Emergency Phone,[],69507,0,[],{}
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón,data_Federado,[],69507,0,[],{}
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón,data_LOCALIZADOR,[],69507,0,[],{}
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón,data_Language,['str'],55779,0,"['es', 'en']","{'str': ['es', 'en']}"
@@ -1069,7 +908,6 @@ issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón,data_Licencia,[],69
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón,data_Localidad,[],69507,0,[],{}
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón,data_Medal,[],69507,0,[],{}
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón,data_Message,[],69507,0,[],{}
-issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón,data_Nacionalidad,[],69507,0,[],{}
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón,data_PAIS,[],69507,0,[],{}
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón,data_PAÍS,[],69507,0,[],{}
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón,data_PAíS,[],69507,0,[],{}
@@ -1104,7 +942,6 @@ issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón,data_statusNote,[],
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón,data_surname,[],69507,0,[],{}
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón,data_team,[],69507,0,[],{}
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón,data_user_id,[],69507,0,[],{}
-issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón,data_wave,[],69507,0,[],{}
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón,event_id,['str'],0,0,['Maratón'],{'str': ['Maratón']}
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón,issue_id,['str'],0,0,"['b9679bf0-eeae-11ef-8d6b-2d20f644acaf', 'c13b2120-eeaf-11ef-8d6b-2d20f644acaf', 'bbf0c190-eedf-11ef-aefd-4527d5007596', '05cca970-f1b8-11ef-b5fd-bf8734a7469a', '099faa70-f1b8-11ef-9681-733b5a1624ca', '7b89e260-f1c5-11ef-b5ab-7579202c6cfd', '0c9d8f30-f05a-11ef-bbbc-35143f66ea59', '59f391b0-f1c9-11ef-b5ab-7579202c6cfd', '12a34300-f1ec-11ef-bc25-9fbe5786f204', 'ea0ab3c0-f1d6-11ef-8383-3976fbc3433a']","{'str': ['b9679bf0-eeae-11ef-8d6b-2d20f644acaf', 'c13b2120-eeaf-11ef-8d6b-2d20f644acaf', 'bbf0c190-eedf-11ef-aefd-4527d5007596']}"
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón,race_id,['str'],0,0,['af5c5746-04e8-42ab-9610-b12f0d9125b1'],{'str': ['af5c5746-04e8-42ab-9610-b12f0d9125b1']}
@@ -1116,7 +953,6 @@ issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón Silla de Ruedas,dat
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón Silla de Ruedas,data_Dorsal entregado,[],28,0,[],{}
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón Silla de Ruedas,data_EPC,[],28,0,[],{}
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón Silla de Ruedas,data_Email,[],28,0,[],{}
-issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón Silla de Ruedas,data_Emergency Phone,[],28,0,[],{}
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón Silla de Ruedas,data_Federado,[],28,0,[],{}
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón Silla de Ruedas,data_LOCALIZADOR,[],28,0,[],{}
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón Silla de Ruedas,data_Language,[],28,0,[],{}
@@ -1124,7 +960,6 @@ issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón Silla de Ruedas,dat
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón Silla de Ruedas,data_Localidad,[],28,0,[],{}
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón Silla de Ruedas,data_Medal,[],28,0,[],{}
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón Silla de Ruedas,data_Message,[],28,0,[],{}
-issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón Silla de Ruedas,data_Nacionalidad,[],28,0,[],{}
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón Silla de Ruedas,data_PAIS,[],28,0,[],{}
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón Silla de Ruedas,data_PAÍS,[],28,0,[],{}
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón Silla de Ruedas,data_PAíS,[],28,0,[],{}
@@ -1159,7 +994,6 @@ issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón Silla de Ruedas,dat
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón Silla de Ruedas,data_surname,[],28,0,[],{}
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón Silla de Ruedas,data_team,[],28,0,[],{}
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón Silla de Ruedas,data_user_id,[],28,0,[],{}
-issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón Silla de Ruedas,data_wave,[],28,0,[],{}
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón Silla de Ruedas,event_id,['str'],0,0,['Maratón Silla de Ruedas'],{'str': ['Maratón Silla de Ruedas']}
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón Silla de Ruedas,issue_id,['str'],0,0,"['dc85f350-f1b7-11ef-9681-733b5a1624ca', 'e5f73f70-f1b7-11ef-9681-733b5a1624ca']","{'str': ['dc85f350-f1b7-11ef-9681-733b5a1624ca', 'e5f73f70-f1b7-11ef-9681-733b5a1624ca']}"
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-Maratón Silla de Ruedas,race_id,['str'],0,0,['af5c5746-04e8-42ab-9610-b12f0d9125b1'],{'str': ['af5c5746-04e8-42ab-9610-b12f0d9125b1']}
@@ -1171,7 +1005,6 @@ issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-independiente,data_Código P
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-independiente,data_Dorsal entregado,['str'],3032,0,['Sí'],{'str': ['Sí']}
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-independiente,data_EPC,[],15297,0,[],{}
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-independiente,data_Email,[],15297,0,[],{}
-issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-independiente,data_Emergency Phone,[],15297,0,[],{}
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-independiente,data_Federado,[],15297,0,[],{}
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-independiente,data_LOCALIZADOR,[],15297,0,[],{}
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-independiente,data_Language,['str'],15157,0,"['en', 'es']","{'str': ['en', 'es']}"
@@ -1179,7 +1012,6 @@ issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-independiente,data_Licencia,
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-independiente,data_Localidad,[],15297,0,[],{}
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-independiente,data_Medal,[],15297,0,[],{}
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-independiente,data_Message,[],15297,0,[],{}
-issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-independiente,data_Nacionalidad,[],15297,0,[],{}
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-independiente,data_PAIS,[],15297,0,[],{}
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-independiente,data_PAÍS,[],15297,0,[],{}
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-independiente,data_PAíS,[],15297,0,[],{}
@@ -1214,7 +1046,6 @@ issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-independiente,data_statusNot
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-independiente,data_surname,['str'],15283,0,"['LOZANO GRIJOTA', 'PANFILI', 'BAENA', 'SANTANO ARAUJO ', 'ARMENGOL NOGUÉS', 'GI', 'PAISANA DOMINGOS', 'GASQUET', 'LUCZKO', 'ABEDELKABIR']","{'str': ['LOZANO GRIJOTA', 'PANFILI', 'BAENA']}"
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-independiente,data_team,[],15297,0,[],{}
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-independiente,data_user_id,['str'],15296,0,['923224'],{'str': ['923224']}
-issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-independiente,data_wave,[],15297,0,[],{}
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-independiente,event_id,['str'],0,0,['independiente'],{'str': ['independiente']}
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-independiente,issue_id,['str'],0,0,"['503e59b0-f053-11ef-bbbc-35143f66ea59', 'fcdd20b0-f068-11ef-b218-fb61d00176ce', '86bde0a0-f116-11ef-ab52-a370d8c13a19', '9bd953e0-f100-11ef-a2c1-b9824f2d9865', '45d1c850-f13d-11ef-93f3-b5c9923149ec', '16fe0b60-f05c-11ef-825d-6b75750d6367', '8a928e40-f1e5-11ef-b566-eba78b79bb6f', '0fc32c80-f1f7-11ef-bc25-9fbe5786f204', 'd45373d0-f07a-11ef-b8ff-637d1e82c0cd', '4a737b20-f065-11ef-825d-6b75750d6367']","{'str': ['503e59b0-f053-11ef-bbbc-35143f66ea59', 'fcdd20b0-f068-11ef-b218-fb61d00176ce', '86bde0a0-f116-11ef-ab52-a370d8c13a19']}"
 issues_data_df,af5c5746-04e8-42ab-9610-b12f0d9125b1-independiente,race_id,['str'],0,0,['af5c5746-04e8-42ab-9610-b12f0d9125b1'],{'str': ['af5c5746-04e8-42ab-9610-b12f0d9125b1']}
@@ -1226,7 +1057,6 @@ issues_data_df,c9ddd2cc-1f02-4469-82cb-a0627e1b82fc-independiente,data_Código P
 issues_data_df,c9ddd2cc-1f02-4469-82cb-a0627e1b82fc-independiente,data_Dorsal entregado,[],28120,0,[],{}
 issues_data_df,c9ddd2cc-1f02-4469-82cb-a0627e1b82fc-independiente,data_EPC,[],28120,0,[],{}
 issues_data_df,c9ddd2cc-1f02-4469-82cb-a0627e1b82fc-independiente,data_Email,[],28120,0,[],{}
-issues_data_df,c9ddd2cc-1f02-4469-82cb-a0627e1b82fc-independiente,data_Emergency Phone,[],28120,0,[],{}
 issues_data_df,c9ddd2cc-1f02-4469-82cb-a0627e1b82fc-independiente,data_Federado,[],28120,0,[],{}
 issues_data_df,c9ddd2cc-1f02-4469-82cb-a0627e1b82fc-independiente,data_LOCALIZADOR,[],28120,0,[],{}
 issues_data_df,c9ddd2cc-1f02-4469-82cb-a0627e1b82fc-independiente,data_Language,[],28120,0,[],{}
@@ -1234,7 +1064,6 @@ issues_data_df,c9ddd2cc-1f02-4469-82cb-a0627e1b82fc-independiente,data_Licencia,
 issues_data_df,c9ddd2cc-1f02-4469-82cb-a0627e1b82fc-independiente,data_Localidad,[],28120,0,[],{}
 issues_data_df,c9ddd2cc-1f02-4469-82cb-a0627e1b82fc-independiente,data_Medal,[],28120,0,[],{}
 issues_data_df,c9ddd2cc-1f02-4469-82cb-a0627e1b82fc-independiente,data_Message,[],28120,0,[],{}
-issues_data_df,c9ddd2cc-1f02-4469-82cb-a0627e1b82fc-independiente,data_Nacionalidad,[],28120,0,[],{}
 issues_data_df,c9ddd2cc-1f02-4469-82cb-a0627e1b82fc-independiente,data_PAIS,[],28120,0,[],{}
 issues_data_df,c9ddd2cc-1f02-4469-82cb-a0627e1b82fc-independiente,data_PAÍS,[],28120,0,[],{}
 issues_data_df,c9ddd2cc-1f02-4469-82cb-a0627e1b82fc-independiente,data_PAíS,[],28120,0,[],{}
@@ -1269,7 +1098,6 @@ issues_data_df,c9ddd2cc-1f02-4469-82cb-a0627e1b82fc-independiente,data_statusNot
 issues_data_df,c9ddd2cc-1f02-4469-82cb-a0627e1b82fc-independiente,data_surname,['str'],28117,0,"['LETEMPLIER', 'VESELÝ', 'GUILLET']","{'str': ['LETEMPLIER', 'VESELÝ', 'GUILLET']}"
 issues_data_df,c9ddd2cc-1f02-4469-82cb-a0627e1b82fc-independiente,data_team,[],28120,0,[],{}
 issues_data_df,c9ddd2cc-1f02-4469-82cb-a0627e1b82fc-independiente,data_user_id,[],28120,0,[],{}
-issues_data_df,c9ddd2cc-1f02-4469-82cb-a0627e1b82fc-independiente,data_wave,[],28120,0,[],{}
 issues_data_df,c9ddd2cc-1f02-4469-82cb-a0627e1b82fc-independiente,event_id,['str'],0,0,['independiente'],{'str': ['independiente']}
 issues_data_df,c9ddd2cc-1f02-4469-82cb-a0627e1b82fc-independiente,issue_id,['str'],0,0,"['a469f680-c629-11ed-ad30-8d6dc7ddf415', 'f1dd4db0-c627-11ed-a258-c351dc897af5', 'f5de6390-c627-11ed-a258-c351dc897af5', '8c053360-c639-11ed-b9e0-2fb62e418e44', '7ac49b10-c628-11ed-a258-c351dc897af5', '81a1a7c0-c628-11ed-a258-c351dc897af5', '642e10a0-c62a-11ed-ad30-8d6dc7ddf415', '0feb48b0-c629-11ed-8d97-9b34419c1cb0', '5d528000-c629-11ed-ad30-8d6dc7ddf415', 'bb592ed0-c654-11ed-bf5a-81e92fb13f09']","{'str': ['a469f680-c629-11ed-ad30-8d6dc7ddf415', 'f1dd4db0-c627-11ed-a258-c351dc897af5', 'f5de6390-c627-11ed-a258-c351dc897af5']}"
 issues_data_df,c9ddd2cc-1f02-4469-82cb-a0627e1b82fc-independiente,race_id,['str'],0,0,['c9ddd2cc-1f02-4469-82cb-a0627e1b82fc'],{'str': ['c9ddd2cc-1f02-4469-82cb-a0627e1b82fc']}
@@ -1281,7 +1109,6 @@ issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-Campionat de Catalunya,data_
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-Campionat de Catalunya,data_Dorsal entregado,[],13,0,[],{}
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-Campionat de Catalunya,data_EPC,[],13,0,[],{}
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-Campionat de Catalunya,data_Email,[],13,0,[],{}
-issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-Campionat de Catalunya,data_Emergency Phone,[],13,0,[],{}
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-Campionat de Catalunya,data_Federado,[],13,0,[],{}
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-Campionat de Catalunya,data_LOCALIZADOR,[],13,0,[],{}
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-Campionat de Catalunya,data_Language,[],13,0,[],{}
@@ -1289,7 +1116,6 @@ issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-Campionat de Catalunya,data_
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-Campionat de Catalunya,data_Localidad,[],13,0,[],{}
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-Campionat de Catalunya,data_Medal,[],13,0,[],{}
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-Campionat de Catalunya,data_Message,[],13,0,[],{}
-issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-Campionat de Catalunya,data_Nacionalidad,[],13,0,[],{}
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-Campionat de Catalunya,data_PAIS,[],13,0,[],{}
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-Campionat de Catalunya,data_PAÍS,[],13,0,[],{}
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-Campionat de Catalunya,data_PAíS,[],13,0,[],{}
@@ -1324,7 +1150,6 @@ issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-Campionat de Catalunya,data_
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-Campionat de Catalunya,data_surname,[],13,0,[],{}
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-Campionat de Catalunya,data_team,[],13,0,[],{}
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-Campionat de Catalunya,data_user_id,[],13,0,[],{}
-issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-Campionat de Catalunya,data_wave,[],13,0,[],{}
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-Campionat de Catalunya,event_id,['str'],0,0,['Campionat de Catalunya'],{'str': ['Campionat de Catalunya']}
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-Campionat de Catalunya,issue_id,['str'],0,0,"['a4e0d810-e048-11ee-9dc7-8965907389b6', '8485a6d0-e049-11ee-ba1a-55e4ffe40811', '9ed3f730-e049-11ee-ba1a-55e4ffe40811', '3051f140-e823-11ee-8687-a10238e97a61']","{'str': ['a4e0d810-e048-11ee-9dc7-8965907389b6', '8485a6d0-e049-11ee-ba1a-55e4ffe40811', '9ed3f730-e049-11ee-ba1a-55e4ffe40811']}"
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-Campionat de Catalunya,race_id,['str'],0,0,['d221bcb0-4242-4ad9-aa5d-706446341917'],{'str': ['d221bcb0-4242-4ad9-aa5d-706446341917']}
@@ -1336,7 +1161,6 @@ issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-Marato,data_Código Postal,[
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-Marato,data_Dorsal entregado,[],82727,0,[],{}
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-Marato,data_EPC,[],82727,0,[],{}
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-Marato,data_Email,[],82727,0,[],{}
-issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-Marato,data_Emergency Phone,[],82727,0,[],{}
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-Marato,data_Federado,[],82727,0,[],{}
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-Marato,data_LOCALIZADOR,[],82727,0,[],{}
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-Marato,data_Language,[],82727,0,[],{}
@@ -1344,7 +1168,6 @@ issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-Marato,data_Licencia,[],8272
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-Marato,data_Localidad,[],82727,0,[],{}
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-Marato,data_Medal,['str'],82726,0,['Yes'],{'str': ['Yes']}
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-Marato,data_Message,[],82727,0,[],{}
-issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-Marato,data_Nacionalidad,[],82727,0,[],{}
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-Marato,data_PAIS,[],82727,0,[],{}
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-Marato,data_PAÍS,[],82727,0,[],{}
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-Marato,data_PAíS,[],82727,0,[],{}
@@ -1379,7 +1202,6 @@ issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-Marato,data_statusNote,['str
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-Marato,data_surname,[],82727,0,[],{}
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-Marato,data_team,[],82727,0,[],{}
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-Marato,data_user_id,[],82727,0,[],{}
-issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-Marato,data_wave,[],82727,0,[],{}
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-Marato,event_id,['str'],0,0,['Marato'],{'str': ['Marato']}
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-Marato,issue_id,['str'],0,0,"['03884030-deb2-11ee-8015-87fae528eb72', 'a46c03a0-2fd0-11ef-98f8-d59e30dfb36c', '6124eeb0-2fd3-11ef-98f8-d59e30dfb36c', '95ffe550-deb0-11ee-8015-87fae528eb72', '9b78f530-deb0-11ee-8015-87fae528eb72', '8c698a90-dee8-11ee-881d-43d528934470', '0b81c3f0-deb3-11ee-b753-1d6289e39cd7', '39540790-deb1-11ee-8015-87fae528eb72', '411cd3d0-deb1-11ee-8015-87fae528eb72', 'f25ac240-dec2-11ee-879f-b9d4c1695fe7']","{'str': ['03884030-deb2-11ee-8015-87fae528eb72', 'a46c03a0-2fd0-11ef-98f8-d59e30dfb36c', '6124eeb0-2fd3-11ef-98f8-d59e30dfb36c']}"
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-Marato,race_id,['str'],0,0,['d221bcb0-4242-4ad9-aa5d-706446341917'],{'str': ['d221bcb0-4242-4ad9-aa5d-706446341917']}
@@ -1391,7 +1213,6 @@ issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-independiente,data_Código P
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-independiente,data_Dorsal entregado,[],45065,0,[],{}
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-independiente,data_EPC,['str'],45051,1,"['00693D5100000000', '00693D4D00000000', '00693D4C00000000', '00693D4B00000000', '00693D4E00000000', '00693D5000000000', '00693D5300000000', '00693D5400000000', '00693D4F00000000', 'kjhghjkg']","{'str': ['00693D5100000000', '00693D4D00000000', '00693D4C00000000']}"
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-independiente,data_Email,[],45065,0,[],{}
-issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-independiente,data_Emergency Phone,[],45065,0,[],{}
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-independiente,data_Federado,['str'],41892,0,"['S’', 'Si']","{'str': ['S’', 'Si']}"
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-independiente,data_LOCALIZADOR,['str'],45064,0,['123457'],{'str': ['123457']}
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-independiente,data_Language,[],45065,0,[],{}
@@ -1399,7 +1220,6 @@ issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-independiente,data_Licencia,
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-independiente,data_Localidad,[],45065,0,[],{}
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-independiente,data_Medal,[],45065,0,[],{}
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-independiente,data_Message,['str'],45048,8,"['', 'BRRM is with you all the way to the finish line!', ""We're with you Santa"", 'We’re with you Santa', ""Nick you're the best!!!"", ""You''re the best!"", 'You’re the best!', 'Show who the Roadrunner is!', 'Matt, prove who the Roadrunner is!']","{'str': ['', 'BRRM is with you all the way to the finish line!', ""We're with you Santa""]}"
-issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-independiente,data_Nacionalidad,[],45065,0,[],{}
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-independiente,data_PAIS,['str'],45061,4,[''],{'str': ['']}
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-independiente,data_PAÍS,['str'],45054,0,"['España', 'Marruecos', 'MA', 'Kenya', 'Argelia', 'Egipto']","{'str': ['España', 'Marruecos', 'MA']}"
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-independiente,data_PAíS,['str'],45063,2,[''],{'str': ['']}
@@ -1434,7 +1254,6 @@ issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-independiente,data_statusNot
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-independiente,data_surname,['str'],45050,0,"['Bartolome Fernandez', 'Nicolas Moreno', 'Parker', 'Dusza', 'Glisic', 'Bertran Bernardez', 'Mads', 'Saez Celemin', 'Crespo Godino', 'Sirvent']","{'str': ['Bartolome Fernandez', 'Nicolas Moreno', 'Parker']}"
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-independiente,data_team,[],45065,0,[],{}
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-independiente,data_user_id,[],45065,0,[],{}
-issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-independiente,data_wave,[],45065,0,[],{}
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-independiente,event_id,['str'],0,0,['independiente'],{'str': ['independiente']}
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-independiente,issue_id,['str'],0,0,"['10c93520-deb6-11ee-b753-1d6289e39cd7', '3f281670-deb6-11ee-b753-1d6289e39cd7', 'bbbd9580-df91-11ee-8e5d-ed6febd7b78b', '21d87790-e064-11ee-85ba-1756e5382143', '9e66d200-df8f-11ee-8d7b-d168ab6c5531', '1e9c40c0-df92-11ee-8c89-3b21490cf7b2', 'd3108ac0-df92-11ee-8c89-3b21490cf7b2', 'ab0c3fb0-df92-11ee-8c89-3b21490cf7b2', '55240400-deb3-11ee-b753-1d6289e39cd7', 'a05361f0-df9e-11ee-b7ed-175681abee2c']","{'str': ['10c93520-deb6-11ee-b753-1d6289e39cd7', '3f281670-deb6-11ee-b753-1d6289e39cd7', 'bbbd9580-df91-11ee-8e5d-ed6febd7b78b']}"
 issues_data_df,d221bcb0-4242-4ad9-aa5d-706446341917-independiente,race_id,['str'],0,0,['d221bcb0-4242-4ad9-aa5d-706446341917'],{'str': ['d221bcb0-4242-4ad9-aa5d-706446341917']}
