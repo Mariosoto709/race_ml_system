@@ -42,5 +42,49 @@
     {
         "race_id": "d221bcb0-4242-4ad9-aa5d-706446341917",
         "race_name": "zurich-marato-barcelona-2024"
+    },
+    {
+        "race_id": "7841bfc5-ffb6-4111-b0e4-01bfab9c336e",
+        "race_name": "44-zurich-maraton-san-sebastian-2022"
+    },
+    {
+        "race_id": "27775308-36b8-49dd-9bb6-1c9b72e1159a",
+        "race_name": "45-zurich-maraton-san-sebastian-2023"
+    },
+    {
+        "race_id": "73840d47-8712-4de3-94e4-0bd3f467aedf",
+        "race_name": "maratn-powerade-monterrey-2023"
+    },
+    {
+        "race_id": "b9237ca4-693e-4b25-b350-0307be4ec892",
+        "race_name": "maratn-powerade-monterrey-2024"
+    },
+    {
+        "race_id": "2def4522-a96a-4df5-92a4-d4030ec2a5be",
+        "race_name": "maraton-internacional-de-san-sebastian-2025"
+    },
+    {
+        "race_id": "7a5c751e-edee-49f9-8db3-b5433836f3f8",
+        "race_name": "maraton-powerade-2022"
+    },
+    {
+        "race_id": "704ad13c-e4ec-463c-8e79-c3cb8044a616",
+        "race_name": "maraton-powerade-monterrey-2025"
+    },
+    {
+        "race_id": "d266faaa-7528-4d33-915f-37eb6afc7735",
+        "race_name": "quertaro-maratn-2022"
+    },
+    {
+        "race_id": "482f1864-17d0-47f6-bdb1-477551403f7f",
+        "race_name": "quertaro-maratn-2023"
+    },
+    {
+        "race_id": "ee6c309a-10c5-4934-b009-e9a9f81a3074",
+        "race_name": "quertaro-maratn-2024"
+    },
+    {
+        "race_id": "7097ad2f-ef93-4e4f-9728-d07325269237",
+        "race_name": "quertaro-maratn-2025"
     }
 ]

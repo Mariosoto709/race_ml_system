@@ -1,77 +1,83 @@
 DF,Columna,Tipo,Ejemplo
-athletes_df,athlete_id,object,200
-athletes_df,birthdate,datetime64[ns],1991-03-03 00:00:00
-athletes_df,club,object,MARRUECOS
-athletes_df,fullName,object,EL MAHJOUB DAZZA
+athletes_df,athlete_id,object,14142167
+athletes_df,birthdate,datetime64[ns],1969-05-31 00:00:00
+athletes_df,club,object,Independiente
+athletes_df,fullName,object,ROBERTO RODRIGUEZ LOPEZ
 athletes_df,gender,object,male
-athletes_df,name,object,EL MAHJOUB
-athletes_df,nationality,object,MAR
-athletes_df,race_id,object,af5c5746-04e8-42ab-9610-b12f0d9125b1
-athletes_df,surname,object,DAZZA
-athletes_events_df,athlete_id,object,200
+athletes_df,name,object,ROBERTO
+athletes_df,nationality,object,ESP
+athletes_df,race_id,object,7841bfc5-ffb6-4111-b0e4-01bfab9c336e
+athletes_df,surname,object,RODRIGUEZ LOPEZ
+athletes_events_df,athlete_id,object,14142167
 athletes_events_df,auto_category,object,True
 athletes_events_df,auto_chip,object,True
-athletes_events_df,category,object,SENIOR M
-athletes_events_df,distance,int64,42195
-athletes_events_df,dorsal,object,200
+athletes_events_df,category,object,Master 50 Masc.
+athletes_events_df,distance,int64,20000
+athletes_events_df,dorsal,object,2827
 athletes_events_df,event_id,object,Maratón
-athletes_events_df,gunTime,object,2025-02-23T07:30:10.000Z
+athletes_events_df,gunTime,object,2023-11-26T07:59:49.001Z
 athletes_events_df,gunTimeMode,object,wave
 athletes_events_df,gunTimeModeConfig_wave,object,Maratón
-athletes_events_df,last_split_seen,object,Meta
+athletes_events_df,last_split_seen,object,20k
 athletes_events_df,maxConsecutiveSplitsMissing,int64,0
-athletes_events_df,race_id,object,af5c5746-04e8-42ab-9610-b12f0d9125b1
-athletes_events_df,realStatus,object,finished
+athletes_events_df,race_id,object,7841bfc5-ffb6-4111-b0e4-01bfab9c336e
+athletes_events_df,realStatus,object,running
 athletes_events_df,splitsMissing,int64,0
-athletes_events_df,splitsSeen,int64,14
-athletes_events_df,startNetTime,float64,10.0
-athletes_events_df,startRawTime,datetime64[ns],2025-02-23 07:30:10.010000
-athletes_events_df,startTime,float64,10.0
-athletes_events_df,status,object,finished
-athletes_events_df,team,object,MARRUECOS
+athletes_events_df,splitsSeen,int64,8
+athletes_events_df,startNetTime,float64,101640.0
+athletes_events_df,startRawTime,datetime64[ns],2022-11-27 08:01:40.640000
+athletes_events_df,startTime,float64,101640.0
+athletes_events_df,status,object,retired
+athletes_events_df,team,object,
 athletes_events_df,event_std,object,maraton
-athletes_events_df,startNetTime_td,timedelta64[ns],0 days 00:00:00.010000
-athletes_events_df,startTime_td,timedelta64[ns],0 days 00:00:00.010000
-athletes_time_df,athlete_id,object,200
+athletes_events_df,startNetTime_td,timedelta64[ns],0 days 00:01:41.640000
+athletes_events_df,startTime_td,timedelta64[ns],0 days 00:01:41.640000
+athletes_time_df,athlete_id,object,14142167
 athletes_time_df,average,float64,0.0
 athletes_time_df,distance,int64,0
 athletes_time_df,event_id,object,Maratón
 athletes_time_df,incidence,object,True
-athletes_time_df,isBackup,object,False
+athletes_time_df,isBackup,object,True
 athletes_time_df,netTime,int64,0
-athletes_time_df,offset,float64,0.0
+athletes_time_df,offset,float64,-1000.0
 athletes_time_df,order,int64,1
-athletes_time_df,race_id,object,af5c5746-04e8-42ab-9610-b12f0d9125b1
-athletes_time_df,rawTime,datetime64[ns],2025-02-23 07:30:10.010000
+athletes_time_df,race_id,object,7841bfc5-ffb6-4111-b0e4-01bfab9c336e
+athletes_time_df,rawTime,datetime64[ns],2022-11-27 08:01:40.640000
 athletes_time_df,split,object,Salida
-athletes_time_df,time,int64,10
+athletes_time_df,time,int64,101640
 athletes_time_df,event_std,object,maraton
 athletes_time_df,netTime_td,timedelta64[ns],0 days 00:00:00
-athletes_time_df,time_td,timedelta64[ns],0 days 00:00:00.010000
-issues_df,athlete_id,object,8250
-issues_df,event_id,object,Maratón
-issues_df,issue_id,object,b9679bf0-eeae-11ef-8d6b-2d20f644acaf
-issues_df,race_id,object,af5c5746-04e8-42ab-9610-b12f0d9125b1
-issues_df,time,datetime64[ns],2025-02-19 10:46:07.407000
+athletes_time_df,time_td,timedelta64[ns],0 days 00:01:41.640000
+issues_df,athlete_id,object,17853732
+issues_df,event_id,object,independiente
+issues_df,issue_id,object,14913170-70b3-11ed-b25a-add4d83290d4
+issues_df,race_id,object,7841bfc5-ffb6-4111-b0e4-01bfab9c336e
+issues_df,time,datetime64[ns],2022-11-30 13:29:56.499000
 issues_df,type,object,changeRanking
-issues_df,event_std,object,maraton
-issues_data_df,athlete_id,object,8250
+issues_df,event_std,object,independiente
+issues_data_df,athlete_id,object,17853732
 issues_data_df,data_Camiseta Finisher,object,XL-Hombre
 issues_data_df,data_Camiseta entregada,object,Sí
+issues_data_df,data_CÓDIGO POSTAL,object,
 issues_data_df,data_Código Postal,object,46015
 issues_data_df,data_Dorsal entregado,object,Sí
 issues_data_df,data_EPC,object,00693D5100000000
 issues_data_df,data_Email,object,rachid1casa2014@gmail.com
+issues_data_df,data_Emergency Phone,object,655662660
 issues_data_df,data_Federado,object,S’
+issues_data_df,data_LICENCIA,object,2496104
 issues_data_df,data_LOCALIZADOR,object,123457
 issues_data_df,data_Language,object,es
 issues_data_df,data_Licencia,object,
 issues_data_df,data_Localidad,object,Malaga
 issues_data_df,data_Medal,object,Yes
 issues_data_df,data_Message,object,
+issues_data_df,data_Nacionalidad,object,ESPAÑA
 issues_data_df,data_PAIS,object,
-issues_data_df,data_PAÍS,object,España
+issues_data_df,data_PAÍS,object,Francia
 issues_data_df,data_PAíS,object,
+issues_data_df,data_POBLACIÓN,object,
+issues_data_df,data_PROVINCIA,object,Pirineos Atlánticos
 issues_data_df,data_Pais,object,PERÚ
 issues_data_df,data_País de residencia,object,Marruecos
 issues_data_df,data_Pers Contacto,object,Vanesa
@@ -84,32 +90,37 @@ issues_data_df,data_Telf Emergencia,object,+3463847975
 issues_data_df,data_Teléfono emergencia,object,630466419
 issues_data_df,data_UNIVERSIDAD,object,UOC
 issues_data_df,data_ZURICH,object,ZURICH_pago
-issues_data_df,data_birthdate,datetime64[ns],1988-02-07 00:00:00
-issues_data_df,data_category,object,M45
-issues_data_df,data_club,object,ASD PODISTICA BARCELLONA
-issues_data_df,data_comments,object,Compromiso Yomury
-issues_data_df,data_document,object,33987532H
-issues_data_df,data_dorsal,object,1919
+issues_data_df,data_birthdate,datetime64[ns],1990-01-01 00:00:00
+issues_data_df,data_category,object,General F
+issues_data_df,data_club,object,Independiente
+issues_data_df,data_comments,object,PARECE UN CHICO
+issues_data_df,data_document,object,"1,90864E+11"
+issues_data_df,data_dorsal,object,5271
 issues_data_df,data_e-mail,object,pulido_corte@hotmail.com
-issues_data_df,data_event,object,Marató
-issues_data_df,data_gender,object,female
-issues_data_df,data_gunTime,object,2023-02-19T07:30:05.988Z
+issues_data_df,data_event,object,Media Maratón
+issues_data_df,data_featured,object,Yes
+issues_data_df,data_federado,object,
+issues_data_df,data_gender,object,male
+issues_data_df,data_gunTime,object,2022-12-11T12:43:56.000Z
+issues_data_df,data_gunTimeMode,object,wave
 issues_data_df,data_medical reason,object,Broken head
-issues_data_df,data_name,object,CELESTE AGATE
-issues_data_df,data_nationality,object,MAR
+issues_data_df,data_name,object,IÑIGO
+issues_data_df,data_nationality,object,ESP
 issues_data_df,data_phone,object,689723994
-issues_data_df,data_status,object,retired
+issues_data_df,data_status,object,quarantine
 issues_data_df,data_statusNote,object,RT .55.10
-issues_data_df,data_surname,object,LOZANO GRIJOTA
+issues_data_df,data_surname,object,EXPOSITO MURILLO
 issues_data_df,data_team,object,CLUBE RAQUEL CABAÇO
-issues_data_df,data_user_id,object,923224
-issues_data_df,event_id,object,Maratón
-issues_data_df,issue_id,object,b9679bf0-eeae-11ef-8d6b-2d20f644acaf
-issues_data_df,race_id,object,af5c5746-04e8-42ab-9610-b12f0d9125b1
-issues_data_df,event_std,object,maraton
-issues_events_df,athlete_id,object,8250
+issues_data_df,data_user_id,object,786798
+issues_data_df,data_wave,object,Media Maratón
+issues_data_df,event_id,object,independiente
+issues_data_df,issue_id,object,14913170-70b3-11ed-b25a-add4d83290d4
+issues_data_df,race_id,object,7841bfc5-ffb6-4111-b0e4-01bfab9c336e
+issues_data_df,event_std,object,independiente
+issues_events_df,athlete_id,object,Y1D6D217
 issues_events_df,data_events_attributes_Andaluz,object,
 issues_events_df,data_events_attributes_Atletas con Discapacidad,object,
+issues_events_df,data_events_attributes_CAMPEONATO DE EUSKADI INDIVIDUAL,object,
 issues_events_df,data_events_attributes_Campionat Catalunya General,object,
 issues_events_df,data_events_attributes_Campionat Catalunya Master,object,
 issues_events_df,data_events_attributes_Clasif. Andaluzes,object,
@@ -121,41 +132,70 @@ issues_events_df,data_events_attributes_Discapacitado intelectual,object,
 issues_events_df,data_events_attributes_Discapacitado visual,object,
 issues_events_df,data_events_attributes_Elite,object,
 issues_events_df,data_events_attributes_Españoles,object,
+issues_events_df,data_events_attributes_Federación Vasca,object,
+issues_events_df,data_events_attributes_Población Donosti,object,
 issues_events_df,data_events_attributes_Sevillano,object,
 issues_events_df,data_events_attributes_Sillas,object,
 issues_events_df,data_events_auto_category,object,
 issues_events_df,data_events_auto_chip,object,
 issues_events_df,data_events_category,object,
 issues_events_df,data_events_dorsal,object,
-issues_events_df,data_events_gunTime,object,
+issues_events_df,data_events_event,object,
+issues_events_df,data_events_gunTime,object,2023-11-26T07:59:50.536Z
+issues_events_df,data_events_gunTimeMode,object,
 issues_events_df,data_events_gunTimeModeConfig_wave,object,
 issues_events_df,data_events_status,object,
-issues_events_df,data_events_team,object,CLUB MARATON BADAJOZ
+issues_events_df,data_events_team,object,
 issues_events_df,data_events_times_10K v4Con_time,object,
 issues_events_df,data_events_times_10K_time,object,
+issues_events_df,data_events_times_10k_time,object,
+issues_events_df,data_events_times_11K_time,object,
+issues_events_df,data_events_times_12k_time,object,
+issues_events_df,data_events_times_15K V3 2_time,object,
+issues_events_df,data_events_times_15K con bobina 2_time,object,
+issues_events_df,data_events_times_15K con bobina_time,object,
+issues_events_df,data_events_times_15K sin bobina 2_time,object,
+issues_events_df,data_events_times_15K sin bobina_time,object,
 issues_events_df,data_events_times_15K_time,object,
+issues_events_df,data_events_times_15k_time,object,
 issues_events_df,data_events_times_20K_time,object,
+issues_events_df,data_events_times_20k_time,object,
+issues_events_df,"data_events_times_21,8k_time",object,
+issues_events_df,data_events_times_21K_time,object,
+issues_events_df,data_events_times_23k_time,object,
 issues_events_df,data_events_times_25K_time,object,
+issues_events_df,data_events_times_25k_time,object,
+issues_events_df,data_events_times_28k_time,object,
 issues_events_df,data_events_times_30K_time,object,
+issues_events_df,data_events_times_30k_time,object,
 issues_events_df,data_events_times_35K_time,object,
+issues_events_df,data_events_times_35k_time,object,
 issues_events_df,data_events_times_40K_time,object,
+issues_events_df,data_events_times_40k_time,object,
+issues_events_df,data_events_times_41K_time,object,
+issues_events_df,data_events_times_42K_time,object,
+issues_events_df,"data_events_times_5,8K_time",object,
 issues_events_df,data_events_times_5K_time,object,
+issues_events_df,data_events_times_5k_time,object,
 issues_events_df,data_events_times_Asics 2_time,object,
 issues_events_df,data_events_times_Asics_time,object,
+issues_events_df,data_events_times_Giro 34k_time,object,
+issues_events_df,data_events_times_MM_time,object,
 issues_events_df,data_events_times_Media_time,object,
 issues_events_df,data_events_times_Meta_time,object,
 issues_events_df,data_events_times_PREMETA_time,object,
+issues_events_df,data_events_times_SALIDA_time,object,
 issues_events_df,data_events_times_Salida_time,object,
 issues_events_df,data_events_times_Spotter_time,object,
 issues_events_df,event_id,object,Maratón
-issues_events_df,issue_id,object,bbf0c190-eedf-11ef-aefd-4527d5007596
-issues_events_df,race_id,object,af5c5746-04e8-42ab-9610-b12f0d9125b1
+issues_events_df,issue_id,object,c7a80eb0-8c31-11ee-bd16-a7f8973cd243
+issues_events_df,race_id,object,27775308-36b8-49dd-9bb6-1c9b72e1159a
 issues_events_df,event_std,object,maraton
-issues_times_df,athlete_id,object,200
+issues_times_df,athlete_id,object,7672BF1Z
 issues_times_df,event_id,object,Maratón
-issues_times_df,issue_id,object,5fdb9f20-f20d-11ef-bb5c-bbb05237f114
-issues_times_df,race_id,object,af5c5746-04e8-42ab-9610-b12f0d9125b1
-issues_times_df,split,object,Salida
-issues_times_df,time,int64,10
+issues_times_df,issue_id,object,3b527e20-8c48-11ee-b875-1165c32c6066
+issues_times_df,race_id,object,27775308-36b8-49dd-9bb6-1c9b72e1159a
+issues_times_df,split,object,23k
+issues_times_df,time,int64,4942151
 issues_times_df,event_std,object,maraton
-issues_times_df,time_td,timedelta64[ns],0 days 00:00:00.010000
+issues_times_df,time_td,timedelta64[ns],0 days 01:22:22.151000
