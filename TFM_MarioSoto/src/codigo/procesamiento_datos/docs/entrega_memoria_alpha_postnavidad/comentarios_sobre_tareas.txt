@@ -1,0 +1,75 @@
+Gráficos:
+
+-              Mostrar boxplots de MAE relativo por decil de ritmo medio : Hecho
+
+-              Analizar por qué el MAE relativo para 20k es tan grande: Al cambiar la forma de hacer KNN y regresión desaparecio ese problema, voy a seguir investigando a ver si era una carrera especifica que he cambiado sin darme cuenta o algo parecido
+
+-              Dibujar [tiempos acumulados] vs [km] (tipo scatter) para los “cortes de PCA”. Sigo sin entender muy bien este gráfico, loo he hecho a mi forma, sin ser scatter
+
+-              Mostrar imágenes tSNE con diferentes parámetros (openTSNE). Hecho
+
+ 
+
+Outliers PCA (mahalanobis)
+
+-              Parece detectar atletas que “palman” en el caso PCA1vsPCA2: He estudiado los outliers que se detectaban con pca
+
+-              Ver dónde se mapean los outliers en los otros planos PCA. Hecho
+
+-              Dibujar [tiempos acumulados] vs [km] (tipo scatter) para outliers. hecho (a mi manera)
+
+ 
+
+Outliers HDBSCAN:
+
+-              dibujar los outliers también en el plano PCA2 vs PCA3: No he dibujado aún porque los resultados son extraños, si le pueden echar un vistazo lo agardeceria
+
+-              para dichos outliers, dibujar las curvas de tiempos acumulados vs km (scatter) para tratar de entender qué los diferencia del resto: Lo mismo que lo anterior
+
+ 
+
+Metodología:
+
+-              Recalcular métricas medias con 5-fold en lugar de un hold-out 20%. Hecho
+
+-              Priorizar métricas relativas. hecho
+
+ 
+
+Imputación: Hecho
+
+-              Ya se ha probado kNN
+
+-              La regresión (XGBoost/LightGBM) no mejora mucho
+
+-              Cuantificar mejora y ver gráfica comparativa MAE relativo
+
+-              Probar con más carreras (parece que mejora la regresión)
+
+o    Analizar performance para diferente número de carreras
+
+§  Para kNN
+
+§  Para XGBoost
+
+-              Más adelante:
+
+o   Probar entrenamiento incremental de modelos para no tener que reentrenar todo cada vez: Por hacer
+
+
+
+Predicción:
+
+     -        Pendiente establecer metodología. Por hacer
+
+
+
+imputacion por k vecinos, quieres 5 vecinos y lo representas. Hecho, pero no mostrado en el word
+ver donde se mapean los puntos outliers en otras representaciones de pca. hecho
+
+usar deciles en las representaciones boxplot. Hecho
+TFM borrador parseo + limpieza (Haciéndose) 
+
+
+- ### en todas las gráficas que se muestran tiempos por split, el split del medio y el de meta quedan raros porque la distancia del split es menor que en el resto. Creo que sería mejor normalizar todos los tiempos de split entre la distancia del split (5k en casi todos excepto estos dos). Así las gráficas serían más coherentes y no sé si los resultados pueden mejorar. Hecho, aunque normalizo por el error relativo, (real-imputado) / real
+- en la gráfica de los valores reales vs imputados (con knn) se observa que el error es mayor para los tiempos más altos. Estaría bien ver un histograma de los tiempos por split (de los reales y de los valores a imputar) para ver si ese error está relacionado con un menor número de muestras de valores parecidos a los que imputar. No entiendo muy bien esto, si me lo podrías explicar te lo agradecería. 
